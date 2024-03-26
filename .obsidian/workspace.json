@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "edc1746b4edf3a95",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3ffdd15de3b4132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d83fea3bc99ef7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Lectures/C_1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0c5ffa8aede0c5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "97228e7aa690a439",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "543d5b62b398f32b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85f38a7ac95d00fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "431aa9ea434816c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "b3306219a4917d59",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7afea62fcb191eeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "66a4384d154d2ed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dcfd07bf2f2b7d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "University/Lectures/C_1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "082b33580e812b9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "University/Lectures/C_1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "410ca652a55d1727",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "University/Lectures/C_1.md"
+              }
+            }
+          },
+          {
+            "id": "e6fd61bc66a8979b",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_f868aabba929",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 26,
+                    "month": 2,
+                    "year": 2024
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 445.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "9d83fea3bc99ef7e",
+  "lastOpenFiles": [
+    "University/Lectures/A_2.md",
+    "University/6th Semester - Algebra.md",
+    "University/6th Semester - Cybersecurity.md",
+    "University/6th Semester - Embedded Systems.md",
+    "University/6th Semester - Theoretical Informatics.md",
+    "English flashcards.md",
+    "TODO.md",
+    "University/Lectures/A_1.md",
+    "University/Lectures/T_4.md",
+    "University/Lectures/T_3.md",
+    "University/Lectures/T_2.md",
+    "University/Lectures/T_1.md",
+    "University/Lectures/E_4.md",
+    "University/Lectures/E_3.md",
+    "University/Lectures/E_2.md",
+    "University/Lectures/E_1.md",
+    "University/Lectures/C_4.md",
+    "University/Lectures/C_3.md",
+    "University/Lectures/C_2.md",
+    "University/Lectures/C_1.md",
+    "University/Lectures/A_4.md",
+    "University/Lectures/A_3.md",
+    "University/Lectures",
+    "University",
+    "pininfo.md",
+    "Lecture 1.md",
+    "2024-03-05.md",
+    "2024-03-06.md",
+    "test",
+    "Untitled 1"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": "#b000b5",
+    "recentlyUsedIcons": [
+      "RiTodoLine",
+      "RiEnglishInput",
+      "RiRestartLine",
+      "RiCpuLine",
+      "RiLockPasswordLine"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "University": "RiSchoolLine",
+  "University/Lectures": "RiPenNibLine",
+  "University/6th Semester - Algebra.md": "RiFunctions",
+  "University/6th Semester - Cybersecurity.md": "RiLockPasswordLine",
+  "University/6th Semester - Embedded Systems.md": "RiCpuLine",
+  "University/6th Semester - Theoretical Informatics.md": "RiRestartLine",
+  "English flashcards.md": "RiEnglishInput",
+  "TODO.md": "RiTodoLine"
+}

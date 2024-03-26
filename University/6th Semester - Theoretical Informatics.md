@@ -1,0 +1,8 @@
+#pwr #math 
+# Lectures
+[[T_1]]
+[[T_2]]
+[[T_3]]
+[[T_4]]
+# Links
+[labs_and_exercises](https://cs.pwr.edu.pl/gebala/dyd/tpi2024.html)
