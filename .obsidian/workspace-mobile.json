@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English flashcards.md",
-                "mode": "preview",
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd58dc6793f516cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rfid.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "English flashcards.md",
+            "file": "rfid.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "English flashcards.md",
+            "file": "rfid.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "English flashcards.md"
+            "file": "rfid.md"
           }
         }
       },
@@ -152,9 +165,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1b488931af221687",
+  "active": "fd58dc6793f516cd",
   "lastOpenFiles": [
+    "Definitions/nfc.md",
+    "rfid.md",
     "TODO.md",
+    "Images",
+    "Definitions",
+    "Images/IMG_20240307_174451.jpg",
+    "PathToCybersecurityExpert/NFC and RFID in terms of cybersecurity.md",
+    "PathToCybersecurityExpert",
+    "University/6th Semester - Theoretical Informatics.md",
+    "University/Lectures/Recap_of_algebra.md",
     "English flashcards.md",
     "/TODO.md"
   ]

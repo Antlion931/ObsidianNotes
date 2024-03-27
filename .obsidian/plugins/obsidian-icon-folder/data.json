@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#b000b5",
     "recentlyUsedIcons": [
-      "RiTodoLine",
-      "RiEnglishInput",
-      "RiRestartLine",
-      "RiCpuLine",
-      "RiLockPasswordLine"
+      "RiImageLine",
+      "RiDoubleQuotesR",
+      "RiCrosshair2Fill",
+      "RiCrosshairFill",
+      "RiWechat2Fill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,5 +34,8 @@
   "University/6th Semester - Embedded Systems.md": "RiCpuLine",
   "University/6th Semester - Theoretical Informatics.md": "RiRestartLine",
   "English flashcards.md": "RiEnglishInput",
-  "TODO.md": "RiTodoLine"
+  "TODO.md": "RiTodoLine",
+  "PathToCybersecurityExpert": "RiCrosshair2Fill",
+  "Definitions": "RiDoubleQuotesR",
+  "Images": "RiImageLine"
 }
