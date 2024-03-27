@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English flashcards.md",
+                "file": "University/6th Semester - Embedded Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English flashcards.md",
+                "file": "University/6th Semester - Embedded Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English flashcards.md",
+                "file": "University/6th Semester - Embedded Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English flashcards.md"
+                "file": "University/6th Semester - Embedded Systems.md"
               }
             }
           },
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 445.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,8 +170,8 @@
   },
   "active": "a6524fb06bdcb1c2",
   "lastOpenFiles": [
-    "University/6th Semester - Theoretical Informatics.md",
     "English flashcards.md",
+    "University/6th Semester - Theoretical Informatics.md",
     "TODO.md",
     "University/6th Semester - Embedded Systems.md",
     "University/6th Semester - Cybersecurity.md",
