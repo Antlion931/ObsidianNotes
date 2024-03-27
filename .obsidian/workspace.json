@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/6th Semester - Embedded Systems.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/6th Semester - Embedded Systems.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/6th Semester - Embedded Systems.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/6th Semester - Embedded Systems.md"
+                "file": "TODO.md"
               }
             }
           },
@@ -170,10 +170,10 @@
   },
   "active": "a6524fb06bdcb1c2",
   "lastOpenFiles": [
+    "University/6th Semester - Embedded Systems.md",
     "English flashcards.md",
     "University/6th Semester - Theoretical Informatics.md",
     "TODO.md",
-    "University/6th Semester - Embedded Systems.md",
     "University/6th Semester - Cybersecurity.md",
     "University/6th Semester - Algebra.md",
     "University/Lectures/Recap_of_algebra.md",

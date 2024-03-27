@@ -1,4 +1,4 @@
-zmiana na telefonie
+zmiana na laptopie 
 
 
 ```dataview
