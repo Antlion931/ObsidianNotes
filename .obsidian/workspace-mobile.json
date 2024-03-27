@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "TODO.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,5 +153,9 @@
     }
   },
   "active": "1b488931af221687",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "English flashcards.md",
+    "TODO.md",
+    "/TODO.md"
+  ]
 }
