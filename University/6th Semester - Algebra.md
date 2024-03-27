@@ -1,6 +1,6 @@
 #pwr #math
 # Lectures
-[[A_1]]
+[[Recap_of_algebra]]
 [[A_2]]
 [[A_3]]
 [[A_4]]

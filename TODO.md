@@ -1,5 +1,4 @@
 
-
 ```dataview
-list from #todo
+table from #todo
 ```
