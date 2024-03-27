@@ -25,14 +25,111 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rfid.md",
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "99c21cc0199bd4e1"
+          },
+          {
+            "id": "b847423fa870bcaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinuxConsole/Hashcat.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "9b319306e56ee300",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f09264f352b87e52",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "TODO.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "99c21cc0199bd4e1"
+          }
+        ]
+      },
+      {
+        "id": "1a0508b707ac6fa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2351fef7706369bc",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "TODO.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "99c21cc0199bd4e1"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +195,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "rfid.md",
+            "file": "LinuxConsole/Hashcat.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +212,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "rfid.md",
+            "file": "LinuxConsole/Hashcat.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +224,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "rfid.md"
+            "file": "LinuxConsole/Hashcat.md"
           }
         }
       },
@@ -165,15 +262,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fd58dc6793f516cd",
+  "active": "b847423fa870bcaf",
   "lastOpenFiles": [
-    "Definitions/nfc.md",
-    "rfid.md",
+    "PathToCybersecurityExpert/NFC and RFID in terms of cybersecurity.md",
     "TODO.md",
+    "LinuxConsole/Hashcat.md",
+    "Definitions/rfid.md",
+    "LinuxConsole",
+    "Definitions/nfc.md",
     "Images",
     "Definitions",
     "Images/IMG_20240307_174451.jpg",
-    "PathToCybersecurityExpert/NFC and RFID in terms of cybersecurity.md",
     "PathToCybersecurityExpert",
     "University/6th Semester - Theoretical Informatics.md",
     "University/Lectures/Recap_of_algebra.md",

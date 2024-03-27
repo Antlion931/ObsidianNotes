@@ -1,0 +1,1 @@
+#todo write what have you learned abput hashcat while doing exercises for University
