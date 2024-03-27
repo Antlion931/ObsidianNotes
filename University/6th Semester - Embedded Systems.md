@@ -4,5 +4,6 @@
 [[E_2]]
 [[E_3]]
 [[E_4]]
+[[Soft skills for engineers]]
 # Links
 [labs_and_exercises](https://cs.pwr.edu.pl/blaskiewicz/?id=embedded-2024)

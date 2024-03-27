@@ -185,3 +185,5 @@ taki że | such that
 przemienność | commutativity
 przemienny | commutative
 niezawodny | reliable
+serwisant | service technician
+
