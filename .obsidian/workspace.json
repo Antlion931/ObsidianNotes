@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Definitions/nfc.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Definitions/nfc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Definitions/nfc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Definitions/nfc.md"
               }
             }
           },
@@ -170,10 +170,20 @@
   },
   "active": "a6524fb06bdcb1c2",
   "lastOpenFiles": [
+    "TODO.md",
+    "LinuxConsole/Hashcat.md",
+    "LinuxConsole",
+    "Definitions/rfid.md",
+    "rfid.md",
+    "PathToCybersecurityExpert/NFC and RFID in terms of cybersecurity.md",
+    "PathToCybersecurityExpert",
+    "Images/IMG_20240307_174451.jpg",
+    "Images",
+    "Definitions/nfc.md",
+    "Definitions",
     "University/6th Semester - Embedded Systems.md",
     "English flashcards.md",
     "University/6th Semester - Theoretical Informatics.md",
-    "TODO.md",
     "University/6th Semester - Cybersecurity.md",
     "University/6th Semester - Algebra.md",
     "University/Lectures/Recap_of_algebra.md",
@@ -191,13 +201,8 @@
     "University/Lectures/E_1.md",
     "University/Lectures/C_3.md",
     "University/Lectures/C_2.md",
-    "University/Lectures/A_3.md",
     "University/Lectures",
     "University",
-    "pininfo.md",
-    "Lecture 1.md",
-    "2024-03-05.md",
-    "2024-03-06.md",
     "test",
     "Untitled 1"
   ]
