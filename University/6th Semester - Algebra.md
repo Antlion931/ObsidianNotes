@@ -1,4 +1,6 @@
 #pwr #math
+
+This course is about connection between geometry and algebra.
 # Lectures
 [[Recap_of_algebra]]
 [[A_2]]
