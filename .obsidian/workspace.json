@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cc4f3e053f8fba74",
+        "id": "4564de93816d5e1c",
         "type": "tabs",
         "children": [
           {
-            "id": "b1fbf4079fb05a57",
+            "id": "adb475dba53f79e1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Definitions/abelian group.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Definitions/abelian group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Definitions/abelian group.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Definitions/abelian group.md"
+              }
             }
           },
           {
@@ -160,12 +166,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b1fbf4079fb05a57",
+  "active": "adb475dba53f79e1",
   "lastOpenFiles": [
+    "Definitions/associative.md",
+    "Definitions/commutative.md",
     "Definitions/embedded system.md",
-    "TODO.md",
-    "Definitions/rfid.md",
+    "Definitions/group.md",
+    "Definitions/identity element.md",
+    "Definitions/inverse element.md",
+    "Definitions/abelian group.md",
     "Definitions/nfc.md",
+    "Definitions/rfid.md",
+    "Definitions/ring.md",
+    "University/Lectures/Recap_of_algebra.md",
+    "University/6th Semester - Algebra.md",
+    "TODO.md",
     "University/Lectures/What are embedded systems?.md",
     "English flashcards.md",
     "University/Lectures/Soft skills for engineers.md",
@@ -181,18 +196,9 @@
     "Definitions",
     "University/6th Semester - Theoretical Informatics.md",
     "University/6th Semester - Cybersecurity.md",
-    "University/6th Semester - Algebra.md",
-    "University/Lectures/Recap_of_algebra.md",
     "University/Lectures/C_4.md",
     "University/Lectures/A_4.md",
     "University/Lectures/C_1.md",
-    "University/Lectures/A_2.md",
-    "University/Lectures/T_4.md",
-    "University/Lectures/T_3.md",
-    "University/Lectures/T_2.md",
-    "University/Lectures/T_1.md",
-    "University/Lectures/E_4.md",
-    "University/Lectures/E_3.md",
     "University/Lectures",
     "University",
     "test",
