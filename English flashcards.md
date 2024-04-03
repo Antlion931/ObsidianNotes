@@ -1,4 +1,6 @@
 #English
+przenikać się | intermingle
+jednoznaczny | unambiguous
 marnotrawstwo | wasteful
 przybliża | approximate
 głupi | daft

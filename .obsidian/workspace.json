@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6524fb06bdcb1c2",
+            "id": "b3812620dcdaedf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English flashcards.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English flashcards.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English flashcards.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English flashcards.md"
+                "file": "TODO.md"
               }
             }
           },
@@ -149,13 +149,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 445.5,
-    "collapsed": true
+    "width": 445.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,15 +166,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a6524fb06bdcb1c2",
+  "active": "b3812620dcdaedf9",
   "lastOpenFiles": [
-    "University/6th Semester - Embedded Systems.md",
+    "Definitions/rfid.md",
+    "Definitions/nfc.md",
+    "Definitions/embedded system.md",
+    "University/Lectures/What are embedded systems?.md",
     "English flashcards.md",
     "University/Lectures/Soft skills for engineers.md",
-    "Definitions/rfid.md",
-    "rfid.md",
-    "Definitions/nfc.md",
+    "University/6th Semester - Embedded Systems.md",
+    "University/Lectures/About course.md",
     "TODO.md",
+    "rfid.md",
     "LinuxConsole/Hashcat.md",
     "LinuxConsole",
     "PathToCybersecurityExpert/NFC and RFID in terms of cybersecurity.md",
@@ -198,9 +199,6 @@
     "University/Lectures/T_1.md",
     "University/Lectures/E_4.md",
     "University/Lectures/E_3.md",
-    "University/Lectures/E_2.md",
-    "University/Lectures/E_1.md",
-    "University/Lectures/C_3.md",
     "University/Lectures",
     "University",
     "test",

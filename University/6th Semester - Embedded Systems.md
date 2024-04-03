@@ -1,7 +1,7 @@
 #pwr #embedded
 # Lectures
-[[E_1]]
-[[E_2]]
+[[About course]]
+[[What are embedded systems?]]
 [[E_3]]
 [[E_4]]
 [[Soft skills for engineers]]
