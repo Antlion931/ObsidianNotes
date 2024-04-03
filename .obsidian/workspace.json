@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "424f8ff8f2861e4c",
+        "id": "cc4f3e053f8fba74",
         "type": "tabs",
         "children": [
           {
-            "id": "b3812620dcdaedf9",
+            "id": "b1fbf4079fb05a57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.12"
               }
             }
           }
@@ -96,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TODO.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,17 +160,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b3812620dcdaedf9",
+  "active": "b1fbf4079fb05a57",
   "lastOpenFiles": [
+    "Definitions/embedded system.md",
+    "TODO.md",
     "Definitions/rfid.md",
     "Definitions/nfc.md",
-    "Definitions/embedded system.md",
     "University/Lectures/What are embedded systems?.md",
     "English flashcards.md",
     "University/Lectures/Soft skills for engineers.md",
     "University/6th Semester - Embedded Systems.md",
     "University/Lectures/About course.md",
-    "TODO.md",
     "rfid.md",
     "LinuxConsole/Hashcat.md",
     "LinuxConsole",
