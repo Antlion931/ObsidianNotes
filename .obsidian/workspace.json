@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8d25c19e737f5e97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Lectures/Soft skills for engineers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5,
-    "collapsed": true
+    "width": 426.5
   },
   "right": {
     "id": "7afea62fcb191eeb",
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Lectures/Soft skills for engineers.md",
+                "file": "English flashcards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Lectures/Soft skills for engineers.md",
+                "file": "English flashcards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Lectures/Soft skills for engineers.md"
+                "file": "English flashcards.md"
               }
             }
           },
@@ -182,13 +168,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8d25c19e737f5e97",
+  "active": "a6524fb06bdcb1c2",
   "lastOpenFiles": [
+    "University/6th Semester - Embedded Systems.md",
     "English flashcards.md",
     "University/Lectures/Soft skills for engineers.md",
     "Definitions/rfid.md",
     "rfid.md",
-    "University/6th Semester - Embedded Systems.md",
     "Definitions/nfc.md",
     "TODO.md",
     "LinuxConsole/Hashcat.md",

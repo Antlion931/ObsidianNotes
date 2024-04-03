@@ -160,11 +160,11 @@ przypis | footnote
 możliwość | possibility
 nieprzejrzysty | opaque
 arkusz kalkulacyjny | spreadsheet
-arytmetyczba | arithmetic
+arytmetyczna | arithmetic
 rozkład macierzy | matrix decomposition
 warianty | variants
 stosunek A do B | ratio of A to B
-błąd średniokwadratowy | root mean squared error
+błąd średnio kwadratowy | root mean squared error
 bezpiecznie | safely
 będzie mniej błędów | there will be fewer errors
 brać pod uwagę | consider
