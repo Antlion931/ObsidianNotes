@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Definitions/embedded system.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,7 +195,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "TODO.md",
+            "file": "Definitions/embedded system.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "TODO.md",
+            "file": "Definitions/embedded system.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -224,7 +224,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "TODO.md"
+            "file": "Definitions/embedded system.md"
           }
         }
       },
@@ -264,10 +264,20 @@
   },
   "active": "b847423fa870bcaf",
   "lastOpenFiles": [
+    "TODO.md",
+    "/University/Lectures",
+    "University/Lectures/Soft skills for engineers.md",
+    "University/Lectures/About course.md",
+    "Definitions/embedded system.md",
+    "/University/Lectures/Soft skills for engineers.md",
+    "/University/Lectures/About course.md",
+    "/University/6th Semester - Embedded Systems.md",
+    "/TODO.md",
+    "/English flashcards.md",
+    "/Definitions/embedded system.md",
     "Definitions/rfid.md",
     "LinuxConsole/Hashcat.md",
     "PathToCybersecurityExpert/NFC and RFID in terms of cybersecurity.md",
-    "TODO.md",
     "LinuxConsole",
     "Definitions/nfc.md",
     "Images",
@@ -276,7 +286,6 @@
     "PathToCybersecurityExpert",
     "University/6th Semester - Theoretical Informatics.md",
     "University/Lectures/Recap_of_algebra.md",
-    "English flashcards.md",
-    "/TODO.md"
+    "English flashcards.md"
   ]
 }
