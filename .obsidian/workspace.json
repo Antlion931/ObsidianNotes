@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "adb475dba53f79e1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/SPI_types.jpeg"
-              }
-            }
-          },
-          {
-            "id": "3c5ba740062cfef5",
+            "id": "6ebe99b521cd0942",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/nfc.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/SPI_types.jpeg",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/SPI_types.jpeg",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/SPI_types.jpeg"
+                "file": "TODO.md"
               }
             }
           },
@@ -176,41 +166,42 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "adb475dba53f79e1",
+  "active": "6ebe99b521cd0942",
   "lastOpenFiles": [
+    "University/Lectures/About Post's Problem.md",
+    "TODO.md",
+    "Definitions/OGRANICZONY Post's problem.md",
+    "University/6th Semester - Theoretical Informatics.md",
+    "Untitled.canvas",
+    "University/6th Semester - Embedded Systems.md",
+    "University/6th Semester - Cybersecurity.md",
+    "University/6th Semester - Algebra.md",
+    "English flashcards.md",
+    "Definitions/rfid.md",
+    "LinuxConsole/Hashcat.md",
+    "University/Lectures/What are embedded systems?.md",
+    "University/Lectures/Recap_of_algebra.md",
+    "PathToCybersecurityExpert/NFC and RFID in terms of cybersecurity.md",
+    "University/Lectures/Communication.md",
+    "Definitions/embedded system.md",
+    "Definitions/Post's problem.md",
+    "Images/SPI_types.jpeg",
     "Images/SPI_image.png",
     "Images/SPI_data_reading.png",
     "Images/nfc_found_in_gym.jpg",
-    "University/Lectures/Communication.md",
-    "Images/SPI_types.jpeg",
     "Definitions/nfc.md",
-    "University/Lectures/Recap_of_algebra.md",
-    "PathToCybersecurityExpert/NFC and RFID in terms of cybersecurity.md",
     "University/Lectures/About course.md",
-    "University/6th Semester - Embedded Systems.md",
     "Definitions/abelian group.md",
     "Definitions/associative.md",
     "Definitions/commutative.md",
-    "Definitions/embedded system.md",
     "Definitions/group.md",
     "Definitions/identity element.md",
     "Definitions/inverse element.md",
-    "Definitions/rfid.md",
     "Definitions/ring.md",
-    "University/6th Semester - Algebra.md",
-    "TODO.md",
-    "University/Lectures/What are embedded systems?.md",
-    "English flashcards.md",
-    "University/Lectures/Soft skills for engineers.md",
-    "rfid.md",
-    "LinuxConsole/Hashcat.md",
     "LinuxConsole",
     "PathToCybersecurityExpert",
     "Images",
     "Definitions",
-    "University/6th Semester - Theoretical Informatics.md",
-    "University/6th Semester - Cybersecurity.md",
-    "University/Lectures/C_4.md",
     "University/Lectures",
     "University",
     "test",

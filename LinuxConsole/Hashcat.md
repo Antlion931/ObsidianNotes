@@ -1,1 +1,1 @@
-#todo write what have you learned abput hashcat while doing exercises for University
+- [ ] #todo write what have you learned about hashcat while doing exercises for University

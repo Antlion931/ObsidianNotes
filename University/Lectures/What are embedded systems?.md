@@ -3,4 +3,4 @@
 
 ![[embedded system]]
 
-#todo Write characteristic and requirements of embedded systems.
+- [ ] #todo Write characteristic and requirements of embedded systems.

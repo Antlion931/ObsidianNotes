@@ -1,4 +1,10 @@
+## Things to work on
 
 ```dataview
-table from #todo
+task from #todo 
+```
+## Translations to make
+
+```dataview
+task from !# where contains(, "a")
 ```

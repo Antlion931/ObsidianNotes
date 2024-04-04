@@ -24,8 +24,8 @@ CPOL say wheres idle state of clock is high or low, CPHA says if change should h
 ## Modifications
 - master can communicate with only 4 bands, to a lot of slave, when slaves are addressed and firstly we send address of slave we want to interact with.
 - We can separate them
-#todo add 2 more from presentation
+- [ ] #todo add 2 more from presentation about Communication between embedded systems
 # One-wire Protocol
 It is two-way, half duplex, protocol. There are 2 lines, GND and DATA, so there is only one data that sends information. It is also master-slave
 
-#todo Write about one-wire protocol
+- [ ] #todo Write about one-wire protocol
