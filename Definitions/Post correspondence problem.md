@@ -1,8 +1,10 @@
-We have alphabet $\Sigma$ and two chain of words from that alphabet with the same length.
+#math 
+
+We have alphabet $\Sigma$ and two sequence of words from that alphabet with the same length.
 
 $A = \{a_1, a_2, ..., a_k\}$ and $B = \{b_1, b_2, ..., b_k\}$
 
-The question is, if there exist chain $(i_1, i_2, ..., i_k)$ such that
+The question is, if there exist sequence $(i_1, i_2, ..., i_k)$ such that
 
 $a_{i_1}a_{i_2}...a_{i_k} = b_{i_1}b_{i_2}...b_{i_k}$
 

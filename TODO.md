@@ -1,10 +1,10 @@
 ## Things to work on
 
 ```dataview
-task from #todo 
+TASK WHERE contains(tags, "#todo") GROUP BY file.link
 ```
 ## Translations to make
 
 ```dataview
-task from !# where contains(, "a")
+TASK WHERE contains(tags, "#translateLater") GROUP BY file.link
 ```

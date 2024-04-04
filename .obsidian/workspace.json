@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "University/Lectures/E_3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ae03396e1e325c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/6th Semester - Algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "772d341b30bba3bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "chain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,38 +191,39 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6ebe99b521cd0942",
+  "active": "772d341b30bba3bf",
   "lastOpenFiles": [
-    "University/Lectures/About Post's Problem.md",
-    "TODO.md",
-    "Definitions/OGRANICZONY Post's problem.md",
-    "University/6th Semester - Theoretical Informatics.md",
-    "Untitled.canvas",
-    "University/6th Semester - Embedded Systems.md",
-    "University/6th Semester - Cybersecurity.md",
-    "University/6th Semester - Algebra.md",
-    "English flashcards.md",
+    "Definitions/ring.md",
     "Definitions/rfid.md",
-    "LinuxConsole/Hashcat.md",
-    "University/Lectures/What are embedded systems?.md",
-    "University/Lectures/Recap_of_algebra.md",
-    "PathToCybersecurityExpert/NFC and RFID in terms of cybersecurity.md",
-    "University/Lectures/Communication.md",
+    "Definitions/restricted Post correspondence problem.md",
+    "Definitions/Post correspondence problem.md",
+    "University/6th Semester - Theoretical Informatics.md",
+    "Definitions/nfc.md",
+    "Definitions/inverse element.md",
+    "Definitions/identity element.md",
+    "Definitions/group.md",
     "Definitions/embedded system.md",
-    "Definitions/Post's problem.md",
+    "Definitions/commutative.md",
+    "Definitions/associative.md",
+    "Definitions/abelian group.md",
+    "University/Lectures/Recap_of_algebra.md",
+    "University/6th Semester - Algebra.md",
+    "University/6th Semester - Cybersecurity.md",
+    "University/6th Semester - Embedded Systems.md",
+    "University/Lectures/Polynomials algorithms.md",
+    "University/Lectures/T_4.md",
+    "University/Lectures/T_3.md",
+    "University/Lectures/T_2.md",
+    "University/Lectures/T_1.md",
+    "University/Lectures/E_4.md",
+    "University/Lectures/E_3.md",
+    "University/Lectures/C_4.md",
+    "University/Lectures/C_3.md",
+    "Untitled.canvas",
     "Images/SPI_types.jpeg",
     "Images/SPI_image.png",
     "Images/SPI_data_reading.png",
     "Images/nfc_found_in_gym.jpg",
-    "Definitions/nfc.md",
-    "University/Lectures/About course.md",
-    "Definitions/abelian group.md",
-    "Definitions/associative.md",
-    "Definitions/commutative.md",
-    "Definitions/group.md",
-    "Definitions/identity element.md",
-    "Definitions/inverse element.md",
-    "Definitions/ring.md",
     "LinuxConsole",
     "PathToCybersecurityExpert",
     "Images",
