@@ -11,8 +11,22 @@
             "id": "adb475dba53f79e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Images/SPI_types.jpeg"
+              }
+            }
+          },
+          {
+            "id": "3c5ba740062cfef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/nfc.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Images/SPI_types.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Images/SPI_types.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Images/SPI_types.jpeg"
+              }
             }
           },
           {
@@ -160,6 +178,16 @@
   },
   "active": "adb475dba53f79e1",
   "lastOpenFiles": [
+    "Images/SPI_image.png",
+    "Images/SPI_data_reading.png",
+    "Images/nfc_found_in_gym.jpg",
+    "University/Lectures/Communication.md",
+    "Images/SPI_types.jpeg",
+    "Definitions/nfc.md",
+    "University/Lectures/Recap_of_algebra.md",
+    "PathToCybersecurityExpert/NFC and RFID in terms of cybersecurity.md",
+    "University/Lectures/About course.md",
+    "University/6th Semester - Embedded Systems.md",
     "Definitions/abelian group.md",
     "Definitions/associative.md",
     "Definitions/commutative.md",
@@ -167,30 +195,22 @@
     "Definitions/group.md",
     "Definitions/identity element.md",
     "Definitions/inverse element.md",
-    "Definitions/nfc.md",
     "Definitions/rfid.md",
     "Definitions/ring.md",
-    "University/Lectures/Recap_of_algebra.md",
     "University/6th Semester - Algebra.md",
     "TODO.md",
     "University/Lectures/What are embedded systems?.md",
     "English flashcards.md",
     "University/Lectures/Soft skills for engineers.md",
-    "University/6th Semester - Embedded Systems.md",
-    "University/Lectures/About course.md",
     "rfid.md",
     "LinuxConsole/Hashcat.md",
     "LinuxConsole",
-    "PathToCybersecurityExpert/NFC and RFID in terms of cybersecurity.md",
     "PathToCybersecurityExpert",
-    "Images/IMG_20240307_174451.jpg",
     "Images",
     "Definitions",
     "University/6th Semester - Theoretical Informatics.md",
     "University/6th Semester - Cybersecurity.md",
     "University/Lectures/C_4.md",
-    "University/Lectures/A_4.md",
-    "University/Lectures/C_1.md",
     "University/Lectures",
     "University",
     "test",
