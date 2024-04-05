@@ -1,4 +1,5 @@
 #English
+schemat | pattern
 przekształcenie | transformation
 ciąg | sequence
 ograniczony | restricted

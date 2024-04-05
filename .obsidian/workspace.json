@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "LinuxConsole/Hashcat.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "LinuxConsole/Hashcat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "LinuxConsole/Hashcat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "LinuxConsole/Hashcat.md"
               }
             }
           },
@@ -193,6 +193,9 @@
   },
   "active": "772d341b30bba3bf",
   "lastOpenFiles": [
+    "English flashcards.md",
+    "LinuxConsole/Hashcat.md",
+    "TODO.md",
     "Definitions/ring.md",
     "Definitions/rfid.md",
     "Definitions/restricted Post correspondence problem.md",
@@ -216,9 +219,6 @@
     "University/Lectures/T_2.md",
     "University/Lectures/T_1.md",
     "University/Lectures/E_4.md",
-    "University/Lectures/E_3.md",
-    "University/Lectures/C_4.md",
-    "University/Lectures/C_3.md",
     "Untitled.canvas",
     "Images/SPI_types.jpeg",
     "Images/SPI_image.png",
