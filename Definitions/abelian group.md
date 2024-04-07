@@ -1,3 +1,5 @@
+#math 
+
 Also called **commutative group**, is a [[group]] $(X, +)$ where:
 1. $+$ is [[commutative]].
 2. $+$ is [[associative]].

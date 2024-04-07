@@ -38,14 +38,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/embedded system.md",
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a939d24ece015576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Lectures/C_1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "9b319306e56ee300",
@@ -195,7 +207,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Definitions/embedded system.md",
+            "file": "University/Lectures/C_1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -212,7 +224,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Definitions/embedded system.md",
+            "file": "University/Lectures/C_1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -224,7 +236,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Definitions/embedded system.md"
+            "file": "University/Lectures/C_1.md"
           }
         }
       },
@@ -262,30 +274,43 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b847423fa870bcaf",
+  "active": "a939d24ece015576",
   "lastOpenFiles": [
     "TODO.md",
-    "/University/Lectures",
-    "University/Lectures/Soft skills for engineers.md",
-    "University/Lectures/About course.md",
-    "Definitions/embedded system.md",
-    "/University/Lectures/Soft skills for engineers.md",
-    "/University/Lectures/About course.md",
-    "/University/6th Semester - Embedded Systems.md",
-    "/TODO.md",
-    "/English flashcards.md",
+    "English flashcards.md",
+    "conflict-files-obsidian-git.md",
+    "Definitions/abelian group.md",
+    "University/Lectures/Polynomials algorithms.md",
+    "University/Lectures/Communication.md",
+    "University/Lectures/About Post correspondence problem.md",
+    "Images/nfc_found_in_gym.jpg",
+    "Images/SPI_types.jpeg",
+    "Images/SPI_image.png",
+    "Images/SPI_data_reading.png",
+    "Definitions/restricted Post correspondence problem.md",
+    "Definitions/Post correspondence problem.md",
+    "/University/Lectures/Recap_of_algebra.md",
+    "Definitions/ring.md",
+    "Definitions/inverse element.md",
+    "Definitions/identity element.md",
+    "Definitions/group.md",
+    "Definitions/commutative.md",
+    "Definitions/associative.md",
+    "/University/6th Semester - Algebra.md",
+    "/Definitions/ring.md",
+    "/Definitions/inverse element.md",
+    "/Definitions/identity element.md",
+    "/Definitions/group.md",
     "/Definitions/embedded system.md",
-    "Definitions/rfid.md",
-    "LinuxConsole/Hashcat.md",
-    "PathToCybersecurityExpert/NFC and RFID in terms of cybersecurity.md",
+    "/Definitions/commutative.md",
+    "/Definitions/associative.md",
+    "/Definitions/abelian group.md",
+    "Definitions/embedded system.md",
+    "/University/Lectures",
     "LinuxConsole",
-    "Definitions/nfc.md",
     "Images",
     "Definitions",
     "Images/IMG_20240307_174451.jpg",
-    "PathToCybersecurityExpert",
-    "University/6th Semester - Theoretical Informatics.md",
-    "University/Lectures/Recap_of_algebra.md",
-    "English flashcards.md"
+    "PathToCybersecurityExpert"
   ]
 }

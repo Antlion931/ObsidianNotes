@@ -1,2 +1,2 @@
 #cybersecurity 
-#todo write what have you learned, and what attack i have tried
+- [ ] #todo write what have you learned, and what attack i have tried about NFC

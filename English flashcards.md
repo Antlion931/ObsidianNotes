@@ -1,4 +1,9 @@
 #English
+schemat | pattern
+przekształcenie | transformation
+ciąg | sequence
+ograniczony | restricted
+odpowiedniości | correspondence
 przenikać się | intermingle
 jednoznaczny | unambiguous
 marnotrawstwo | wasteful

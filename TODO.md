@@ -1,4 +1,11 @@
 
+## Things to work on
+
 ```dataview
-table from #todo
+TASK WHERE contains(tags, "#todo") GROUP BY file.link
+```
+## Translations to make
+
+```dataview
+TASK WHERE contains(tags, "#translateLater") GROUP BY file.link
 ```
