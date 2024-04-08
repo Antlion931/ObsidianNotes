@@ -1,4 +1,4 @@
-#embedded 
+#embedded #pwr
 
 # Lectures
 During lectures we will answer questions like, why, what and how in the world of embedded systems. We will talk about components, communication between them and how to organise work with them.

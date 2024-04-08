@@ -1,12 +1,12 @@
 ---
-Daily Notes: false
+Daily notes: false
 Workout: false
 English: 0
 Algebra: 0
 Cybersecurity: 0
-Embedded Systems: 0
-Theoretical Informatics: 0
-Programming Challenges: 0
+Embedded systems: 0
+Theoretical informatics: 0
+Programming challenges: 0
 Path to cybersecurity expert: 0
 ---
 

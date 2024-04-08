@@ -1,4 +1,4 @@
-#pwr #math
+#pwr #math #algebra 
 
 This course is about connection between geometry and algebra.
 # Lectures

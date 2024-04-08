@@ -31,14 +31,14 @@
   "University/Lectures": "RiPenNibLine",
   "University/6th Semester - Algebra.md": "RiFunctions",
   "University/6th Semester - Cybersecurity.md": "RiLockPasswordLine",
-  "University/6th Semester - Embedded Systems.md": "RiCpuLine",
-  "University/6th Semester - Theoretical Informatics.md": "RiRestartLine",
   "English flashcards.md": "RiEnglishInput",
-  "PathToCybersecurityExpert": "RiCrosshair2Fill",
   "Definitions": "RiDoubleQuotesR",
   "Images": "RiImageLine",
-  "LinuxConsole": "RiTerminalLine",
-  "Programming Challenges": "RiBarChartHorizontalLine",
   "Discipline.md": "RiTodoLine",
-  "Daily notes": "RiCalendarScheduleLine"
+  "Daily notes": "RiCalendarScheduleLine",
+  "Linux console": "RiTerminalLine",
+  "Path to cybersecurity expert": "RiCrosshair2Fill",
+  "Programming challenges": "RiBarChartHorizontalLine",
+  "University/6th Semester - Embedded systems.md": "RiCpuLine",
+  "University/6th Semester - Theoretical informatics.md": "RiRestartLine"
 }

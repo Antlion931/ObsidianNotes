@@ -1,4 +1,4 @@
-#math 
+#math #algebra
 
 $R = (X, +, *)$ is a ring when:
 1. $(X, +)$ is [[abelian group]].

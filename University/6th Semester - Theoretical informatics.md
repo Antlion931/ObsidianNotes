@@ -1,4 +1,4 @@
-#pwr #math 
+#pwr #math #theoreticalInformatics 
 # Lectures
 [[T_1]]
 [[T_2]]

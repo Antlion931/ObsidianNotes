@@ -1,4 +1,4 @@
-#embedded 
+#embedded #pwr 
 # SPI Protocol
 - SCLK/SLK - clock band
 - MOSI - master output, slave input

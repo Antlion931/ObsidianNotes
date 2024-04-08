@@ -1,4 +1,4 @@
-#math 
+#math #algebra 
 
 Also called **commutative group**, is a [[group]] $(X, +)$ where:
 1. $+$ is [[commutative]].

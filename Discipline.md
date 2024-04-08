@@ -1,15 +1,212 @@
-## Path to cybersecurity expert
+# Daily notes
+
 ```dataviewjs
-dv.span("** 😊 Title 😥**") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */ const calendarData = { year: 2022, // (optional) defaults to current year colors: { // (optional) defaults to green blue: ["#8cb9ff", "#69a3ff", "#428bff", "#1872ff", "#0058e2"], // first entry is considered default if supplied green: ["#c6e48b", "#7bc96f", "#49af5d", "#2e8840", "#196127"], red: ["#ff9e82", "#ff7b55", "#ff4d1a", "#e73400", "#bd2a00"], orange: ["#ffa244", "#fd7f00", "#dd6f00", "#bf6000", "#9b4e00"], pink: ["#ff96cb", "#ff70b8", "#ff3a9d", "#ee0077", "#c30062"], orangeToRed: ["#ffdf04", "#ffbe04", "#ff9a03", "#ff6d02", "#ff2c01"] }, showCurrentDayBorder: true, // (optional) defaults to true defaultEntryIntensity: 4, // (optional) defaults to 4 intensityScaleStart: 10, // (optional) defaults to lowest value passed to entries.intensity intensityScaleEnd: 100, // (optional) defaults to highest value passed to entries.intensity entries: [], // (required) populated in the DataviewJS loop below } //DataviewJS loop for (let page of dv.pages('"daily notes"').where(p => p.exercise)) { //dv.span("<br>" + page.file.name) // uncomment for troubleshooting calendarData.entries.push({ date: page.file.name, // (required) Format YYYY-MM-DD intensity: page.exercise, // (required) the data you want to track, will map color intensities automatically content: "🏋️", // (optional) Add text to the date cell color: "orange", // (optional) Reference from *calendarData.colors*. If no color is supplied; colors[0] is used }) } renderHeatmapCalendar(this.container, calendarData) 
+const calendarData = {
+colors: {
+red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
+},
+entries: []
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>p["Daily notes"])){
+calendarData.entries.push({
+date: page.file.name,
+intensity: page.Exercise,
+content: await dv.span(`[](${page.file.name})`), //for hover preview
+})
+
+}
+
+renderHeatmapCalendar(this.container, calendarData)
+
+```
+# Workout
+
+```dataviewjs
+const calendarData = {
+colors: {
+red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
+},
+entries: []
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>p["Workout"])){
+calendarData.entries.push({
+date: page.file.name,
+intensity: page.Exercise,
+content: await dv.span(`[](${page.file.name})`), //for hover preview
+})
+
+}
+
+renderHeatmapCalendar(this.container, calendarData)
+
 ```
 
-## Things to work on
+# English
 
-```dataview
-TASK WHERE contains(tags, "#todo") GROUP BY file.link
+```dataviewjs
+const calendarData = {
+colors: {
+red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
+},
+entries: []
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>p["English"])){
+calendarData.entries.push({
+date: page.file.name,
+intensity: page.Exercise,
+content: await dv.span(`[](${page.file.name})`), //for hover preview
+})
+
+}
+
+renderHeatmapCalendar(this.container, calendarData)
+
 ```
-## Translations to make
+
+#### Translations to make
 
 ```dataview
 TASK WHERE contains(tags, "#translateLater") GROUP BY file.link
+```
+
+# Path to cybersecuirty expert
+
+```dataviewjs
+const calendarData = {
+colors: {
+red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
+},
+entries: []
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>p["Path to cybersecurity expert"])){
+calendarData.entries.push({
+date: page.file.name,
+intensity: page.Exercise,
+content: await dv.span(`[](${page.file.name})`), //for hover preview
+})
+
+}
+
+renderHeatmapCalendar(this.container, calendarData)
+```
+
+#### Things to work on
+
+```dataview
+TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#cybersecurity") GROUP BY file.link
+```
+
+# Algebra
+
+```dataviewjs
+const calendarData = {
+colors: {
+red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
+},
+entries: []
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>p["Algebra"])){
+calendarData.entries.push({
+date: page.file.name,
+intensity: page.Exercise,
+content: await dv.span(`[](${page.file.name})`), //for hover preview
+})
+
+}
+
+renderHeatmapCalendar(this.container, calendarData)
+```
+
+#### Things to work on
+
+```dataview
+TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#algebra") AND contains(file.tags, "#pwr") GROUP BY file.link
+```
+# Cybersecurity
+
+```dataviewjs
+const calendarData = {
+colors: {
+red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
+},
+entries: []
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>p["Cybersecurity"])){
+calendarData.entries.push({
+date: page.file.name,
+intensity: page.Exercise,
+content: await dv.span(`[](${page.file.name})`), //for hover preview
+})
+
+}
+
+renderHeatmapCalendar(this.container, calendarData)
+```
+
+#### Things to work on
+
+```dataview
+TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#cybersecurity") AND contains(file.tags, "#pwr") GROUP BY file.link
+```
+# Embedded systems
+
+```dataviewjs
+
+const calendarData = {
+colors: {
+red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
+},
+entries: []
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>p["Embedded system"])){
+calendarData.entries.push({
+date: page.file.name,
+intensity: page.Exercise,
+content: await dv.span(`[](${page.file.name})`), //for hover preview
+})
+
+}
+
+renderHeatmapCalendar(this.container, calendarData)
+```
+
+#### Things to work on
+
+```dataview
+TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#embedded") AND contains(file.tags, "#pwr") GROUP BY file.link
+```
+# Theoretical informatics
+
+```dataviewjs
+
+const calendarData = {
+colors: {
+red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
+},
+entries: []
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>p["Theoretical informatics"])){
+calendarData.entries.push({
+date: page.file.name,
+intensity: page.Exercise,
+content: await dv.span(`[](${page.file.name})`), //for hover preview
+})
+
+}
+
+renderHeatmapCalendar(this.container, calendarData)
+```
+
+#### Things to work on
+
+```dataview
+TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#theoreticalInformatics") AND contains(file.tags, "#pwr") GROUP BY file.link
 ```

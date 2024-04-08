@@ -1,4 +1,4 @@
-#cybersecurity 
+#cybersecurity #pwr 
 
 [[Hashcat]] is a command line tool used to break hashed passwords.
 ## Examples
