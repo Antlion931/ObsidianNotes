@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#b000b5",
     "recentlyUsedIcons": [
+      "RiCalendarScheduleLine",
       "RiBarChartHorizontalLine",
       "RiTerminalLine",
       "RiImageLine",
-      "RiDoubleQuotesR",
-      "RiCrosshair2Fill"
+      "RiDoubleQuotesR"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,10 +34,11 @@
   "University/6th Semester - Embedded Systems.md": "RiCpuLine",
   "University/6th Semester - Theoretical Informatics.md": "RiRestartLine",
   "English flashcards.md": "RiEnglishInput",
-  "TODO.md": "RiTodoLine",
   "PathToCybersecurityExpert": "RiCrosshair2Fill",
   "Definitions": "RiDoubleQuotesR",
   "Images": "RiImageLine",
   "LinuxConsole": "RiTerminalLine",
-  "Programming Challenges": "RiBarChartHorizontalLine"
+  "Programming Challenges": "RiBarChartHorizontalLine",
+  "Discipline.md": "RiTodoLine",
+  "Daily notes": "RiCalendarScheduleLine"
 }

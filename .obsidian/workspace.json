@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Discipline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7e77168c3cf8546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2024-04-08.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5,
-    "collapsed": true
+    "width": 426.5
   },
   "right": {
     "id": "7afea62fcb191eeb",
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Daily notes/2024-04-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Daily notes/2024-04-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Daily notes/2024-04-08.md"
               }
             }
           },
@@ -152,17 +164,22 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e6fd61bc66a8979b",
+  "active": "e7e77168c3cf8546",
   "lastOpenFiles": [
+    "Daily notes/dailyNotesTemplate.md",
+    "Daily notes/2024-04-08.md",
+    "Discipline.md",
+    "2024-04-08.md",
+    "Daily notes",
     "English flashcards.md",
     "Programming Challenges/Programming Challenges.md",
     "Programming Challenges/10. TODO list web application.md",
     "Images/programming-challenges-v4.0.png",
     "University/6th Semester - Algebra.md",
-    "TODO.md",
     "Programming Challenges",
     "University/6th Semester - Cybersecurity.md",
     "University/Lectures/E_3.md",
@@ -182,9 +199,6 @@
     "Definitions/abelian group.md",
     "University/Lectures/Recap_of_algebra.md",
     "University/6th Semester - Embedded Systems.md",
-    "University/Lectures/Polynomials algorithms.md",
-    "University/Lectures/T_4.md",
-    "University/Lectures/T_3.md",
     "Untitled.canvas",
     "Images/SPI_types.jpeg",
     "Images/SPI_image.png",
