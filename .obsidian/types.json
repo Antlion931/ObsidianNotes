@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "test": "number",
+    "Programming Challenges": "number",
+    "Workout": "checkbox",
+    "Algebra": "number",
+    "Cybersecurity": "number",
+    "Embedded Systems": "number",
+    "Theoretical Informatics": "number"
+  }
+}

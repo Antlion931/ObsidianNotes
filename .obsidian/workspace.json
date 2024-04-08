@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discipline.md",
+                "file": "Daily notes/2024-04-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-04-08.md",
-                "mode": "source",
+                "file": "University/6th Semester - Algebra.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,18 +167,18 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e7e77168c3cf8546",
+  "active": "2d92bb273135a8c8",
   "lastOpenFiles": [
     "Daily notes/dailyNotesTemplate.md",
     "Daily notes/2024-04-08.md",
     "Discipline.md",
+    "University/6th Semester - Algebra.md",
     "2024-04-08.md",
     "Daily notes",
     "English flashcards.md",
     "Programming Challenges/Programming Challenges.md",
     "Programming Challenges/10. TODO list web application.md",
     "Images/programming-challenges-v4.0.png",
-    "University/6th Semester - Algebra.md",
     "Programming Challenges",
     "University/6th Semester - Cybersecurity.md",
     "University/Lectures/E_3.md",

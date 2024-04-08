@@ -3,5 +3,6 @@
   "vimMode": true,
   "autoPairMarkdown": false,
   "autoPairBrackets": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "source"
 }
