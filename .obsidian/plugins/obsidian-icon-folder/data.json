@@ -34,12 +34,12 @@
   "English flashcards.md": "RiEnglishInput",
   "Definitions": "RiDoubleQuotesR",
   "Images": "RiImageLine",
-  "Discipline.md": "RiTodoLine",
   "Daily notes": "RiCalendarScheduleLine",
   "Linux console": "RiTerminalLine",
   "Path to cybersecurity expert": "RiCrosshair2Fill",
   "Programming challenges": "RiBarChartHorizontalLine",
   "University/6th Semester - Embedded systems.md": "RiCpuLine",
   "University/6th Semester - Theoretical informatics.md": "RiRestartLine",
-  "Books": "RiBookFill"
+  "Books": "RiBookFill",
+  "TODO.md": "RiTodoLine"
 }

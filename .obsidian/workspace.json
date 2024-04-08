@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "58151eb4f9b714ae",
+        "id": "494c93b651aa450e",
         "type": "tabs",
         "children": [
           {
-            "id": "9289d1de3d458f2f",
+            "id": "53937d314c556c8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discipline.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,64 +85,10 @@
   "right": {
     "id": "7afea62fcb191eeb",
     "type": "split",
-    "children": [
-      {
-        "id": "66a4384d154d2ed7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0dcfd07bf2f2b7d8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Discipline.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "082b33580e812b9b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Discipline.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "410ca652a55d1727",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Discipline.md"
-              }
-            }
-          },
-          {
-            "id": "e6fd61bc66a8979b",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 445.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,13 +101,24 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "9289d1de3d458f2f",
+  "active": "53937d314c556c8d",
   "lastOpenFiles": [
-    "English flashcards.md",
-    "Books",
+    "Definitions/nfc.md",
+    "TODO.md",
     "Daily notes/2024-04-08.md",
+    "Definitions/rfid.md",
+    "English flashcards.md",
+    "Images/rfid_recivers_and_transmiters.jpg",
+    "Images/1_bit_transponder.jpg",
+    "Images/rfid_warning_in_the_locker_room.jpg",
+    "Images/rfid_change_in_field.png",
+    "Images/Zrzut ekranu z 2024-04-08 21-15-11.png",
+    "Images/rfid_1_bit_transponder.png",
+    "Books/PL Gynvael Coldwind - Zrozumieć Programowanie.md",
+    "Books/PL Gynvael Coldwin - Zrozumieć Programowanie/Untitled.md",
+    "Books/PL Gynvael Coldwin - Zrozumieć Programowanie",
+    "Books",
     "Daily notes/daily notes template.md",
-    "Discipline.md",
     "University/Lectures/User authentication and passwords.md",
     "University/6th Semester - Cybersecurity.md",
     "Definitions/authentication.md",
@@ -179,10 +136,6 @@
     "University/Lectures/About course.md",
     "University/Lectures/Recap_of_algebra.md",
     "Linux console/Hashcat.md",
-    "University/Lectures/Polynomials algorithms.md",
-    "Definitions/rfid.md",
-    "Definitions/inverse element.md",
-    "Definitions/identity element.md",
     "Daily notes",
     "Images/programming-challenges-v4.0.png",
     "Programming challenges",
@@ -190,13 +143,11 @@
     "Images/SPI_types.jpeg",
     "Images/SPI_image.png",
     "Images/SPI_data_reading.png",
-    "Images/nfc_found_in_gym.jpg",
     "Linux console",
     "Path to cybersecurity expert",
     "Images",
     "Definitions",
     "University/Lectures",
-    "University",
-    "test"
+    "University"
   ]
 }
