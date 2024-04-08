@@ -156,13 +156,15 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "543d5b62b398f32b",
+  "active": "9289d1de3d458f2f",
   "lastOpenFiles": [
+    "Programming challenges/Programming challenges.md",
+    "Programming challenges/10. TODO list web application.md",
+    "Discipline.md",
     "University/Lectures/About Post correspondence problem.md",
     "University/6th Semester - Theoretical informatics.md",
     "Definitions/restricted Post correspondence problem.md",
     "Definitions/Post correspondence problem.md",
-    "Discipline.md",
     "University/Lectures/Communication.md",
     "English flashcards.md",
     "University/6th Semester - Embedded systems.md",
@@ -182,8 +184,6 @@
     "Definitions/group.md",
     "Definitions/commutative.md",
     "Definitions/associative.md",
-    "Definitions/abelian group.md",
-    "Definitions/ring.md",
     "Daily notes",
     "Images/programming-challenges-v4.0.png",
     "Programming challenges",
