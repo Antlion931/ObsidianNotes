@@ -1,4 +1,6 @@
 #English
+natychmiastowy | immediate
+podsłuchać | eavesdrop 
 wyzwanie | challenge
 schemat | pattern
 przekształcenie | transformation

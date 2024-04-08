@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Discipline.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5,
-    "collapsed": true
+    "width": 426.5
   },
   "right": {
     "id": "7afea62fcb191eeb",
@@ -158,20 +157,23 @@
   },
   "active": "9289d1de3d458f2f",
   "lastOpenFiles": [
+    "English flashcards.md",
+    "Books",
+    "Daily notes/2024-04-08.md",
+    "Daily notes/daily notes template.md",
+    "Discipline.md",
+    "University/Lectures/User authentication and passwords.md",
+    "University/6th Semester - Cybersecurity.md",
+    "Definitions/authentication.md",
     "Programming challenges/Programming challenges.md",
     "Programming challenges/10. TODO list web application.md",
-    "Discipline.md",
     "University/Lectures/About Post correspondence problem.md",
     "University/6th Semester - Theoretical informatics.md",
     "Definitions/restricted Post correspondence problem.md",
     "Definitions/Post correspondence problem.md",
     "University/Lectures/Communication.md",
-    "English flashcards.md",
     "University/6th Semester - Embedded systems.md",
-    "University/Lectures/C_1.md",
     "University/6th Semester - Algebra.md",
-    "University/6th Semester - Cybersecurity.md",
-    "Daily notes/daily notes template.md",
     "University/Lectures/Soft skills for engineers.md",
     "University/Lectures/What are embedded systems?.md",
     "University/Lectures/About course.md",
@@ -181,9 +183,6 @@
     "Definitions/rfid.md",
     "Definitions/inverse element.md",
     "Definitions/identity element.md",
-    "Definitions/group.md",
-    "Definitions/commutative.md",
-    "Definitions/associative.md",
     "Daily notes",
     "Images/programming-challenges-v4.0.png",
     "Programming challenges",
@@ -198,7 +197,6 @@
     "Definitions",
     "University/Lectures",
     "University",
-    "test",
-    "Untitled 1"
+    "test"
   ]
 }

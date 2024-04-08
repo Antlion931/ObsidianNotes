@@ -1,6 +1,6 @@
 #pwr #cybersecurity
 # Lectures
-[[C_1]]
+[[User authentication and passwords]]
 [[C_2]]
 [[C_3]]
 [[C_4]]
