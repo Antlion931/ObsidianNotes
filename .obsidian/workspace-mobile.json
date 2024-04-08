@@ -43,21 +43,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a939d24ece015576",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Lectures/C_1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "9b319306e56ee300",
@@ -207,7 +195,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "University/Lectures/C_1.md",
+            "file": "TODO.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -224,7 +212,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "University/Lectures/C_1.md",
+            "file": "TODO.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -236,7 +224,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "University/Lectures/C_1.md"
+            "file": "TODO.md"
           }
         }
       },
@@ -270,47 +258,56 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "calendarium:Open Calendarium": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a939d24ece015576",
+  "active": "b847423fa870bcaf",
   "lastOpenFiles": [
-    "TODO.md",
-    "English flashcards.md",
-    "conflict-files-obsidian-git.md",
-    "Definitions/abelian group.md",
-    "University/Lectures/Polynomials algorithms.md",
-    "University/Lectures/Communication.md",
-    "University/Lectures/About Post correspondence problem.md",
-    "Images/nfc_found_in_gym.jpg",
-    "Images/SPI_types.jpeg",
-    "Images/SPI_image.png",
-    "Images/SPI_data_reading.png",
-    "Definitions/restricted Post correspondence problem.md",
-    "Definitions/Post correspondence problem.md",
-    "/University/Lectures/Recap_of_algebra.md",
-    "Definitions/ring.md",
-    "Definitions/inverse element.md",
-    "Definitions/identity element.md",
-    "Definitions/group.md",
-    "Definitions/commutative.md",
-    "Definitions/associative.md",
-    "/University/6th Semester - Algebra.md",
-    "/Definitions/ring.md",
-    "/Definitions/inverse element.md",
-    "/Definitions/identity element.md",
-    "/Definitions/group.md",
-    "/Definitions/embedded system.md",
-    "/Definitions/commutative.md",
-    "/Definitions/associative.md",
-    "/Definitions/abelian group.md",
-    "Definitions/embedded system.md",
+    "University/6th Semester - Theoretical informatics.md",
+    "Programming challenges/Programming challenges.md",
+    "Programming challenges/10. TODO list web application.md",
+    "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
+    "Linux console/Hashcat.md",
+    "Images/rfid_warning_in_the_locker_room.jpg",
+    "Images/rfid_recivers_and_transmiters.jpg",
+    "Images/rfid_change_in_field.png",
+    "Images/rfid_1_bit_transponder.png",
+    "Images/programming-challenges-v4.0.png",
+    "Images/1_bit_transponder.jpg",
+    "Definitions/authentication.md",
+    "Daily notes/daily notes template.md",
+    "Daily notes/2024-04-08.md",
+    "Books/PL Gynvael Coldwind - Zrozumieć Programowanie.md",
+    "University/Lectures/User authentication and passwords.md",
     "/University/Lectures",
-    "LinuxConsole",
-    "Images",
-    "Definitions",
-    "Images/IMG_20240307_174451.jpg",
-    "PathToCybersecurityExpert"
+    "/University/Lectures/User authentication and passwords.md",
+    "/University/Lectures/Recap_of_algebra.md",
+    "/University/Lectures/Communication.md",
+    "/University/Lectures/About course.md",
+    "/University/Lectures/About Post correspondence problem.md",
+    "/University/6th Semester - Theoretical informatics.md",
+    "University/6th Semester - Embedded systems.md",
+    "/University/6th Semester - Cybersecurity.md",
+    "/University/6th Semester - Algebra.md",
+    "/TODO.md",
+    "/Programming challenges/Programming challenges.md",
+    "/Programming challenges/10. TODO list web application.md",
+    "/Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
+    "/Linux console/Hashcat.md",
+    "/Images/rfid_warning_in_the_locker_room.jpg",
+    "/Images/rfid_recivers_and_transmiters.jpg",
+    "/Images/rfid_change_in_field.png",
+    "/Images/rfid_1_bit_transponder.png",
+    "/English flashcards.md",
+    "/Definitions/ring.md",
+    "Programming challenges",
+    "Path to cybersecurity expert",
+    "Linux console",
+    "Daily notes",
+    "Books",
+    "/Programming challenges",
+    "/Path to cybersecurity expert",
+    "/Linux console",
+    "/Daily notes"
   ]
 }
