@@ -1,4 +1,5 @@
 #English
+najważniejszy | paramount
 natychmiastowy | immediate
 podsłuchać | eavesdrop 
 wyzwanie | challenge
