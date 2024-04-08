@@ -258,11 +258,14 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "b847423fa870bcaf",
+  "active": "413a3611e400c529",
   "lastOpenFiles": [
+    "English flashcards.md",
+    "TODO.md",
     "University/6th Semester - Theoretical informatics.md",
     "Programming challenges/Programming challenges.md",
     "Programming challenges/10. TODO list web application.md",
@@ -298,8 +301,6 @@
     "/Images/rfid_recivers_and_transmiters.jpg",
     "/Images/rfid_change_in_field.png",
     "/Images/rfid_1_bit_transponder.png",
-    "/English flashcards.md",
-    "/Definitions/ring.md",
     "Programming challenges",
     "Path to cybersecurity expert",
     "Linux console",
