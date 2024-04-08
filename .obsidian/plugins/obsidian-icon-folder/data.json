@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#b000b5",
     "recentlyUsedIcons": [
+      "RiBarChartHorizontalLine",
       "RiTerminalLine",
       "RiImageLine",
       "RiDoubleQuotesR",
-      "RiCrosshair2Fill",
-      "RiCrosshairFill"
+      "RiCrosshair2Fill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,6 @@
   "PathToCybersecurityExpert": "RiCrosshair2Fill",
   "Definitions": "RiDoubleQuotesR",
   "Images": "RiImageLine",
-  "LinuxConsole": "RiTerminalLine"
+  "LinuxConsole": "RiTerminalLine",
+  "Programming Challenges": "RiBarChartHorizontalLine"
 }

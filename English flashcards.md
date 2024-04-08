@@ -1,4 +1,5 @@
 #English
+wyzwanie | challenge
 schemat | pattern
 przekształcenie | transformation
 ciąg | sequence
