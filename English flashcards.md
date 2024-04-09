@@ -1,4 +1,6 @@
 #English
+zbiór | collection
+odwrócić | reverse
 paradygmaty programowania | programming paradigms
 najważniejszy | paramount
 natychmiastowy | immediate

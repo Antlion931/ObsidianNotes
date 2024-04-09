@@ -1,4 +1,4 @@
-#math #theoreticalInformatics
+#math #theoreticalInformatics #pwr
 
 We have alphabet $\Sigma$ and two sequence of words from that alphabet with the same length.
 

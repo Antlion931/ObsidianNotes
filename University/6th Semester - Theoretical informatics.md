@@ -1,6 +1,8 @@
 #pwr #math #theoreticalInformatics 
+
+The basic question of this course is, what is computation? It depends on model. Models are equivalent, and there are a lot of problems that can't be solved.
 # Lectures
-[[T_1]]
+[[About Turing Machines]]
 [[T_2]]
 [[T_3]]
 [[T_4]]
