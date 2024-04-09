@@ -6,4 +6,5 @@
 - For every language use some build tool, like cmake or cargo
 - Every exercise is composed of two implementations, so just make two libraries with one testing code.
 
-- [ ] #todo Start working on 1 exercise
+- [ ] #todo Try to make it build, and run it with test code.
+- [ ] #todo Add exception to code and documentation about too big numbers.

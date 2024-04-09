@@ -294,5 +294,5 @@ renderHeatmapCalendar(this.container, calendarData)
 #### Things to work on
 
 ```dataview
-TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#Programming paradigms") GROUP BY file.link
+TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#programmingParadigms") AND contains(file.tag, "#pwr") GROUP BY file.link
 ```
