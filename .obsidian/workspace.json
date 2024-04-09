@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4fede2c6551382fc",
+        "id": "8d7b7e1b1c2f2952",
         "type": "tabs",
         "children": [
           {
-            "id": "a1174d16405c18ce",
+            "id": "f5c2fbc714aaf1dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "University/Labs/About Wrappers.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "University/Labs/About Wrappers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "University/Labs/About Wrappers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "University/Labs/About Wrappers.md"
               }
             }
           }
@@ -146,10 +146,26 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "a1174d16405c18ce",
+  "active": "f5c2fbc714aaf1dd",
   "lastOpenFiles": [
-    "Daily notes/2024-04-09.md",
+    "University/6th Semester - Programming paradigms.md",
+    "University/Labs/About Wrappers.md",
     "TODO.md",
+    "Daily notes/2024-04-09.md",
+    "English flashcards.md",
+    "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
+    "Images/copy_of_skylander.png",
+    "Images/Zrzut ekranu z 2024-04-09 19-37-53.png",
+    "Zrzut ekranu z 2024-04-09 19-37-53.png",
+    "Images/skylanders.jpg",
+    "Definitions/Gaussian integers.md",
+    "University/Lectures/Soft skills for engineers.md",
+    "Definitions/commutative ring.md",
+    "Definitions/deterministic Turing machine.md",
+    "University/Lectures/Recap of algebra.md",
+    "Definitions/ring Zn.md",
+    "Definitions/dual numbers.md",
+    "Definitions/abelian group.md",
     "Books/PL Gynvael Coldwind - Zrozumieć Programowanie.md",
     "Definitions/console.md",
     "Definitions/terminal.md",
@@ -162,30 +178,14 @@
     "Definitions/UDP.md",
     "Definitions/NFC.md",
     "Definitions/HTTP.md",
-    "University/6th Semester - Programming paradigms.md",
-    "University/Labs/About Wrappers.md",
     "University/6th Semester - Theoretical informatics.md",
-    "English flashcards.md",
     "University/Labs",
     "Definitions/ring.md",
-    "University/Lectures/Recap of algebra.md",
-    "Definitions/commutative ring.md",
-    "Definitions/abelian group.md",
-    "Definitions/group.md",
-    "Definitions/commutative.md",
-    "Definitions/inverse element.md",
-    "Definitions/identity element.md",
-    "Definitions/associative.md",
-    "University/Lectures/About course.md",
     "Images/tcas.png",
     "Images/Zrzut ekranu z 2024-04-09 13-14-26.png",
     "Definitions/deterministic Turing machine.md~",
     "Images/skimmer03.png",
     "Images/skimmer02.png",
-    "Images/magnetic-strip-card-reader.jpg",
-    "Images/skimmer.jpg",
-    "Images/fetching_a_page.png",
-    "Images/rfid_recivers_and_transmiters.jpg",
     "Books/PL Gynvael Coldwin - Zrozumieć Programowanie",
     "Books",
     "Daily notes",

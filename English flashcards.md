@@ -1,4 +1,6 @@
 #English
+dziedzina całkowitości | integral domain
+niedokładność | inaccuracy
 biblioteki | libraries
 łączność | associative 
 optymalizować | optimise

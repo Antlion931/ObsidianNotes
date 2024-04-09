@@ -1,2 +1,3 @@
+#embedded #pwr 
 Writing and then thinking what have we written is a bad pattern. That could be less of a problem in software, as change in code is cheap, but in embedded. The cost is much higher, that's way it is important to understand what we are trying to do, such us:
 - vending machine is not only used by clients, but also by owners that will fill stocks and take money, and also service technician that will try to repair the machine.

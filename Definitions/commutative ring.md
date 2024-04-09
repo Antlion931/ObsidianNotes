@@ -1,3 +1,5 @@
+#math #algebra #pwr 
+
 $(R, +, \times)$ is [[commutative ring]] when:
 1. $(R, +, \times)$ is [[ring]].
 2. $\times$ is [[commutative]].
