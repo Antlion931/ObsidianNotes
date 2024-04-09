@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
-                "mode": "source",
+                "file": "University/Lectures/User authentication and passwords.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 426.5,
+    "collapsed": true
   },
   "right": {
     "id": "7afea62fcb191eeb",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
+                "file": "University/Lectures/User authentication and passwords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
+                "file": "University/Lectures/User authentication and passwords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md"
+                "file": "University/Lectures/User authentication and passwords.md"
               }
             }
           }
@@ -162,12 +163,16 @@
   },
   "active": "1ef75402329b789d",
   "lastOpenFiles": [
-    "English flashcards.md",
-    "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
     "TODO.md",
+    "Daily notes/daily notes template.md",
     "Daily notes/2024-04-09.md",
     "Daily notes/2024-04-08.md",
-    "Daily notes/daily notes template.md",
+    "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
+    "Images/skimmer03.png",
+    "Images/skimmer02.png",
+    "Images/magnetic-strip-card-reader.jpg",
+    "Images/skimmer.jpg",
+    "English flashcards.md",
     "Programming challenges/10. TODO list web application.md",
     "Definitions/http.md",
     "Definitions/identity element.md",
@@ -179,7 +184,6 @@
     "Images/rfid_warning_in_the_locker_room.jpg",
     "Images/rfid_change_in_field.png",
     "Images/Zrzut ekranu z 2024-04-08 21-15-11.png",
-    "Images/rfid_1_bit_transponder.png",
     "Books/PL Gynvael Coldwind - Zrozumieć Programowanie.md",
     "Books/PL Gynvael Coldwin - Zrozumieć Programowanie/Untitled.md",
     "Books/PL Gynvael Coldwin - Zrozumieć Programowanie",
@@ -196,13 +200,9 @@
     "University/6th Semester - Embedded systems.md",
     "University/6th Semester - Algebra.md",
     "University/Lectures/Soft skills for engineers.md",
-    "University/Lectures/What are embedded systems?.md",
     "Daily notes",
-    "Images/programming-challenges-v4.0.png",
     "Programming challenges",
     "Untitled.canvas",
-    "Images/SPI_types.jpeg",
-    "Images/SPI_image.png",
     "Linux console",
     "Path to cybersecurity expert",
     "Images",

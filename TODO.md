@@ -11,7 +11,7 @@ entries: []
 for(let page of dv.pages('"Daily notes"').where(p=>p["Daily notes"])){
 calendarData.entries.push({
 date: page.file.name,
-intensity: page.Exercise,
+intensity: page["Daily notes"],
 content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
@@ -33,7 +33,7 @@ entries: []
 for(let page of dv.pages('"Daily notes"').where(p=>p["Workout"])){
 calendarData.entries.push({
 date: page.file.name,
-intensity: page.Exercise,
+intensity: page["Workout"],
 content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
@@ -56,7 +56,7 @@ entries: []
 for(let page of dv.pages('"Daily notes"').where(p=>p["English"])){
 calendarData.entries.push({
 date: page.file.name,
-intensity: page.Exercise,
+intensity: page["English"],
 content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
@@ -85,7 +85,7 @@ entries: []
 for(let page of dv.pages('"Daily notes"').where(p=>p["Path to cybersecurity expert"])){
 calendarData.entries.push({
 date: page.file.name,
-intensity: page.Exercise,
+intensity: page["Path to cybersecurity expert"],
 content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
@@ -113,7 +113,7 @@ entries: []
 for(let page of dv.pages('"Daily notes"').where(p=>p["Algebra"])){
 calendarData.entries.push({
 date: page.file.name,
-intensity: page.Exercise,
+intensity: page["Algebra"],
 content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
@@ -140,7 +140,7 @@ entries: []
 for(let page of dv.pages('"Daily notes"').where(p=>p["Cybersecurity"])){
 calendarData.entries.push({
 date: page.file.name,
-intensity: page.Exercise,
+intensity: page["Cybersecurity"],
 content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
@@ -165,10 +165,10 @@ red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
 entries: []
 }
 
-for(let page of dv.pages('"Daily notes"').where(p=>p["Embedded system"])){
+for(let page of dv.pages('"Daily notes"').where(p=>p["Embedded systems"])){
 calendarData.entries.push({
 date: page.file.name,
-intensity: page.Exercise,
+intensity: page["Embedded systems"],
 content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
@@ -196,7 +196,7 @@ entries: []
 for(let page of dv.pages('"Daily notes"').where(p=>p["Theoretical informatics"])){
 calendarData.entries.push({
 date: page.file.name,
-intensity: page.Exercise,
+intensity: page["Theoretical informatics"],
 content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
@@ -225,7 +225,7 @@ entries: []
 for(let page of dv.pages('"Daily notes"').where(p=>p["Programming challenges"])){
 calendarData.entries.push({
 date: page.file.name,
-intensity: page.Exercise,
+intensity: page["Programming challenges"],
 content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
@@ -254,7 +254,7 @@ entries: []
 for(let page of dv.pages('"Daily notes"').where(p=>p["Book"])){
 calendarData.entries.push({
 date: page.file.name,
-intensity: page.Exercise,
+intensity: page["Book"],
 content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
@@ -282,7 +282,7 @@ entries: []
 for(let page of dv.pages('"Daily notes"').where(p=>p["Programming paradigms"])){
 calendarData.entries.push({
 date: page.file.name,
-intensity: page.Exercise,
+intensity: page["Programming paradigms"],
 content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
