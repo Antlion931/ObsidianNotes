@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#b000b5",
     "recentlyUsedIcons": [
+      "RiInkBottleLine",
+      "RiPuzzle2Line",
       "RiBookFill",
       "RiCalendarScheduleLine",
-      "RiBarChartHorizontalLine",
-      "RiTerminalLine",
-      "RiImageLine"
+      "RiBarChartHorizontalLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,7 @@
   "University/6th Semester - Embedded systems.md": "RiCpuLine",
   "University/6th Semester - Theoretical informatics.md": "RiRestartLine",
   "Books": "RiBookFill",
-  "TODO.md": "RiTodoLine"
+  "TODO.md": "RiTodoLine",
+  "University/6th Semester - Programming paradigms.md": "RiPuzzle2Line",
+  "University/Labs": "RiInkBottleLine"
 }

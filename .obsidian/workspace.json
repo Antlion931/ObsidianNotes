@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5c0d6b1d3c84630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Labs/About Wrappers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d30867f616dc3cc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/6th Semester - Theoretical informatics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "783e807d7609239f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English flashcards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "University/Labs/About Wrappers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "University/Labs/About Wrappers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "University/Labs/About Wrappers.md"
               }
             }
           }
@@ -146,12 +183,16 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "04378da7c4b08b7d",
+  "active": "543d5b62b398f32b",
   "lastOpenFiles": [
-    "Daily notes/2024-04-09.md",
-    "Definitions/ring.md",
+    "University/6th Semester - Programming paradigms.md",
+    "University/Labs/About Wrappers.md",
+    "University/Labs",
+    "University/6th Semester - Theoretical informatics.md",
     "English flashcards.md",
     "TODO.md",
+    "Daily notes/2024-04-09.md",
+    "Definitions/ring.md",
     "University/Lectures/Recap of algebra.md",
     "Definitions/commutative ring.md",
     "Definitions/abelian group.md",
@@ -173,9 +214,6 @@
     "University/Lectures/Soft skills for engineers.md",
     "University/Lectures/E_4.md",
     "University/Lectures/E_3.md",
-    "University/6th Semester - Theoretical informatics.md",
-    "University/Lectures/About Turing Machines.md",
-    "Definitions/deterministic Turing machine.md",
     "Definitions/deterministic Turing machine.md~",
     "Images/skimmer03.png",
     "Images/skimmer02.png",
@@ -193,7 +231,6 @@
     "Linux console",
     "Path to cybersecurity expert",
     "Images",
-    "Definitions",
-    "University/Lectures"
+    "Definitions"
   ]
 }
