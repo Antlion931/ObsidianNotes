@@ -268,3 +268,31 @@ renderHeatmapCalendar(this.container, calendarData)
 ```dataview
 TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#book") GROUP BY file.link
 ```
+# Programming paradigms 
+
+```dataviewjs
+
+const calendarData = {
+colors: {
+red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
+},
+entries: []
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>p["Programming paradigms"])){
+calendarData.entries.push({
+date: page.file.name,
+intensity: page.Exercise,
+content: await dv.span(`[](${page.file.name})`), //for hover preview
+})
+
+}
+
+renderHeatmapCalendar(this.container, calendarData)
+```
+
+#### Things to work on
+
+```dataview
+TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#Programming paradigms") GROUP BY file.link
+```

@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming challenges/10. TODO list web application.md",
+                "file": "English flashcards.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6a92d28d66ac1b41",
+            "id": "1ef75402329b789d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md"
               }
             }
           }
@@ -160,15 +160,18 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "6a92d28d66ac1b41",
+  "active": "1ef75402329b789d",
   "lastOpenFiles": [
+    "English flashcards.md",
+    "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
+    "TODO.md",
+    "Daily notes/2024-04-09.md",
     "Daily notes/2024-04-08.md",
+    "Daily notes/daily notes template.md",
     "Programming challenges/10. TODO list web application.md",
     "Definitions/http.md",
     "Definitions/identity element.md",
     "Images/fetching_a_page.png",
-    "English flashcards.md",
-    "TODO.md",
     "Definitions/nfc.md",
     "Definitions/rfid.md",
     "Images/rfid_recivers_and_transmiters.jpg",
@@ -181,7 +184,6 @@
     "Books/PL Gynvael Coldwin - Zrozumieć Programowanie/Untitled.md",
     "Books/PL Gynvael Coldwin - Zrozumieć Programowanie",
     "Books",
-    "Daily notes/daily notes template.md",
     "University/Lectures/User authentication and passwords.md",
     "University/6th Semester - Cybersecurity.md",
     "Definitions/authentication.md",
@@ -195,8 +197,6 @@
     "University/6th Semester - Algebra.md",
     "University/Lectures/Soft skills for engineers.md",
     "University/Lectures/What are embedded systems?.md",
-    "University/Lectures/About course.md",
-    "University/Lectures/Recap_of_algebra.md",
     "Daily notes",
     "Images/programming-challenges-v4.0.png",
     "Programming challenges",

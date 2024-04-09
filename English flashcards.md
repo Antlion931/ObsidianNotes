@@ -1,4 +1,5 @@
 #English
+paradygmaty programowania | programming paradigms
 najważniejszy | paramount
 natychmiastowy | immediate
 podsłuchać | eavesdrop 
