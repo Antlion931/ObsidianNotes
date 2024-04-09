@@ -4,4 +4,4 @@
 
 ![[fetching_a_page.png]]
 
-- [ ] #todo continue writing about [[http]] from [this](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) article.
+- [ ] #todo continue writing about [[HTTP]] from [this](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) article.

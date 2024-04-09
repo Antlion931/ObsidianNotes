@@ -4,7 +4,7 @@
 ## Eavesdrop
 If communication between two devices doesn't use one time tokens or isn't encrypted. There is a risk involved.
 ### Magnetic strip on Credit cards
-Although it is not an [[rfid]] technology, it is great example why data send by [[nfc]] should be encrypted. On every credit card there is an magnetic strip that let's you pay in some variants of terminals.
+Although it is not an [[RFID]] technology, it is great example why data send by [[NFC]] should be encrypted. On every credit card there is an magnetic strip that let's you pay in some variants of terminals.
 
 ![[magnetic-strip-card-reader.jpg]]
 
@@ -16,6 +16,6 @@ It stores unencrypted data that let's someone use a credit card. If that person 
 
 ![[skimmer02.png]]
 
-[[nfc]] tag sends data with use of radio waves with range of 10 cm, that makes a risk of other device to eavesdrop communication. In addition an [[nfc]] tag can be stolen. So if it contains any personal data, it should be encrypted to make it harder to get.
+[[NFC]] tag sends data with use of radio waves with range of 10 cm, that makes a risk of other device to eavesdrop communication. In addition an [[NFC]] tag can be stolen. So if it contains any personal data, it should be encrypted to make it harder to get.
 
-- [ ] #todo write about copping an [[nfc]] tag with skylanders as an example, and how you can do this with just a phone.
+- [ ] #todo write about copping an [[NFC]] tag with skylanders as an example, and how you can do this with just a phone.

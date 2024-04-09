@@ -2,7 +2,7 @@
 
 **R**adio **F**requency **Id**endentyfication is a technology used to identify devices with radio. One of the biggest things that can be made with it is a device that won't need a battery to work. And will take power from active device that is trying to read data.
 ## Example
-One of the most simple devices that uses [[rfid]] is called 1 bit transponder. It stores 1 bit of information, either it is near or not. To make it work we need Transmitter, the active part, is constantly making field that alternates in some range. The receiver and transponder which is an antenna with a resistor.
+One of the most simple devices that uses [[RFID]] is called 1 bit transponder. It stores 1 bit of information, either it is near or not. To make it work we need Transmitter, the active part, is constantly making field that alternates in some range. The receiver and transponder which is an antenna with a resistor.
 
 ![[rfid_1_bit_transponder.png]]
 

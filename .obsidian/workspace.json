@@ -13,13 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/http.md",
+                "file": "Definitions/NFC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9c5f2816e0c6c07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/UDP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f26e426b7304ae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/TSL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1174d16405c18ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/PL Gynvael Coldwind - Zrozumieć Programowanie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c554ba1558e857e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "console.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acfd24c7b02fffc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "terminal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "190a8cd0c7c8d9e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -96,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/http.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/http.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definitions/http.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -146,12 +219,24 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "04378da7c4b08b7d",
+  "active": "190a8cd0c7c8d9e7",
   "lastOpenFiles": [
+    "terminal.md",
+    "Untitled.md",
+    "console.md",
+    "Books/PL Gynvael Coldwind - Zrozumieć Programowanie.md",
     "TODO.md",
+    "Daily notes/2024-04-09.md",
+    "Definitions/TCP.md",
+    "Images/what-is-a-tcp-3-way-handshake-process-three-way-handshaking.jpg",
+    "Images/TCP_Three_way_handshake-3127118050.jpg",
+    "Definitions/SSL.md",
+    "Definitions/TSL.md",
+    "Definitions/UDP.md",
+    "Definitions/NFC.md",
+    "Definitions/HTTP.md",
     "University/6th Semester - Programming paradigms.md",
     "University/Labs/About Wrappers.md",
-    "Daily notes/2024-04-09.md",
     "University/6th Semester - Theoretical informatics.md",
     "English flashcards.md",
     "University/Labs",
@@ -165,18 +250,8 @@
     "Definitions/identity element.md",
     "Definitions/associative.md",
     "University/Lectures/About course.md",
-    "University/Lectures/What are embedded systems?.md",
-    "University/6th Semester - Embedded systems.md",
-    "Definitions/embedded system.md",
-    "Definitions/authentication.md",
-    "Definitions/http.md",
-    "Definitions/nfc.md",
-    "University/Lectures/Communication.md",
     "Images/tcas.png",
     "Images/Zrzut ekranu z 2024-04-09 13-14-26.png",
-    "University/Lectures/Soft skills for engineers.md",
-    "University/Lectures/E_4.md",
-    "University/Lectures/E_3.md",
     "Definitions/deterministic Turing machine.md~",
     "Images/skimmer03.png",
     "Images/skimmer02.png",
@@ -184,8 +259,6 @@
     "Images/skimmer.jpg",
     "Images/fetching_a_page.png",
     "Images/rfid_recivers_and_transmiters.jpg",
-    "Images/1_bit_transponder.jpg",
-    "Images/rfid_warning_in_the_locker_room.jpg",
     "Books/PL Gynvael Coldwin - Zrozumieć Programowanie",
     "Books",
     "Daily notes",
