@@ -1,4 +1,5 @@
 #English
+biblioteki | libraries
 łączność | associative 
 optymalizować | optimise
 szybko | rapidly
