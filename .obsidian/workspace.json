@@ -8,91 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04378da7c4b08b7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/NFC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9c5f2816e0c6c07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/UDP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f26e426b7304ae0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/TSL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a1174d16405c18ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/PL Gynvael Coldwind - Zrozumieć Programowanie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c554ba1558e857e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "console.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acfd24c7b02fffc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "terminal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "190a8cd0c7c8d9e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -219,14 +146,14 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "190a8cd0c7c8d9e7",
+  "active": "a1174d16405c18ce",
   "lastOpenFiles": [
-    "terminal.md",
-    "Untitled.md",
-    "console.md",
-    "Books/PL Gynvael Coldwind - Zrozumieć Programowanie.md",
-    "TODO.md",
     "Daily notes/2024-04-09.md",
+    "TODO.md",
+    "Books/PL Gynvael Coldwind - Zrozumieć Programowanie.md",
+    "Definitions/console.md",
+    "Definitions/terminal.md",
+    "Definitions/interpreter.md",
     "Definitions/TCP.md",
     "Images/what-is-a-tcp-3-way-handshake-process-three-way-handshaking.jpg",
     "Images/TCP_Three_way_handshake-3127118050.jpg",
