@@ -1,6 +1,6 @@
 #programmingParadigms #pwr 
-[Exercises](https://cs.pwr.edu.pl/gebala/dyd/jpp2024/labor1.pdf)
 
+[Exercises](https://cs.pwr.edu.pl/gebala/dyd/jpp2024/labor1.pdf)
 ## Notes
 - Make documentation for every library, with examples and edge cases
 - For every language use some build tool, like cmake or cargo

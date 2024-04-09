@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Daily notes/2024-04-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Daily notes/2024-04-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Daily notes/2024-04-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Daily notes/2024-04-09.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "818aae3781d85399",
   "lastOpenFiles": [
-    "University/Labs/About Wrappers.md",
     "TODO.md",
+    "University/Labs/About Wrappers.md",
     "University/6th Semester - Programming paradigms.md",
     "Daily notes/2024-04-09.md",
     "English flashcards.md",
