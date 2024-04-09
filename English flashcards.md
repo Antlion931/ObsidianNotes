@@ -1,4 +1,8 @@
 #English
+łączność | associative 
+optymalizować | optimise
+szybko | rapidly
+funkcja przejścia | transition function
 zbiór | collection
 odwrócić | reverse
 paradygmaty programowania | programming paradigms
@@ -10,7 +14,8 @@ schemat | pattern
 przekształcenie | transformation
 ciąg | sequence
 ograniczony | restricted
-odpowiedniości | correspondence
+odpowiadać | correspond
+odpowiedniość | correspondence
 przenikać się | intermingle
 jednoznaczny | unambiguous
 marnotrawstwo | wasteful

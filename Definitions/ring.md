@@ -1,7 +1,11 @@
-#math #algebra
+#math #algebra #pwr
 
-$R = (X, +, *)$ is a ring when:
+$R = (X, +, \times)$ is a ring when:
 1. $(X, +)$ is [[abelian group]].
-2. $*$ is 
+2. $\times$ is [[associative]] operation with [[identity element]]. (In other definition is doesn't have [[identity element]])
+3. $x \times ( y + z) = (x \times y) + (x \times z)$
+   $(x + y) \times z = (x \times z) + (y \times z)$
 
-- [ ] #todo end definition and add example of Ring
+## Examples
+- $(\mathbb{N}, +, \times)$ - is not a [[ring]]  because $(\mathbb{N}, +)$ is not a [[group]].
+- $(\mathbb{R}, +, \times)$ - is a [[ring]].

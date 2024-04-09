@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9d2b82772431bcef",
+        "id": "4fede2c6551382fc",
         "type": "tabs",
         "children": [
           {
-            "id": "0e39e36f49d0c134",
+            "id": "04378da7c4b08b7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/deterministic Turing machine.md",
+                "file": "Definitions/ring.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "bb1efd39ac60348a",
+            "id": "a227616ad38f5672",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,16 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4c35749bb2c6e600",
-            "type": "leaf",
-            "state": {
-              "type": "markdown-table-editor-view",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#programmingChallenges",
+                "query": "corre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/deterministic Turing machine.md",
+                "file": "English flashcards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +126,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/deterministic Turing machine.md",
+                "file": "English flashcards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "054d432a4028d079",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "English flashcards.md"
               }
             }
           }
@@ -156,46 +159,47 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "0e39e36f49d0c134",
+  "active": "543d5b62b398f32b",
   "lastOpenFiles": [
-    "University/Lectures/About Turing Machines.md",
-    "English flashcards.md",
-    "Definitions/deterministic Turing machine.md",
-    "University/6th Semester - Theoretical informatics.md",
-    "University/6th Semester - Cybersecurity.md",
-    "University/6th Semester - Embedded systems.md",
-    "University/6th Semester - Algebra.md",
     "TODO.md",
     "Daily notes/2024-04-09.md",
-    "University/Lectures/User authentication and passwords.md",
+    "Definitions/ring.md",
+    "University/Lectures/Recap of algebra.md",
+    "Definitions/commutative ring.md",
+    "Definitions/abelian group.md",
+    "Definitions/group.md",
+    "English flashcards.md",
+    "Definitions/commutative.md",
+    "Definitions/inverse element.md",
+    "Definitions/identity element.md",
+    "Definitions/associative.md",
+    "University/Lectures/About course.md",
+    "University/Lectures/What are embedded systems?.md",
+    "University/6th Semester - Embedded systems.md",
+    "Definitions/embedded system.md",
     "Definitions/authentication.md",
-    "University/Lectures/Polynomials algorithms.md",
-    "Definitions/Post correspondence problem.md",
-    "Definitions/restricted Post correspondence problem.md",
-    "Daily notes/daily notes template.md",
-    "Daily notes/2024-04-08.md",
-    "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
+    "Definitions/http.md",
+    "Definitions/nfc.md",
+    "University/Lectures/Communication.md",
+    "Images/tcas.png",
+    "Images/Zrzut ekranu z 2024-04-09 13-14-26.png",
+    "University/Lectures/Soft skills for engineers.md",
+    "University/Lectures/E_4.md",
+    "University/Lectures/E_3.md",
+    "University/6th Semester - Theoretical informatics.md",
+    "University/Lectures/About Turing Machines.md",
+    "Definitions/deterministic Turing machine.md",
+    "Definitions/deterministic Turing machine.md~",
     "Images/skimmer03.png",
     "Images/skimmer02.png",
     "Images/magnetic-strip-card-reader.jpg",
     "Images/skimmer.jpg",
-    "Programming challenges/10. TODO list web application.md",
-    "Definitions/http.md",
-    "Definitions/identity element.md",
     "Images/fetching_a_page.png",
-    "Definitions/nfc.md",
-    "Definitions/rfid.md",
     "Images/rfid_recivers_and_transmiters.jpg",
     "Images/1_bit_transponder.jpg",
     "Images/rfid_warning_in_the_locker_room.jpg",
-    "Images/rfid_change_in_field.png",
-    "Images/Zrzut ekranu z 2024-04-08 21-15-11.png",
-    "Books/PL Gynvael Coldwind - Zrozumieć Programowanie.md",
-    "Books/PL Gynvael Coldwin - Zrozumieć Programowanie/Untitled.md",
     "Books/PL Gynvael Coldwin - Zrozumieć Programowanie",
     "Books",
-    "Programming challenges/Programming challenges.md",
-    "University/Lectures/About Post correspondence problem.md",
     "Daily notes",
     "Programming challenges",
     "Untitled.canvas",
@@ -203,7 +207,6 @@
     "Path to cybersecurity expert",
     "Images",
     "Definitions",
-    "University/Lectures",
-    "University"
+    "University/Lectures"
   ]
 }

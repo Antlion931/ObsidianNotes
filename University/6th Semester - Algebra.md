@@ -2,7 +2,7 @@
 
 This course is about connection between geometry and algebra.
 # Lectures
-[[Recap_of_algebra]]
+[[Recap of algebra]]
 [[A_2]]
 [[A_3]]
 [[A_4]]
