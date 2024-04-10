@@ -6,5 +6,4 @@
 - For every language use some build tool, like cmake or cargo
 - Every exercise is composed of two implementations, so just make two libraries with one testing code.
 
-- [ ] #todo Try to make it build, and run it with test code.
-- [ ] #todo Add exception to code and documentation about too big numbers.
+- [ ] #todo write gcd and function to resolve diophantine equation in C
