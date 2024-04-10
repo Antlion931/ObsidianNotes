@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/6th Semester - Embedded systems.md",
+                "file": "University/Lectures/Recap of algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/6th Semester - Embedded systems.md",
+                "file": "University/Lectures/Recap of algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/6th Semester - Embedded systems.md",
+                "file": "University/Lectures/Recap of algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/6th Semester - Embedded systems.md"
+                "file": "University/Lectures/Recap of algebra.md"
               }
             }
           }
@@ -161,9 +161,11 @@
   },
   "active": "818aae3781d85399",
   "lastOpenFiles": [
+    "Images/tłum. 09.04.Albert.zw_96_2020-porozumienie.docx",
+    "TODO.md",
+    "University/6th Semester - Embedded systems.md",
     "Daily notes/2024-04-10.md",
     "University/Lectures/User authentication and passwords.md",
-    "TODO.md",
     "Daily notes/2024-04-09.md",
     "University/Labs/About Wrappers.md",
     "University/6th Semester - Programming paradigms.md",
@@ -191,8 +193,6 @@
     "Definitions/SSL.md",
     "Definitions/TSL.md",
     "Definitions/UDP.md",
-    "Definitions/NFC.md",
-    "Definitions/HTTP.md",
     "University/Labs",
     "Images/tcas.png",
     "Images/Zrzut ekranu z 2024-04-09 13-14-26.png",
