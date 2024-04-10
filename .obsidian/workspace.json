@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Labs/About Wrappers.md",
+                "file": "Daily notes/2024-04-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Labs/About Wrappers.md",
+                "file": "Daily notes/2024-04-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Labs/About Wrappers.md",
+                "file": "Daily notes/2024-04-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Labs/About Wrappers.md"
+                "file": "Daily notes/2024-04-10.md"
               }
             }
           }
@@ -159,6 +159,7 @@
   },
   "active": "e60d935692e3ab06",
   "lastOpenFiles": [
+    "University/Labs/About Wrappers.md",
     "TODO.md",
     "Daily notes/2024-04-10.md",
     "University/Lectures/User authentication and passwords.md",
@@ -195,7 +196,6 @@
     "Definitions/integral domain.md",
     "Images/tłum. 09.04.Albert.zw_96_2020-porozumienie.docx",
     "Daily notes/2024-04-09.md",
-    "University/Labs/About Wrappers.md",
     "University/Labs",
     "Definitions/deterministic Turing machine.md~",
     "Books/PL Gynvael Coldwin - Zrozumieć Programowanie",
