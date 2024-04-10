@@ -12,4 +12,8 @@
 - [[dual numbers]]
 - [[ring Zn]]
 
-- [ ] #todo continue a lecture from 13 minutes, and a definition of [[Integral domain]].
+# Integral domain
+
+![[integral domain]]
+
+- [ ] #todo continue a lecture from 16 minutes, and polynomials of variable $x$.

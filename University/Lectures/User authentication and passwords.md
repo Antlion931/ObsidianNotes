@@ -18,7 +18,7 @@ Data on servers can always be leaked, so it's important to assume that it will b
 - phising
 - If we demand more secure passwords from people, safety get worse. For example with cycle passwords that needs to be changed once per month, people will make very easy passwords because they don't want to waste time.
 # Brute force attacks
-![[Hashcat]]
+![[hashcat]]
 
 
 - [ ] #todo Continue watching lecture 1 from 40 minute.

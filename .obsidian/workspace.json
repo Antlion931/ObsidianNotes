@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5c2fbc714aaf1dd",
+            "id": "e60d935692e3ab06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Labs/About Wrappers.md",
+                "file": "Definitions/TCP.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "818aae3781d85399",
+            "id": "f05471d6979f38b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Lectures/Recap of algebra.md",
+                "file": "Definitions/UDP.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "corre",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 298.5
   },
   "right": {
     "id": "7afea62fcb191eeb",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Lectures/Recap of algebra.md",
+                "file": "Definitions/UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Lectures/Recap of algebra.md",
+                "file": "Definitions/UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Lectures/Recap of algebra.md"
+                "file": "Definitions/UDP.md"
               }
             }
           }
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5,
-    "collapsed": true
+    "width": 235.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,46 +158,47 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "818aae3781d85399",
+  "active": "f05471d6979f38b3",
   "lastOpenFiles": [
-    "Images/tłum. 09.04.Albert.zw_96_2020-porozumienie.docx",
+    "Definitions/TCP.md",
+    "Definitions/UDP.md",
     "TODO.md",
-    "University/6th Semester - Embedded systems.md",
+    "Books/PL Gynvael Coldwind - Zrozumieć Programowanie.md",
     "Daily notes/2024-04-10.md",
+    "Linux console/watch.md",
+    "Linux console/ping.md",
+    "Linux console/loops in shell.md",
+    "Linux console/reset.md",
+    "Linux console/clear.md",
+    "Linux console/hashcat.md",
+    "Definitions/terminal.md",
+    "University/Lectures/Recap of algebra.md",
+    "University/6th Semester - Algebra.md",
+    "University/6th Semester - Embedded systems.md",
+    "University/Lectures/E_3.md",
+    "University/Lectures/What are embedded systems?.md",
+    "Images/state_chart_4.png",
+    "Images/Zrzut ekranu z 2024-04-10 10-37-57.png",
+    "Zrzut ekranu z 2024-04-10 10-37-57.png",
+    "Images/state_chart_3.png",
+    "Images/state_chart_5.png",
+    "Images/state_chart_2.png",
+    "Images/state_chart_1.png",
+    "Images/Zrzut ekranu z 2024-04-10 10-32-13.png",
+    "Images/Zrzut ekranu z 2024-04-10 10-32-02.png",
+    "Images/Zrzut ekranu z 2024-04-10 10-30-32.png",
+    "English flashcards.md",
+    "Definitions/field.md",
+    "Definitions/ring.md",
+    "Definitions/commutative ring.md",
+    "Definitions/integral domain.md",
+    "Images/tłum. 09.04.Albert.zw_96_2020-porozumienie.docx",
     "University/Lectures/User authentication and passwords.md",
     "Daily notes/2024-04-09.md",
     "University/Labs/About Wrappers.md",
     "University/6th Semester - Programming paradigms.md",
-    "English flashcards.md",
-    "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
-    "Images/copy_of_skylander.png",
-    "Images/Zrzut ekranu z 2024-04-09 19-37-53.png",
-    "Zrzut ekranu z 2024-04-09 19-37-53.png",
-    "Images/skylanders.jpg",
-    "Definitions/Gaussian integers.md",
-    "University/Lectures/Soft skills for engineers.md",
-    "Definitions/commutative ring.md",
-    "Definitions/deterministic Turing machine.md",
-    "University/Lectures/Recap of algebra.md",
-    "Definitions/ring Zn.md",
-    "Definitions/dual numbers.md",
-    "Definitions/abelian group.md",
-    "Books/PL Gynvael Coldwind - Zrozumieć Programowanie.md",
-    "Definitions/console.md",
-    "Definitions/terminal.md",
-    "Definitions/interpreter.md",
-    "Definitions/TCP.md",
-    "Images/what-is-a-tcp-3-way-handshake-process-three-way-handshaking.jpg",
-    "Images/TCP_Three_way_handshake-3127118050.jpg",
-    "Definitions/SSL.md",
-    "Definitions/TSL.md",
-    "Definitions/UDP.md",
     "University/Labs",
-    "Images/tcas.png",
-    "Images/Zrzut ekranu z 2024-04-09 13-14-26.png",
     "Definitions/deterministic Turing machine.md~",
-    "Images/skimmer03.png",
-    "Images/skimmer02.png",
     "Books/PL Gynvael Coldwin - Zrozumieć Programowanie",
     "Books",
     "Daily notes",
@@ -206,7 +206,6 @@
     "Untitled.canvas",
     "Linux console",
     "Path to cybersecurity expert",
-    "Images",
-    "Definitions"
+    "Images"
   ]
 }

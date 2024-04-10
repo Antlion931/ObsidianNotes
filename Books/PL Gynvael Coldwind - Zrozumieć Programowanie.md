@@ -5,4 +5,9 @@
 - [[console]]
 - [[interpreter]]
 
-- [ ] #todo continue with page 20
+# Linux commands
+- [[clear]]
+- [[reset]]
+- [[watch]]
+
+- [ ] #todo continue with page 21

@@ -1,4 +1,10 @@
 #English
+równoległość | parallelism
+równolegle | in parallel
+szeregowo | in series
+hierarchia | hierarchy
+rozgłaszać | broadcast
+rozszerzenie | extension
 dziedzina całkowitości | integral domain
 niedokładność | inaccuracy
 biblioteki | libraries

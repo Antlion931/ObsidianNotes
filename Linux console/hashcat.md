@@ -1,6 +1,6 @@
 #cybersecurity #pwr 
 
-[[Hashcat]] is a command line tool used to break hashed passwords.
+[[hashcat]] is a command line tool used to break hashed passwords.
 ## Examples
 
 > hashcat -a 3 -m 0 -w 4 -i simple.hash -1 '?d?l' '?1?1?1?1?1?1?1?1' --potfile-disable
@@ -13,5 +13,5 @@
 - `-i` is connected to attack mode and pattern. It will iteratively take more and more characters from pattern. Firstly trying first letter, then first two, and so on.
 - `simple.hash` is a path to file containing a hash to break.
 - ``-1 `?d?l` `` let's you define custom character's to use in pattern. This character can be either digit or small letter. I could write just all possible characters, but hashcat have a few defined character ranges. `?d` consist of all digits while `?l` means all small letters in English alphabet. There are more of them, and you can define up to 4 custom characters.
-- `` `?1?1?1?1?1?1?1?1` `` is a pattern for password which uses our custom character. With our `-i`, [[Hashcat]] will try to brute force that hash with every password made of out small letters and digits with length of 1, 2, ..., 8.
-- `--potfile-disable`, means to turn of potfile, and a potfile is a file where [[Hashcat]] stores broken hashes. So results are automatically saved, and checked before trying to do more work.
+- `` `?1?1?1?1?1?1?1?1` `` is a pattern for password which uses our custom character. With our `-i`, [[hashcat]] will try to brute force that hash with every password made of out small letters and digits with length of 1, 2, ..., 8.
+- `--potfile-disable`, means to turn of potfile, and a potfile is a file where [[hashcat]] stores broken hashes. So results are automatically saved, and checked before trying to do more work.
