@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-04-10.md",
+                "file": "University/Labs/About Wrappers.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-04-10.md",
+                "file": "University/Labs/About Wrappers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-04-10.md",
+                "file": "University/Labs/About Wrappers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-04-10.md"
+                "file": "University/Labs/About Wrappers.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   "active": "e60d935692e3ab06",
   "lastOpenFiles": [
     "TODO.md",
-    "University/Lectures/User authentication and passwords.md",
     "Daily notes/2024-04-10.md",
+    "University/Lectures/User authentication and passwords.md",
     "Definitions/deterministic Turing machine.md",
     "Definitions/TCP.md",
     "English flashcards.md",
