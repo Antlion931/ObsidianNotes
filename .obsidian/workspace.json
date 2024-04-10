@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/TCP.md",
+                "file": "Daily notes/2024-04-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/UDP.md",
+                "file": "English flashcards.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/UDP.md",
+                "file": "Daily notes/2024-04-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/UDP.md",
+                "file": "Daily notes/2024-04-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definitions/UDP.md"
+                "file": "Daily notes/2024-04-10.md"
               }
             }
           }
@@ -158,13 +157,25 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "f05471d6979f38b3",
+  "active": "543d5b62b398f32b",
   "lastOpenFiles": [
-    "Definitions/TCP.md",
-    "Definitions/UDP.md",
+    "Definitions/deterministic Turing machine.md",
     "TODO.md",
-    "Books/PL Gynvael Coldwind - Zrozumieć Programowanie.md",
+    "Definitions/TCP.md",
+    "English flashcards.md",
     "Daily notes/2024-04-10.md",
+    "Definitions/UDP.md",
+    "Images/tcp_closing.png",
+    "Images/Zrzut ekranu z 2024-04-10 12-25-42.png",
+    "Zrzut ekranu z 2024-04-10 12-25-42.png",
+    "Images/tcp_waiting.png",
+    "Images/waiting.svg",
+    "Images/ack.png",
+    "Images/ack.svg",
+    "Images/ack_and_syn.png",
+    "Images/flags.png",
+    "Images/header.png",
+    "Books/PL Gynvael Coldwind - Zrozumieć Programowanie.md",
     "Linux console/watch.md",
     "Linux console/ping.md",
     "Linux console/loops in shell.md",
@@ -177,17 +188,6 @@
     "University/6th Semester - Embedded systems.md",
     "University/Lectures/E_3.md",
     "University/Lectures/What are embedded systems?.md",
-    "Images/state_chart_4.png",
-    "Images/Zrzut ekranu z 2024-04-10 10-37-57.png",
-    "Zrzut ekranu z 2024-04-10 10-37-57.png",
-    "Images/state_chart_3.png",
-    "Images/state_chart_5.png",
-    "Images/state_chart_2.png",
-    "Images/state_chart_1.png",
-    "Images/Zrzut ekranu z 2024-04-10 10-32-13.png",
-    "Images/Zrzut ekranu z 2024-04-10 10-32-02.png",
-    "Images/Zrzut ekranu z 2024-04-10 10-30-32.png",
-    "English flashcards.md",
     "Definitions/field.md",
     "Definitions/ring.md",
     "Definitions/commutative ring.md",
@@ -196,7 +196,6 @@
     "University/Lectures/User authentication and passwords.md",
     "Daily notes/2024-04-09.md",
     "University/Labs/About Wrappers.md",
-    "University/6th Semester - Programming paradigms.md",
     "University/Labs",
     "Definitions/deterministic Turing machine.md~",
     "Books/PL Gynvael Coldwin - Zrozumieć Programowanie",

@@ -15,8 +15,39 @@
   special symbols:
   - $yes$ - machine returns **true**
   - $no$ - machine returns **false**
-  - $h$ - 
+  - $h$ - machine returns a belt
 
-- [ ] #todo Watch lecture from 16 minute, and note what $h$ is, should be in shown in some example
+## Example
+[[deterministic Turing machine]] to recognise palindrom in alphabet $\{0, 1\}$. Let's represent it with a tabel of transition function.
+
+| $\sigma$ |            $0$<br>             |              $1$               |          $\sqcup$<br>          |
+|:---------|:-------------------------------|:-------------------------------|:-------------------------------|
+|  $q_0$   |  $(q_1, \sqcup, \rightarrow)$  |  $(q_2, \sqcup, \rightarrow)$  |             $yes$              |
+|  $q_1$   |    $(q_1, 0, \rightarrow)$     |    $(q_1, 1, \rightarrow)$     |  $(q_3, \sqcup, \leftarrow)$   |
+|  $q_2$   |    $(q_2, 0, \rightarrow)$     |    $(q_2, 1, \rightarrow)$     |  $(q_4, \sqcup, \leftarrow)$   |
+|  $q_3$   |   $(r, \sqcup, \leftarrow)$    |              $no$              |             $yes$              |
+|  $q_4$   |              $no$              |   $(r, \sqcup, \leftarrow)$    |             $yes$              |
+|  r       |      $(r, 0, \leftarrow)$      |      $(r, 1, \leftarrow)$      |  $(q_0, \sqcup, \rightarrow)$  |     
+-  Check what is the first element?  
+   - If $0$, delete it, go to end.  
+     - If $0$, delete it, return to beginning.  
+     - If $1$, isn't a palindrom.  
+     - If $\sqcup$, precious element was the last, odd length, palindrom  
+   - If $1$, delete it, go to end.  
+     - If $1$, delete it, return to beginning.  
+     - If $0$, isn't a palindrom.  
+     - If $\sqcup$, precious element was the last, odd length, palindrom  
+   - If $\sqcup$, it is a palindrom
+
+Solution: $(\{q_0, q_1, q_2, q_3, q_4, r\}, \{0, 1\}, \sigma, q_0\}$
+Time complexity: $O(|x|^2)$
+
+# Definition
+For [[deterministic Turing machine]] $M$, and word $x$, result of $M$ with word $x$ we indicate as $M(x)$.
+- $M(x) = yes$, machine accepted word $x$.
+- $M(x) = no$, machine didn't accepted word $x$.
+- $M(x) = y$, machine stopped, and returned belt with out unnecessary $\sqcup$.
+
+- [ ] #todo Watch lecture from 31 minute,
   
 
