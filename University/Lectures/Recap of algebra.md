@@ -12,8 +12,15 @@
 - [[dual numbers]]
 - [[ring Zn]]
 
+![[field]]
+
 # Integral domain
 
 ![[integral domain]]
 
-- [ ] #todo continue a lecture from 16 minutes, and polynomials of variable $x$.
+## Polynomials over [[filed]]
+
+Let's say we have $K$, which is a [[field]]. We can make [[integral domain]] of polynomials with coefficients from $K$. We will call them $K[x]$.
+
+
+- [ ] #todo continue a lecture from 18 minutes, with [[invertible element]] in [[Gaussian integers]].

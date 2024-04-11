@@ -1,4 +1,5 @@
 #English
+współczynnik | coefficient
 równoległość | parallelism
 równolegle | in parallel
 szeregowo | in series
