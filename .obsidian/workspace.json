@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-04-11.md",
+                "file": "University/Labs/About Wrappers.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-04-11.md",
+                "file": "University/Labs/About Wrappers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-04-11.md",
+                "file": "University/Labs/About Wrappers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-04-11.md"
+                "file": "University/Labs/About Wrappers.md"
               }
             }
           }
@@ -147,14 +147,16 @@
   },
   "active": "f05471d6979f38b3",
   "lastOpenFiles": [
+    "TODO.md",
+    "University/Lectures/Mathematical models.md",
+    "University/6th Semester - Theoretical informatics.md",
+    "Daily notes/2024-04-11.md",
     "University/Lectures/Recap of algebra.md",
     "English flashcards.md",
     "University/6th Semester - Algebra.md",
     "Definitions/field.md",
     "Definitions/commutative ring.md",
-    "TODO.md",
     "Programming challenges/Programming challenges.md",
-    "Daily notes/2024-04-11.md",
     "Daily notes/2024-04-10.md",
     "Daily notes/2024-04-08.md",
     "Daily notes/2024-04-09.md",
@@ -181,8 +183,6 @@
     "Linux console/clear.md",
     "Linux console/hashcat.md",
     "Definitions/terminal.md",
-    "University/6th Semester - Embedded systems.md",
-    "University/Lectures/E_3.md",
     "Images/tłum. 09.04.Albert.zw_96_2020-porozumienie.docx",
     "University/Labs",
     "Definitions/deterministic Turing machine.md~",
