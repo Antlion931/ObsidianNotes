@@ -10,5 +10,4 @@
   - check if $gcd(a,b)|c$, and if so find $k$ such that $gcd(a,b) \times k = c$.
   - solutions to original equation are in form of $X = kx, Y = ky$.
 
-- [ ] #todo write function to resolve Diophantine equation in C based on extended gcd.
-- [ ] #todo make a structure that will represents a solution of this equation.
+- [ ] #todo write function to resolve Diophantine equation in C based on extended gcd using recursion.
