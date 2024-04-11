@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "University/Lectures/Recap of algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "University/Lectures/Recap of algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "University/Lectures/Recap of algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "University/Lectures/Recap of algebra.md"
               }
             }
           }
@@ -147,12 +147,14 @@
   },
   "active": "f05471d6979f38b3",
   "lastOpenFiles": [
+    "TODO.md",
+    "Programming challenges/Programming challenges.md",
+    "Daily notes/2024-04-11.md",
     "Daily notes/2024-04-10.md",
     "Daily notes/2024-04-08.md",
     "Daily notes/2024-04-09.md",
     "English flashcards.md",
     "University/Labs/About Wrappers.md",
-    "TODO.md",
     "University/Lectures/User authentication and passwords.md",
     "Definitions/deterministic Turing machine.md",
     "Definitions/TCP.md",
@@ -181,8 +183,6 @@
     "University/Lectures/E_3.md",
     "University/Lectures/What are embedded systems?.md",
     "Definitions/field.md",
-    "Definitions/ring.md",
-    "Definitions/commutative ring.md",
     "Images/tłum. 09.04.Albert.zw_96_2020-porozumienie.docx",
     "University/Labs",
     "Definitions/deterministic Turing machine.md~",
