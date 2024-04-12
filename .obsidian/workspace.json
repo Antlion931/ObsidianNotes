@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Labs/About Wrappers.md",
+                "file": "Daily notes/2024-04-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Labs/About Wrappers.md",
+                "file": "Daily notes/2024-04-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Labs/About Wrappers.md",
+                "file": "Daily notes/2024-04-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Labs/About Wrappers.md"
+                "file": "Daily notes/2024-04-11.md"
               }
             }
           }
@@ -147,44 +147,44 @@
   },
   "active": "f05471d6979f38b3",
   "lastOpenFiles": [
-    "TODO.md",
-    "Daily notes/2024-04-11.md",
     "University/Labs/About Wrappers.md",
-    "Untitled.md",
-    "University/Lectures/Mathematical models.md",
-    "University/6th Semester - Theoretical informatics.md",
-    "University/Lectures/Recap of algebra.md",
+    "TODO.md",
     "English flashcards.md",
-    "University/6th Semester - Algebra.md",
-    "Definitions/field.md",
-    "Definitions/commutative ring.md",
-    "Programming challenges/Programming challenges.md",
-    "Daily notes/2024-04-10.md",
-    "Daily notes/2024-04-08.md",
-    "Daily notes/2024-04-09.md",
-    "University/Lectures/User authentication and passwords.md",
-    "Definitions/deterministic Turing machine.md",
-    "Definitions/TCP.md",
-    "Definitions/UDP.md",
-    "Images/tcp_closing.png",
-    "Images/Zrzut ekranu z 2024-04-10 12-25-42.png",
-    "Zrzut ekranu z 2024-04-10 12-25-42.png",
-    "Images/tcp_waiting.png",
-    "Images/waiting.svg",
-    "Images/ack.png",
-    "Images/ack.svg",
-    "Images/ack_and_syn.png",
-    "Images/flags.png",
-    "Images/header.png",
-    "Books/PL Gynvael Coldwind - Zrozumieć Programowanie.md",
-    "Linux console/watch.md",
-    "Linux console/ping.md",
-    "Linux console/loops in shell.md",
-    "Linux console/reset.md",
-    "Linux console/clear.md",
-    "Linux console/hashcat.md",
-    "Images/tłum. 09.04.Albert.zw_96_2020-porozumienie.docx",
+    "University/Lectures/What are embedded systems?.md",
+    "University/Lectures/Recap of algebra.md",
+    "University/Lectures/Mathematical models.md",
+    "University/Lectures/About Turing Machines.md",
     "University/Labs",
+    "University/6th Semester - Programming paradigms.md",
+    "Images/tcp_waiting.png",
+    "Images/tcp_closing.png",
+    "Images/tcas.png",
+    "Images/state_chart_5.png",
+    "Images/state_chart_4.png",
+    "Images/state_chart_3.png",
+    "Images/state_chart_2.png",
+    "Images/state_chart_1.png",
+    "Images/skylanders.jpg",
+    "Images/header.png",
+    "Definitions/terminal.md",
+    "Definitions/ring Zn.md",
+    "Definitions/interpreter.md",
+    "Definitions/integral domain.md",
+    "Definitions/field.md",
+    "Definitions/dual numbers.md",
+    "Definitions/deterministic Turing machine.md",
+    "Definitions/console.md",
+    "Definitions/commutative ring.md",
+    "Definitions/UDP.md",
+    "Definitions/TSL.md",
+    "Definitions/TCP.md",
+    "Definitions/SSL.md",
+    "Definitions/RFID.md",
+    "Definitions/NFC.md",
+    "Definitions/HTTP.md",
+    "Definitions/Gaussian integers.md",
+    "Daily notes/2024-04-11.md",
+    "Images/tłum. 09.04.Albert.zw_96_2020-porozumienie.docx",
     "Definitions/deterministic Turing machine.md~",
     "Books/PL Gynvael Coldwin - Zrozumieć Programowanie",
     "Books",
