@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/UDP.md",
+                "file": "Daily notes/2024-04-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/UDP.md",
+                "file": "Daily notes/2024-04-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/UDP.md",
+                "file": "Daily notes/2024-04-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definitions/UDP.md"
+                "file": "Daily notes/2024-04-13.md"
               }
             }
           }
@@ -147,16 +147,16 @@
   },
   "active": "50bb3c470998bf7f",
   "lastOpenFiles": [
-    "Images/udp_packet_looks.svg",
     "TODO.md",
+    "English flashcards.md",
     "Definitions/TCP.md",
-    "Definitions/UDP.md",
     "Daily notes/2024-04-11.md",
+    "Definitions/UDP.md",
+    "Images/udp_packet_looks.svg",
     "Daily notes/2024-04-12.md",
     "Daily notes/daily notes template.md",
     "Daily notes/2024-04-13.md",
     "University/Labs/About Wrappers.md",
-    "English flashcards.md",
     "University/Lectures/What are embedded systems?.md",
     "University/Lectures/Recap of algebra.md",
     "University/Lectures/Mathematical models.md",
@@ -172,7 +172,6 @@
     "Images/state_chart_2.png",
     "Images/state_chart_1.png",
     "Images/skylanders.jpg",
-    "Images/header.png",
     "Definitions/terminal.md",
     "Definitions/ring Zn.md",
     "Definitions/interpreter.md",

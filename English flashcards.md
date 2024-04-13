@@ -1,4 +1,6 @@
 #English
+potwierdzić | acknowledge
+dynamicznie | dynamically
 współczynnik | coefficient
 równoległość | parallelism
 równolegle | in parallel
