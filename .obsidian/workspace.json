@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f05471d6979f38b3",
+            "id": "50bb3c470998bf7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-04-11.md",
+                "file": "Definitions/UDP.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-04-11.md",
+                "file": "Definitions/UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-04-11.md",
+                "file": "Definitions/UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-04-11.md"
+                "file": "Definitions/UDP.md"
               }
             }
           }
@@ -145,10 +145,17 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "f05471d6979f38b3",
+  "active": "50bb3c470998bf7f",
   "lastOpenFiles": [
-    "University/Labs/About Wrappers.md",
+    "Images/udp_packet_looks.svg",
     "TODO.md",
+    "Definitions/TCP.md",
+    "Definitions/UDP.md",
+    "Daily notes/2024-04-11.md",
+    "Daily notes/2024-04-12.md",
+    "Daily notes/daily notes template.md",
+    "Daily notes/2024-04-13.md",
+    "University/Labs/About Wrappers.md",
     "English flashcards.md",
     "University/Lectures/What are embedded systems?.md",
     "University/Lectures/Recap of algebra.md",
@@ -175,15 +182,8 @@
     "Definitions/deterministic Turing machine.md",
     "Definitions/console.md",
     "Definitions/commutative ring.md",
-    "Definitions/UDP.md",
     "Definitions/TSL.md",
-    "Definitions/TCP.md",
     "Definitions/SSL.md",
-    "Definitions/RFID.md",
-    "Definitions/NFC.md",
-    "Definitions/HTTP.md",
-    "Definitions/Gaussian integers.md",
-    "Daily notes/2024-04-11.md",
     "Images/tłum. 09.04.Albert.zw_96_2020-porozumienie.docx",
     "Definitions/deterministic Turing machine.md~",
     "Books/PL Gynvael Coldwin - Zrozumieć Programowanie",
