@@ -24,8 +24,12 @@ Most commonly [[TCP]] is used in par with [[IP]].
 
 Type of message is set by corresponding flags, There are other feature like Checksum.
 
-# How it deals with problems
+# Window size
+Name is misleading, because [[TCP]] is layer of sending data, and size of users windows is not in the interest of [[TCP]]. What's more it could be used to communicate between two devices, that doesn't use any output for users. 
 
+So what does it mean? It means how much data can be send without acknowledge. If Everything is okey, it will grow. If there are a lot of problems, like missing packets, it will shrink. So that [[TCP]] could speed up. If connection is great, It will send more packets because it knows more of them will be received. And the other side will not be flooded with out of order packets when connection is bad.
+
+# How it deals with problems
 ![[ack_and_syn.png]]
 
 After sending a data we increase our sequence number, and after every received data, we need to respond with our **acknowledged number** increased by length of data.
@@ -39,14 +43,12 @@ If receiver didn't acknowledge anything after some time. Perhaps data was lost. 
 But what if receiver will get multiple or out of order packets? It's simple, firstly it check what **acknowledge number** it last sent. If it is smaller then **sequence number**, then we need to wait for some packet. If it is the same, our **acknowledge response** did not come, perhaps is lost. That why we should send it once again.
 
 # Ending Connection
-
 Similarity to establishing connection, but with different flag.
 
 ![[tcp_closing.png]]
 
 # Differences to [[UDP]]
 
-- [ ] #todo Write about windowing, dynamically changing how much data can be sent without acknowledge.
 - [ ] #todo Write a definition of [[Port]] and [[Socket]]. Good [video](https://www.youtube.com/watch?v=FfvUxw8DHb0).
 - [ ] #todo Write about differences between [[TCP]] and [[UDP]].
 

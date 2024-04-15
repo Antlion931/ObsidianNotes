@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/UART.md",
+                "file": "Daily notes/2024-04-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/UART.md",
+                "file": "Daily notes/2024-04-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/UART.md",
+                "file": "Daily notes/2024-04-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/UART.md"
+                "file": "Daily notes/2024-04-15.md"
               }
             }
           }
@@ -145,19 +145,24 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "543d5b62b398f32b",
+  "active": "50bb3c470998bf7f",
   "lastOpenFiles": [
+    "Definitions/Port.md",
+    "Images/how_ports_work.jpg",
+    "Images/common_port_nummbers.png",
+    "Definitions/TCP.md",
+    "Definitions/SSL.md",
+    "Definitions/Socket.md",
+    "Definitions/UART.md",
+    "Definitions/UDP.md",
+    "TODO.md",
+    "Daily notes/2024-04-15.md",
     "University/Lectures/E_3.md",
-    "University/UART.md",
     "Images/simplex_and_duplex.png",
     "English flashcards.md",
     "University/6th Semester - Embedded systems.md",
-    "TODO.md",
-    "Daily notes/2024-04-15.md",
     "Daily notes/2024-04-13.md",
-    "Definitions/TCP.md",
     "Daily notes/2024-04-11.md",
-    "Definitions/UDP.md",
     "Images/udp_packet_looks.svg",
     "Daily notes/2024-04-12.md",
     "Daily notes/daily notes template.md",
@@ -174,16 +179,10 @@
     "Images/state_chart_5.png",
     "Images/state_chart_4.png",
     "Images/state_chart_3.png",
-    "Images/state_chart_2.png",
-    "Images/state_chart_1.png",
     "Definitions/terminal.md",
     "Definitions/ring Zn.md",
     "Definitions/interpreter.md",
     "Definitions/integral domain.md",
-    "Definitions/field.md",
-    "Definitions/dual numbers.md",
-    "Definitions/deterministic Turing machine.md",
-    "Definitions/console.md",
     "Images/tłum. 09.04.Albert.zw_96_2020-porozumienie.docx",
     "Definitions/deterministic Turing machine.md~",
     "Books/PL Gynvael Coldwin - Zrozumieć Programowanie",

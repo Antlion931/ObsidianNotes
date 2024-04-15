@@ -1,1 +1,0 @@
-**U**niversal **A**synchronous **R**eceiver and **T**ransmitter
