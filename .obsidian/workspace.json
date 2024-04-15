@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-04-13.md",
+                "file": "University/UART.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-04-13.md",
+                "file": "University/UART.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-04-13.md",
+                "file": "University/UART.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-04-13.md"
+                "file": "University/UART.md"
               }
             }
           }
@@ -145,17 +145,22 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "50bb3c470998bf7f",
+  "active": "543d5b62b398f32b",
   "lastOpenFiles": [
-    "TODO.md",
+    "University/Lectures/E_3.md",
+    "University/UART.md",
+    "Images/simplex_and_duplex.png",
     "English flashcards.md",
+    "University/6th Semester - Embedded systems.md",
+    "TODO.md",
+    "Daily notes/2024-04-15.md",
+    "Daily notes/2024-04-13.md",
     "Definitions/TCP.md",
     "Daily notes/2024-04-11.md",
     "Definitions/UDP.md",
     "Images/udp_packet_looks.svg",
     "Daily notes/2024-04-12.md",
     "Daily notes/daily notes template.md",
-    "Daily notes/2024-04-13.md",
     "University/Labs/About Wrappers.md",
     "University/Lectures/What are embedded systems?.md",
     "University/Lectures/Recap of algebra.md",
@@ -171,7 +176,6 @@
     "Images/state_chart_3.png",
     "Images/state_chart_2.png",
     "Images/state_chart_1.png",
-    "Images/skylanders.jpg",
     "Definitions/terminal.md",
     "Definitions/ring Zn.md",
     "Definitions/interpreter.md",
@@ -180,9 +184,6 @@
     "Definitions/dual numbers.md",
     "Definitions/deterministic Turing machine.md",
     "Definitions/console.md",
-    "Definitions/commutative ring.md",
-    "Definitions/TSL.md",
-    "Definitions/SSL.md",
     "Images/tłum. 09.04.Albert.zw_96_2020-porozumienie.docx",
     "Definitions/deterministic Turing machine.md~",
     "Books/PL Gynvael Coldwin - Zrozumieć Programowanie",

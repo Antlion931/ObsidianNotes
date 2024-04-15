@@ -1,4 +1,5 @@
 #English
+niewymienne | not interchangeable
 potwierdzić | acknowledge
 dynamicznie | dynamically
 współczynnik | coefficient
