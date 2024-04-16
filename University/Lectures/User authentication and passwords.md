@@ -32,5 +32,6 @@ Trying popular passwords, from some dictionary. Using personal information about
 - adding number at the end
 - password composed of different words
 Hacker can use some special dictionaries, like names of football teams, to be ably to get someone password.
- 
-- [ ] #todo Continue watching lecture 1 from 40 minute.
+
+# Password recovery
+It is a weak spot of many servers. Gaining access to user's mail, or other attacks like phishing are possible with password recovery. That's why it should have some another level of protection to make sure that user is safe.
