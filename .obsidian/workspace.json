@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-04-17.md",
+                "file": "Linux console/loops in shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-04-17.md",
+                "file": "Linux console/loops in shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-04-17.md",
+                "file": "Linux console/loops in shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-04-17.md"
+                "file": "Linux console/loops in shell.md"
               }
             }
           }
@@ -147,8 +147,13 @@
   },
   "active": "50bb3c470998bf7f",
   "lastOpenFiles": [
-    "University/6th Semester - Embedded systems.md",
+    "Linux console/clear.md",
+    "Linux console/hashcat.md",
+    "Linux console/loops in shell.md",
+    "University/6th Semester - Algebra.md",
+    "English flashcards.md",
     "Daily notes/2024-04-17.md",
+    "University/6th Semester - Embedded systems.md",
     "Daily notes/2024-04-16.md",
     "Daily notes/2024-04-15.md",
     "University/Lectures/C_2.md",
@@ -165,7 +170,6 @@
     "Definitions/UDP.md",
     "University/Lectures/E_3.md",
     "Images/simplex_and_duplex.png",
-    "English flashcards.md",
     "Daily notes/2024-04-13.md",
     "Daily notes/2024-04-11.md",
     "Images/udp_packet_looks.svg",
@@ -173,11 +177,7 @@
     "Daily notes/daily notes template.md",
     "University/Labs/About Wrappers.md",
     "University/Lectures/What are embedded systems?.md",
-    "University/Lectures/Recap of algebra.md",
-    "University/Lectures/Mathematical models.md",
-    "University/Lectures/About Turing Machines.md",
     "University/Labs",
-    "University/6th Semester - Programming paradigms.md",
     "Images/tcp_waiting.png",
     "Images/tcp_closing.png",
     "Images/tcas.png",
