@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-04-15.md",
+                "file": "Daily notes/2024-04-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-04-15.md",
+                "file": "Daily notes/2024-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-04-15.md",
+                "file": "Daily notes/2024-04-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-04-15.md"
+                "file": "Daily notes/2024-04-16.md"
               }
             }
           }
@@ -147,11 +147,13 @@
   },
   "active": "50bb3c470998bf7f",
   "lastOpenFiles": [
+    "University/6th Semester - Embedded systems.md",
+    "Daily notes/2024-04-16.md",
+    "Daily notes/2024-04-15.md",
     "University/Lectures/C_2.md",
     "University/6th Semester - Cybersecurity.md",
     "University/Lectures/User authentication and passwords.md",
     "TODO.md",
-    "Daily notes/2024-04-15.md",
     "Definitions/Port.md",
     "Images/how_ports_work.jpg",
     "Images/common_port_nummbers.png",
@@ -163,7 +165,6 @@
     "University/Lectures/E_3.md",
     "Images/simplex_and_duplex.png",
     "English flashcards.md",
-    "University/6th Semester - Embedded systems.md",
     "Daily notes/2024-04-13.md",
     "Daily notes/2024-04-11.md",
     "Images/udp_packet_looks.svg",
@@ -183,7 +184,6 @@
     "Images/state_chart_4.png",
     "Images/state_chart_3.png",
     "Definitions/terminal.md",
-    "Definitions/ring Zn.md",
     "Images/tłum. 09.04.Albert.zw_96_2020-porozumienie.docx",
     "Definitions/deterministic Turing machine.md~",
     "Books/PL Gynvael Coldwin - Zrozumieć Programowanie",
