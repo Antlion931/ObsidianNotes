@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Lectures/A_7.md",
+                "file": "English flashcards.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Lectures/A_7.md",
+                "file": "English flashcards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Lectures/A_7.md",
+                "file": "English flashcards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Lectures/A_7.md"
+                "file": "English flashcards.md"
               }
             }
           }
@@ -145,10 +145,10 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "543d5b62b398f32b",
+  "active": "50bb3c470998bf7f",
   "lastOpenFiles": [
-    "University/6th Semester - Algebra.md",
     "University/Lectures/A_7.md",
+    "University/6th Semester - Algebra.md",
     "University/Lectures/T_7.md",
     "University/Lectures/About course.md",
     "University/Lectures/About Post correspondence problem.md",

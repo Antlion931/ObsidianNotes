@@ -1,4 +1,5 @@
 #English
+alfa | alpha
 niewymienne | not interchangeable
 potwierdzić | acknowledge
 dynamicznie | dynamically
