@@ -22,5 +22,16 @@
 
 Let's say we have $K$, which is a [[field]]. We can make [[integral domain]] of polynomials with coefficients from $K$. We will call them $K[x]$.
 
+## [[invertible element]]
 
-- [ ] #todo continue a lecture from 18 minutes, with [[invertible element]] in [[Gaussian integers]].
+![[invertible element]]
+
+In [[Gaussian integers]] $\{1, -1, i, -i\}$
+
+![[gaussian_integers.png]]
+
+In Polynomials over [[field]], only constants are [[invertible element]].
+
+$x^{-1} = 1/x$
+
+- [ ] #todo continue a lecture from 23 minutes, about [[

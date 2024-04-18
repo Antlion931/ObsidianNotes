@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,10 +159,15 @@
   },
   "active": "50bb3c470998bf7f",
   "lastOpenFiles": [
+    "University/Lectures/Recap of algebra.md",
+    "Images/gaussian_integers.png",
+    "Definitions/invertible element.md",
+    "Definitions/inverse element.md",
+    "TODO.md",
+    "Definitions/Gaussian integers.md",
+    "Daily notes/2024-04-18.md",
     "University/Lectures/Mathematical models.md",
     "English flashcards.md",
-    "TODO.md",
-    "Daily notes/2024-04-18.md",
     "Definitions/UART.md",
     "Images/UART_sending_data.png",
     "Images/UART_in_work.png",
@@ -180,14 +184,10 @@
     "University/Lectures/About Post correspondence problem.md",
     "University/Lectures/About Turing Machines.md",
     "University/Lectures/Polynomials algorithms.md",
-    "University/Lectures/Recap of algebra.md",
     "Definitions/ring.md",
     "University/6th Semester - Theoretical informatics.md",
     "Linux console/loops in shell.md",
     "Linux console/clear.md",
-    "Linux console/hashcat.md",
-    "Daily notes/2024-04-17.md",
-    "Daily notes/2024-04-16.md",
     "Images/how_ports_work.jpg",
     "Images/common_port_nummbers.png",
     "Images/simplex_and_duplex.png",
@@ -195,7 +195,6 @@
     "University/Labs",
     "Images/tcp_waiting.png",
     "Images/tcp_closing.png",
-    "Images/tcas.png",
     "Images/tłum. 09.04.Albert.zw_96_2020-porozumienie.docx",
     "Definitions/deterministic Turing machine.md~",
     "Books/PL Gynvael Coldwin - Zrozumieć Programowanie",
