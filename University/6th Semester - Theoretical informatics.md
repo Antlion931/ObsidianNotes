@@ -8,5 +8,6 @@ The basic question of this course is, what is computation? It depends on model. 
 [[T_4]]
 [[About Post correspondence problem]] 
 [[Mathematical models]]
+[[T_7]]
 # Links
 [labs_and_exercises](https://cs.pwr.edu.pl/gebala/dyd/tpi2024.html)

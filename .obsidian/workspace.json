@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "University/Lectures/A_7.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "University/Lectures/A_7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "University/Lectures/A_7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "University/Lectures/A_7.md"
               }
             }
           }
@@ -145,12 +145,24 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "50bb3c470998bf7f",
+  "active": "543d5b62b398f32b",
   "lastOpenFiles": [
+    "University/6th Semester - Algebra.md",
+    "University/Lectures/A_7.md",
+    "University/Lectures/T_7.md",
+    "University/Lectures/About course.md",
+    "University/Lectures/About Post correspondence problem.md",
+    "University/Lectures/About Turing Machines.md",
+    "University/Lectures/Mathematical models.md",
+    "University/Lectures/Polynomials algorithms.md",
+    "University/Lectures/Recap of algebra.md",
+    "Definitions/ring.md",
+    "University/6th Semester - Theoretical informatics.md",
+    "Daily notes/2024-04-18.md",
+    "TODO.md",
     "Linux console/loops in shell.md",
     "Linux console/clear.md",
     "Linux console/hashcat.md",
-    "University/6th Semester - Algebra.md",
     "English flashcards.md",
     "Daily notes/2024-04-17.md",
     "University/6th Semester - Embedded systems.md",
@@ -159,24 +171,12 @@
     "University/Lectures/C_2.md",
     "University/6th Semester - Cybersecurity.md",
     "University/Lectures/User authentication and passwords.md",
-    "TODO.md",
     "Definitions/Port.md",
     "Images/how_ports_work.jpg",
     "Images/common_port_nummbers.png",
     "Definitions/TCP.md",
-    "Definitions/SSL.md",
-    "Definitions/Socket.md",
-    "Definitions/UART.md",
-    "Definitions/UDP.md",
-    "University/Lectures/E_3.md",
     "Images/simplex_and_duplex.png",
-    "Daily notes/2024-04-13.md",
-    "Daily notes/2024-04-11.md",
     "Images/udp_packet_looks.svg",
-    "Daily notes/2024-04-12.md",
-    "Daily notes/daily notes template.md",
-    "University/Labs/About Wrappers.md",
-    "University/Lectures/What are embedded systems?.md",
     "University/Labs",
     "Images/tcp_waiting.png",
     "Images/tcp_closing.png",
