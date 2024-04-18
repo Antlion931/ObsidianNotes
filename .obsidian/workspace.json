@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Lectures/How to find Gröbner basis.md",
+                "file": "University/Lectures/Mathematical models.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Lectures/How to find Gröbner basis.md",
+                "file": "University/Lectures/Mathematical models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Lectures/How to find Gröbner basis.md",
+                "file": "University/Lectures/Mathematical models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Lectures/How to find Gröbner basis.md"
+                "file": "University/Lectures/Mathematical models.md"
               }
             }
           }
@@ -147,12 +147,22 @@
   },
   "active": "50bb3c470998bf7f",
   "lastOpenFiles": [
+    "TODO.md",
+    "Daily notes/2024-04-18.md",
+    "Definitions/UART.md",
+    "Images/UART_sending_data.png",
+    "Images/UART_in_work.png",
+    "Definitions/UDP.md",
+    "University/6th Semester - Embedded systems.md",
+    "University/Lectures/Communication.md",
+    "University/Lectures/What are embedded systems?.md",
+    "University/Lectures/About course.md",
+    "University/Lectures/E_3.md",
+    "University/Lectures/How to find Gröbner basis.md",
     "Images/orbit_of_planets.jpg",
     "English flashcards.md",
-    "University/Lectures/How to find Gröbner basis.md",
     "University/6th Semester - Algebra.md",
     "University/Lectures/T_7.md",
-    "University/Lectures/About course.md",
     "University/Lectures/About Post correspondence problem.md",
     "University/Lectures/About Turing Machines.md",
     "University/Lectures/Mathematical models.md",
@@ -160,19 +170,11 @@
     "University/Lectures/Recap of algebra.md",
     "Definitions/ring.md",
     "University/6th Semester - Theoretical informatics.md",
-    "Daily notes/2024-04-18.md",
-    "TODO.md",
     "Linux console/loops in shell.md",
     "Linux console/clear.md",
     "Linux console/hashcat.md",
     "Daily notes/2024-04-17.md",
-    "University/6th Semester - Embedded systems.md",
     "Daily notes/2024-04-16.md",
-    "Daily notes/2024-04-15.md",
-    "University/Lectures/C_2.md",
-    "University/6th Semester - Cybersecurity.md",
-    "University/Lectures/User authentication and passwords.md",
-    "Definitions/Port.md",
     "Images/how_ports_work.jpg",
     "Images/common_port_nummbers.png",
     "Images/simplex_and_duplex.png",
@@ -181,9 +183,6 @@
     "Images/tcp_waiting.png",
     "Images/tcp_closing.png",
     "Images/tcas.png",
-    "Images/state_chart_5.png",
-    "Images/state_chart_4.png",
-    "Images/state_chart_3.png",
     "Images/tłum. 09.04.Albert.zw_96_2020-porozumienie.docx",
     "Definitions/deterministic Turing machine.md~",
     "Books/PL Gynvael Coldwin - Zrozumieć Programowanie",
