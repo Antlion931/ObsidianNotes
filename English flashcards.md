@@ -1,4 +1,5 @@
 #English
+funkcja rekurencyjna | recursive function
 alfa | alpha
 niewymienne | not interchangeable
 potwierdzić | acknowledge
