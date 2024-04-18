@@ -7,6 +7,6 @@ This course is about connection between geometry and algebra.
 [[A_3]]
 [[A_4]]
 [[Polynomials algorithms]]
-[[A_7]]
+[[How to find Gröbner basis]]
 # Links
 [labs_and_exercises](https://cs.pwr.edu.pl/cichon/2023_24_b/Algebra.php)

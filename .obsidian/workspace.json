@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English flashcards.md",
+                "file": "University/Lectures/How to find Gröbner basis.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English flashcards.md",
+                "file": "University/Lectures/How to find Gröbner basis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English flashcards.md",
+                "file": "University/Lectures/How to find Gröbner basis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English flashcards.md"
+                "file": "University/Lectures/How to find Gröbner basis.md"
               }
             }
           }
@@ -147,7 +147,9 @@
   },
   "active": "50bb3c470998bf7f",
   "lastOpenFiles": [
-    "University/Lectures/A_7.md",
+    "Images/orbit_of_planets.jpg",
+    "English flashcards.md",
+    "University/Lectures/How to find Gröbner basis.md",
     "University/6th Semester - Algebra.md",
     "University/Lectures/T_7.md",
     "University/Lectures/About course.md",
@@ -163,7 +165,6 @@
     "Linux console/loops in shell.md",
     "Linux console/clear.md",
     "Linux console/hashcat.md",
-    "English flashcards.md",
     "Daily notes/2024-04-17.md",
     "University/6th Semester - Embedded systems.md",
     "Daily notes/2024-04-16.md",
@@ -174,7 +175,6 @@
     "Definitions/Port.md",
     "Images/how_ports_work.jpg",
     "Images/common_port_nummbers.png",
-    "Definitions/TCP.md",
     "Images/simplex_and_duplex.png",
     "Images/udp_packet_looks.svg",
     "University/Labs",
