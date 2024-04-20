@@ -7,8 +7,6 @@ Here comes [[Port]] numbers, they range from 0-65535, but first 1024 are saved f
 ![[how_ports_work.jpg]]
 
 ## Where I can find them?
-Port numbers are in headers of transport layer, so in [[TCP]] and [[UDP]]. You can also use [[lsof]] command to list them on your device. You could also google some well know port numbers.
+Port numbers are in headers of transport layer, so in [[TCP]] and [[UDP]]. You can also use [[lsof]] command to list [[Socket]]s on your devices, which will contain information about [[Port]] numbers currently in use. You could also google some well know port numbers.
 
 ![[common_port_nummbers.png]]
-
-- [ ] #todo write note on how to use [[lsof]]

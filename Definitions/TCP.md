@@ -49,6 +49,5 @@ Similarity to establishing connection, but with different flag.
 
 # Differences to [[UDP]]
 
-- [ ] #todo Write a definition of [[Port]] and [[Socket]]. Good [video](https://www.youtube.com/watch?v=FfvUxw8DHb0).
 - [ ] #todo Write about differences between [[TCP]] and [[UDP]].
 

@@ -9,5 +9,15 @@
   - using extended $gcd(a,b)$, to find solutions of $ax + by = gcd(a,b)$.
   - check if $gcd(a,b)|c$, and if so find $k$ such that $gcd(a,b) \times k = c$.
   - solutions to original equation are in form of $X = kx, Y = ky$.
+- ada uses `/=` instead of `!=`
 
-- [ ] #todo write function to resolve Diophantine equation in C based on extended gcd using recursion.
+## Compiling C
+Although you could compile everything with just a [[gcc]] or other compiler, it could be a very cumbersome. That's why people make a [[make]], which will automate this process. And then people make [[cmake]] to automate writing a [[make]]. What a time to be alive!  
+
+## Compiling ada
+To compile ada I have used [[gnatmake]], because things that I was suppose to do were very simple.
+
+## Compiling rust
+In rust ecosystem you should use a [[cargo]] to compile your program and manage your dependencies.
+
+- [ ] #todo Write about wrapping C, ada and rust libraries
