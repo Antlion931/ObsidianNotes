@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-04-18.md",
+                "file": "Definitions/Port.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-04-18.md",
+                "file": "Definitions/Port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-04-18.md",
+                "file": "Definitions/Port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-04-18.md"
+                "file": "Definitions/Port.md"
               }
             }
           }
@@ -159,7 +159,11 @@
   },
   "active": "50bb3c470998bf7f",
   "lastOpenFiles": [
+    "Definitions/TCP.md",
+    "Definitions/Socket.md",
+    "Definitions/Port.md",
     "TODO.md",
+    "Daily notes/2024-04-20.md",
     "Daily notes/2024-04-18.md",
     "University/Lectures/Recap of algebra.md",
     "Images/gaussian_integers.png",
@@ -185,9 +189,6 @@
     "University/Lectures/About Turing Machines.md",
     "University/Lectures/Polynomials algorithms.md",
     "Definitions/ring.md",
-    "University/6th Semester - Theoretical informatics.md",
-    "Linux console/loops in shell.md",
-    "Linux console/clear.md",
     "Images/how_ports_work.jpg",
     "Images/common_port_nummbers.png",
     "Images/simplex_and_duplex.png",
