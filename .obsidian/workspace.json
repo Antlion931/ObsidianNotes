@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Path to cybersecurity expert/WiFi in terms of cybersecurity.md",
+                "file": "Linux console/hashcat.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux console/lsof.md",
+                "file": "Linux console/cargo.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux console/lsof.md",
+                "file": "Linux console/cargo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux console/lsof.md",
+                "file": "Linux console/cargo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux console/lsof.md"
+                "file": "Linux console/cargo.md"
               }
             }
           }
@@ -174,10 +174,14 @@
   "lastOpenFiles": [
     "TODO.md",
     "Daily notes/2024-04-21.md",
+    "Linux console/less.md",
+    "Linux console/lsof.md",
+    "Definitions/avahi deamon.md",
+    "Linux console/hashcat.md",
+    "Linux console/gnatmake.md",
     "Path to cybersecurity expert/WiFi in terms of cybersecurity.md",
     "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
     "Definitions/wifi.md",
-    "Linux console/hashcat.md",
     "Definitions/ICMP.md",
     "Linux console/ping.md",
     "Daily notes/2024-04-20.md",
@@ -186,19 +190,15 @@
     "Linux console/make.md",
     "Linux console/cargo.md",
     "Linux console/cmake.md",
-    "Linux console/gnatmake.md",
     "Linux console/clear.md",
     "English flashcards.md",
     "Daily notes/2024-04-19.md",
     "Daily notes/daily notes template.md",
-    "Linux console/lsof.md",
     "Definitions/TCP.md",
     "Definitions/Port.md",
     "Linux console/loops in shell.md",
     "Definitions/Socket.md",
     "Images/network_socket.png",
-    "Daily notes/2024-04-18.md",
-    "University/Lectures/Recap of algebra.md",
     "Images/gaussian_integers.png",
     "Images/UART_sending_data.png",
     "Images/UART_in_work.png",
