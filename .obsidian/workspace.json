@@ -11,11 +11,40 @@
             "id": "a980500e59250fff",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1a0575238dd4072",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Path to cybersecurity expert/WiFi in terms of cybersecurity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "085167f2136a05df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TODO.md"
+              }
             }
           }
         ]
@@ -137,13 +170,16 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "a980500e59250fff",
+  "active": "085167f2136a05df",
   "lastOpenFiles": [
-    "Linux console/hashcat.md",
     "Daily notes/2024-04-21.md",
+    "Path to cybersecurity expert/WiFi in terms of cybersecurity.md",
+    "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
+    "Definitions/wifi.md",
+    "TODO.md",
+    "Linux console/hashcat.md",
     "Definitions/ICMP.md",
     "Linux console/ping.md",
-    "TODO.md",
     "Daily notes/2024-04-20.md",
     "Linux console/gcc.md",
     "University/Labs/About Wrappers.md",
@@ -164,9 +200,6 @@
     "Daily notes/2024-04-18.md",
     "University/Lectures/Recap of algebra.md",
     "Images/gaussian_integers.png",
-    "Definitions/invertible element.md",
-    "Definitions/inverse element.md",
-    "Definitions/Gaussian integers.md",
     "Images/UART_sending_data.png",
     "Images/UART_in_work.png",
     "Images/orbit_of_planets.jpg",
