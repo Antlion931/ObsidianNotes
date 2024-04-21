@@ -5,7 +5,7 @@
 ## How to make it work
 To make it work you need a basic setup:
 ```
-src/lib.rs or main.rs
+src/lib.rs or src/main.rs
 Cargo.toml
 ```
 
@@ -37,9 +37,9 @@ debug = true
 ```
 
 ## Examples
-> cargo init <name> --lib
+> cargo init `name` --lib
 
-it will make a simple directory with a basic structure for a library with some `<name>`
+it will make a simple directory with a basic structure for a library with some `name`
 
 > cargo test
 

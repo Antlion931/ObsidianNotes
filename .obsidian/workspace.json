@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1a0575238dd4072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux console/hashcat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "085167f2136a05df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux console/cargo.md",
+                "file": "Daily notes/2024-04-21.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux console/cargo.md",
+                "file": "Daily notes/2024-04-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux console/cargo.md",
+                "file": "Daily notes/2024-04-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux console/cargo.md"
+                "file": "Daily notes/2024-04-21.md"
               }
             }
           }
@@ -170,14 +145,15 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "085167f2136a05df",
+  "active": "a980500e59250fff",
   "lastOpenFiles": [
     "TODO.md",
+    "Linux console/hashcat.md",
+    "Linux console/cargo.md",
     "Daily notes/2024-04-21.md",
     "Linux console/less.md",
     "Linux console/lsof.md",
     "Definitions/avahi deamon.md",
-    "Linux console/hashcat.md",
     "Linux console/gnatmake.md",
     "Path to cybersecurity expert/WiFi in terms of cybersecurity.md",
     "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
@@ -188,7 +164,6 @@
     "Linux console/gcc.md",
     "University/Labs/About Wrappers.md",
     "Linux console/make.md",
-    "Linux console/cargo.md",
     "Linux console/cmake.md",
     "Linux console/clear.md",
     "English flashcards.md",
