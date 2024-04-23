@@ -145,10 +145,11 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "543d5b62b398f32b",
+  "active": "a980500e59250fff",
   "lastOpenFiles": [
-    "University/6th Semester - Cybersecurity.md",
+    "Definitions/TSL.md",
     "University/Labs/About security of emails.md",
+    "University/6th Semester - Cybersecurity.md",
     "University/6th Semester - Programming paradigms.md",
     "University/6th Semester - Embedded systems.md",
     "University/6th Semester - Algebra.md",
@@ -172,7 +173,6 @@
     "University/Labs/About Wrappers.md",
     "Linux console/make.md",
     "Linux console/cmake.md",
-    "Linux console/clear.md",
     "Images/network_socket.png",
     "Images/gaussian_integers.png",
     "Images/UART_sending_data.png",
