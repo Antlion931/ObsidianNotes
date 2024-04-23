@@ -4,6 +4,9 @@
 [[C_2]]
 [[C_3]]
 [[C_4]]
+
+# Labs
+[[About security of emails]]
 # Links
 [labs_and_exercises](https://cs.pwr.edu.pl/lauks/sec.html)
 

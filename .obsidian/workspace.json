@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-04-21.md",
+                "file": "University/Labs/About security of emails.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-04-21.md",
+                "file": "University/Labs/About security of emails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-04-21.md",
+                "file": "University/Labs/About security of emails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-04-21.md"
+                "file": "University/Labs/About security of emails.md"
               }
             }
           }
@@ -145,12 +145,19 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "a980500e59250fff",
+  "active": "543d5b62b398f32b",
   "lastOpenFiles": [
+    "University/6th Semester - Cybersecurity.md",
+    "University/Labs/About security of emails.md",
+    "University/6th Semester - Programming paradigms.md",
+    "University/6th Semester - Embedded systems.md",
+    "University/6th Semester - Algebra.md",
+    "Daily notes/2024-04-22.md",
+    "Daily notes/2024-04-23.md",
+    "Daily notes/2024-04-21.md",
     "TODO.md",
     "Linux console/hashcat.md",
     "Linux console/cargo.md",
-    "Daily notes/2024-04-21.md",
     "Linux console/less.md",
     "Linux console/lsof.md",
     "Definitions/avahi deamon.md",
@@ -166,13 +173,6 @@
     "Linux console/make.md",
     "Linux console/cmake.md",
     "Linux console/clear.md",
-    "English flashcards.md",
-    "Daily notes/2024-04-19.md",
-    "Daily notes/daily notes template.md",
-    "Definitions/TCP.md",
-    "Definitions/Port.md",
-    "Linux console/loops in shell.md",
-    "Definitions/Socket.md",
     "Images/network_socket.png",
     "Images/gaussian_integers.png",
     "Images/UART_sending_data.png",
