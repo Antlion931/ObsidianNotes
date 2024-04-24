@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Labs/About security of emails.md",
+                "file": "Daily notes/2024-04-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Labs/About security of emails.md",
+                "file": "Daily notes/2024-04-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Labs/About security of emails.md",
+                "file": "Daily notes/2024-04-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Labs/About security of emails.md"
+                "file": "Daily notes/2024-04-24.md"
               }
             }
           }
@@ -147,14 +147,15 @@
   },
   "active": "a980500e59250fff",
   "lastOpenFiles": [
-    "Definitions/TSL.md",
+    "Daily notes/2024-04-23.md",
+    "Daily notes/2024-04-24.md",
     "University/Labs/About security of emails.md",
     "University/6th Semester - Cybersecurity.md",
-    "University/6th Semester - Programming paradigms.md",
     "University/6th Semester - Embedded systems.md",
+    "Definitions/TSL.md",
+    "University/6th Semester - Programming paradigms.md",
     "University/6th Semester - Algebra.md",
     "Daily notes/2024-04-22.md",
-    "Daily notes/2024-04-23.md",
     "Daily notes/2024-04-21.md",
     "TODO.md",
     "Linux console/hashcat.md",
@@ -172,7 +173,6 @@
     "Linux console/gcc.md",
     "University/Labs/About Wrappers.md",
     "Linux console/make.md",
-    "Linux console/cmake.md",
     "Images/network_socket.png",
     "Images/gaussian_integers.png",
     "Images/UART_sending_data.png",

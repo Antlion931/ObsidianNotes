@@ -13,4 +13,7 @@
   - It uses [[TLS]] in other cases
   - We can connect to ProtonMail using Tor, so they don't even know your [[IP]].
   - They store our every mail, in a way that only a user can read them.
-- 
+
+## Definitions
+
+- [ ] #todo Wriet about [[SPF]], [[DKIM]], [[DMARC]], [[PGP]], [[dig]]
