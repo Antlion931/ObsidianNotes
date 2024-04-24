@@ -42,12 +42,5 @@
 Solution: $(\{q_0, q_1, q_2, q_3, q_4, r\}, \{0, 1\}, \sigma, q_0\}$
 Time complexity: $O(|x|^2)$
 
-# Definition
-For [[deterministic Turing machine]] $M$, and word $x$, result of $M$ with word $x$ we indicate as $M(x)$.
-- $M(x) = yes$, machine accepted word $x$.
-- $M(x) = no$, machine didn't accepted word $x$.
-- $M(x) = y$, machine stopped, and returned belt with out unnecessary $\sqcup$.
-
-- [ ] #todo Watch lecture from 31 minute,
   
 

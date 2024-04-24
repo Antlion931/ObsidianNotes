@@ -16,4 +16,4 @@
 
 ## Definitions
 
-- [ ] #todo Wriet about [[SPF]], [[DKIM]], [[DMARC]], [[PGP]], [[dig]]
+- [ ] #todo Write about [[SPF]], [[DKIM]], [[DMARC]], [[PGP]], [[dig]]
