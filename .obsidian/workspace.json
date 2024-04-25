@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-04-24.md",
+                "file": "Definitions/ICMP.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-04-24.md",
+                "file": "Definitions/ICMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-04-24.md",
+                "file": "Definitions/ICMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-04-24.md"
+                "file": "Definitions/ICMP.md"
               }
             }
           }
@@ -147,9 +147,11 @@
   },
   "active": "a980500e59250fff",
   "lastOpenFiles": [
+    "Linux console/ping.md",
+    "Definitions/ICMP.md",
     "TODO.md",
-    "University/Lectures/About Turing Machines.md",
     "Daily notes/2024-04-24.md",
+    "University/Lectures/About Turing Machines.md",
     "Definitions/deterministic Turing machine.md",
     "University/6th Semester - Theoretical informatics.md",
     "University/6th Semester - Embedded systems.md",
@@ -171,8 +173,6 @@
     "Path to cybersecurity expert/WiFi in terms of cybersecurity.md",
     "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
     "Definitions/wifi.md",
-    "Definitions/ICMP.md",
-    "Linux console/ping.md",
     "Images/network_socket.png",
     "Images/gaussian_integers.png",
     "Images/UART_sending_data.png",
