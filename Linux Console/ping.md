@@ -8,7 +8,7 @@
 
 ## Examples
 
-> ping google.com -c 10 -a -i 10
+> [[ping]] google.com -c 10 -a -i 10
 
 - `-c 10` means to send only 10 request, by default it works endlessly
 - `-a` a [[terminal]] alarm is generated when getting response 

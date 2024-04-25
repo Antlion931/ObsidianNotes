@@ -37,15 +37,15 @@ debug = true
 ```
 
 ## Examples
-> cargo init `name` --lib
+> [[cargo]] init `name` --lib
 
 it will make a simple directory with a basic structure for a library with some `name`
 
-> cargo test
+> [[cargo]] test
 
 it will check if something have changed, compile it, and run tests
 
-> cargo build 
+> [[cargo]] build 
 
 it will build a library or program in debug mode
 

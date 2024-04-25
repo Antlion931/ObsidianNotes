@@ -35,7 +35,7 @@ odpowiedniość | correspondence
 przenikać się | intermingle
 jednoznaczny | unambiguous
 marnotrawstwo | wasteful
-przybliża | approximate
+przybliżyć | approximate
 głupi | daft
 zaniepokojony | concerned
 okoliczności | circumstances
@@ -89,7 +89,7 @@ aczkolwiek | albeit
 wykonalny | feasible
 sprzeczność | contradiction
 błąd względny | relative error
-różniczkowalne | differentiable
+różniczkowalny | differentiable
 iloczyn skalarny | scalar product
 omylny | fallible
 wyczerpujący | comprehensive
@@ -173,7 +173,7 @@ zmieniony | amended
 rozbieżny | diverging
 niezmiennik | invariant
 łagodne | benign
-wymagał | required
+wymagać | require
 sprawozdanie | report
 pierwszeństwo | precedence
 siłownik | actuator
@@ -183,7 +183,7 @@ odczuwalny | noticeable
 setki | hundreds
 leniwie | lazily
 uśmiechać się | smile
-zadziwiające | mind-boggling
+zdumiewający | mind-boggling
 definicja | definition
 obezwładniony | clobbered
 przeglądany | perused

@@ -1,7 +1,7 @@
 #cybersecurity #pwr 
 ## Questions
 - Could [[SMTP]] be encrypted?
-  In it self, no. But we can add layer like [[TLS]].
+  In it self, no. But we can add layer like [[TSL]].
 - By using [[TSL]] can we be sure, that nobody can read our mails?
   No, your email provider can also see it context.
 - What to do, to ensure a security?
@@ -10,10 +10,10 @@
   It has a lot of features to make you more secure, for example, 
   - when you are sending mail between protonmails, they are encrypted, so protonmail doesn't know about what we are mailing.
   - We can use some password to communicate with mails outside of protonmail ecosystem
-  - It uses [[TLS]] in other cases
+  - It uses [[TSL]] in other cases
   - We can connect to ProtonMail using Tor, so they don't even know your [[IP]].
   - They store our every mail, in a way that only a user can read them.
 
 ## Definitions
 
-- [ ] #todo Write about [[SPF]], [[DKIM]], [[DMARC]], [[PGP]], [[dig]]
+- [ ] #todo Write about [[SPF]], [[DKIM]], [[DMARC]], [[PGP]], in terms of cybersecurity

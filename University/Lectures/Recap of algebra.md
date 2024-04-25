@@ -18,7 +18,7 @@
 
 ![[integral domain]]
 
-## Polynomials over [[filed]]
+## Polynomials over [[field]]
 
 Let's say we have $K$, which is a [[field]]. We can make [[integral domain]] of polynomials with coefficients from $K$. We will call them $K[x]$.
 

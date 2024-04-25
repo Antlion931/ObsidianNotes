@@ -4,4 +4,4 @@ It is a command to clear [[terminal]], however it doesn't clean it complete, it 
 
 ## Example 
 
-> clean
+> [[clear]]

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8d7b7e1b1c2f2952",
+        "id": "a10b2805e55c960c",
         "type": "tabs",
         "children": [
           {
-            "id": "a980500e59250fff",
+            "id": "7ce27d94a45de678",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English flashcards.md",
+                "file": "Definitions/SPF.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,8 +96,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English flashcards.md",
-                "collapseAll": false,
+                "file": "Definitions/SPF.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English flashcards.md",
+                "file": "Definitions/SPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English flashcards.md"
+                "file": "Definitions/SPF.md"
               }
             }
           }
@@ -145,34 +145,34 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "a980500e59250fff",
+  "active": "7ce27d94a45de678",
   "lastOpenFiles": [
-    "Daily notes/2024-04-24.md",
-    "Daily notes/2024-04-23.md",
-    "Daily notes/2024-04-25.md",
     "TODO.md",
-    "Books/PL Gynvael Coldwind - Zrozumieć Programowanie.md",
+    "Linux Console/echo.md",
+    "Linux Console/loops in shell.md",
+    "Linux Console/watch.md",
     "Linux Console/visudo.md",
-    "Definitions/sudoers.md",
-    "Definitions/PAM.md",
-    "Linux Console/su.md",
-    "Definitions/avahi deamon.md",
     "Linux Console/sudo.md",
+    "Linux Console/su.md",
     "Linux Console/rg.md",
-    "Definitions/ICMP.md",
+    "Linux Console/reset.md",
+    "Linux Console/pipe.md",
     "Linux Console/ping.md",
-    "University/Lectures/About Turing Machines.md",
-    "Definitions/deterministic Turing machine.md",
-    "University/6th Semester - Theoretical informatics.md",
-    "University/6th Semester - Embedded systems.md",
-    "University/Lectures/About Post correspondence problem.md",
+    "Linux Console/more.md",
+    "Linux Console/make.md",
+    "Linux Console/lsof.md",
+    "Linux Console/ls.md",
+    "Linux Console/less.md",
+    "Linux Console/hashcat.md",
+    "Linux Console/gnatmake.md",
+    "Linux Console/gcc.md",
+    "Linux Console/dig.md",
+    "Linux Console/cmake.md",
+    "Linux Console/clear.md",
+    "Linux Console/cargo.md",
     "University/Labs/About security of emails.md",
-    "University/6th Semester - Cybersecurity.md",
-    "Definitions/TSL.md",
-    "University/6th Semester - Programming paradigms.md",
-    "University/6th Semester - Algebra.md",
-    "Daily notes/2024-04-22.md",
-    "Daily notes/2024-04-21.md",
+    "TLS.md",
+    "Daily notes/2024-04-25.md",
     "Images/network_socket.png",
     "Images/gaussian_integers.png",
     "Images/UART_sending_data.png",
