@@ -10,4 +10,12 @@
 - [[reset]]
 - [[watch]]
 
+# Side quests
+- [[rg]]
+- [[sudo]]
+- [[su]]
+- [[PAM]]
+- [[sudoers]]
+- [[visudo]]
+
 - [ ] #todo continue with page 21

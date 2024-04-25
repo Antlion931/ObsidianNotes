@@ -35,7 +35,6 @@
   "Definitions": "RiDoubleQuotesR",
   "Images": "RiImageLine",
   "Daily notes": "RiCalendarScheduleLine",
-  "Linux console": "RiTerminalLine",
   "Path to cybersecurity expert": "RiCrosshair2Fill",
   "Programming challenges": "RiBarChartHorizontalLine",
   "University/6th Semester - Embedded systems.md": "RiCpuLine",
@@ -43,5 +42,6 @@
   "Books": "RiBookFill",
   "TODO.md": "RiTodoLine",
   "University/6th Semester - Programming paradigms.md": "RiPuzzle2Line",
-  "University/Labs": "RiInkBottleLine"
+  "University/Labs": "RiInkBottleLine",
+  "Linux Console": "RiTerminalLine"
 }

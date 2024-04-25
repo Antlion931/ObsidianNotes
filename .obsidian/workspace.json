@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/ICMP.md",
+                "file": "English flashcards.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/ICMP.md",
+                "file": "English flashcards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/ICMP.md",
+                "file": "English flashcards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definitions/ICMP.md"
+                "file": "English flashcards.md"
               }
             }
           }
@@ -147,10 +147,20 @@
   },
   "active": "a980500e59250fff",
   "lastOpenFiles": [
-    "Linux console/ping.md",
-    "Definitions/ICMP.md",
-    "TODO.md",
     "Daily notes/2024-04-24.md",
+    "Daily notes/2024-04-23.md",
+    "Daily notes/2024-04-25.md",
+    "TODO.md",
+    "Books/PL Gynvael Coldwind - Zrozumieć Programowanie.md",
+    "Linux Console/visudo.md",
+    "Definitions/sudoers.md",
+    "Definitions/PAM.md",
+    "Linux Console/su.md",
+    "Definitions/avahi deamon.md",
+    "Linux Console/sudo.md",
+    "Linux Console/rg.md",
+    "Definitions/ICMP.md",
+    "Linux Console/ping.md",
     "University/Lectures/About Turing Machines.md",
     "Definitions/deterministic Turing machine.md",
     "University/6th Semester - Theoretical informatics.md",
@@ -158,21 +168,11 @@
     "University/Lectures/About Post correspondence problem.md",
     "University/Labs/About security of emails.md",
     "University/6th Semester - Cybersecurity.md",
-    "Daily notes/2024-04-23.md",
     "Definitions/TSL.md",
     "University/6th Semester - Programming paradigms.md",
     "University/6th Semester - Algebra.md",
     "Daily notes/2024-04-22.md",
     "Daily notes/2024-04-21.md",
-    "Linux console/hashcat.md",
-    "Linux console/cargo.md",
-    "Linux console/less.md",
-    "Linux console/lsof.md",
-    "Definitions/avahi deamon.md",
-    "Linux console/gnatmake.md",
-    "Path to cybersecurity expert/WiFi in terms of cybersecurity.md",
-    "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
-    "Definitions/wifi.md",
     "Images/network_socket.png",
     "Images/gaussian_integers.png",
     "Images/UART_sending_data.png",
@@ -191,7 +191,7 @@
     "Daily notes",
     "Programming challenges",
     "Untitled.canvas",
-    "Linux console",
+    "Linux Console",
     "Path to cybersecurity expert",
     "Images"
   ]
