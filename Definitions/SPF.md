@@ -9,6 +9,8 @@ If you are a server, it is pretty simple, but if you want to check [[IP]] of sen
 
 There you can see that [[SPF]] test have passed, and `54.240.106.159` is permitted sender. 
 
-## 2. Check [[
+## 2. Check from which domain it claims to be
+To check that you need 
+
 
 - [ ] #todo Write about [[SPF]] 
