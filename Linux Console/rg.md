@@ -5,4 +5,4 @@
 ## Example
 > [[rg]] "\[ab\]\[cd\]"
 
-It will print all lines group by files, which contains pattern `[ab][cd]`, so one letter is either `a` or `b`, followed by either `c` and `c`.
+It will print all lines group by files, which contains pattern `[ab][cd]`, so one letter is either `a` or `b`, followed by either `c` and `c`. Search is started in current directory.

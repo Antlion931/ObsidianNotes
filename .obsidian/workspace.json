@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37edae1cfc974148",
+        "id": "4ef4d7b765bf0664",
         "type": "tabs",
         "children": [
           {
-            "id": "a25b367b15b4d2ca",
+            "id": "85785c841812847c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/UART.md",
+                "file": "Linux Console/lsof.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/UART.md",
+                "file": "Linux Console/lsof.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/UART.md",
+                "file": "Linux Console/lsof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definitions/UART.md"
+                "file": "Linux Console/lsof.md"
               }
             }
           }
@@ -145,10 +145,21 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "a25b367b15b4d2ca",
+  "active": "85785c841812847c",
   "lastOpenFiles": [
     "TODO.md",
+    "University/Lectures/E_7.md",
+    "University/6th Semester - Embedded systems.md",
+    "Linux Console/stderr.md",
+    "Linux Console/stdin.md",
+    "Linux Console/stdout.md",
+    "Linux Console/pipe.md",
     "Daily notes/2024-05-08.md",
+    "Linux Console/rg.md",
+    "Linux Console/grep.md",
+    "Linux Console/sudo.md",
+    "Linux Console/visudo.md",
+    "Definitions/UART.md",
     "University/Lectures/E_3.md",
     "Linux Console/gcc.md",
     "Definitions/GNU Compiler Collection.md",
@@ -156,7 +167,6 @@
     "Linux Console/make.md",
     "Linux Console/cmake.md",
     "University/Labs/About Wrappers.md",
-    "Definitions/UART.md",
     "Images/UART_data_packet.png",
     "Definitions/PGP.md",
     "Daily notes/2024-05-02.md",
@@ -165,16 +175,7 @@
     "University/6th Semester - Cybersecurity.md",
     "Daily notes/2024-04-25.md",
     "Daily notes/2024-04-24.md",
-    "Daily notes/2024-04-23.md",
-    "University/Labs/About object oriented languages.md",
-    "Definitions/DNS.md",
-    "Definitions/SPF.md",
-    "Linux Console/visudo.md",
-    "Linux Console/echo.md",
     "text.txt",
-    "Linux Console/rg.md",
-    "Definitions/domain.md",
-    "Linux Console/loops in shell.md",
     "Images/network_socket.png",
     "Images/gaussian_integers.png",
     "Images/UART_sending_data.png",
