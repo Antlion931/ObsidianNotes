@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a10b2805e55c960c",
+        "id": "37edae1cfc974148",
         "type": "tabs",
         "children": [
           {
-            "id": "7ce27d94a45de678",
+            "id": "a25b367b15b4d2ca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "University/6th Semester - Programming paradigms.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "University/6th Semester - Programming paradigms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "University/6th Semester - Programming paradigms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "University/6th Semester - Programming paradigms.md"
+              }
             }
           }
         ]
@@ -137,12 +145,17 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "7ce27d94a45de678",
+  "active": "a25b367b15b4d2ca",
   "lastOpenFiles": [
+    "TODO.md",
+    "University/6th Semester - Cybersecurity.md",
+    "Daily notes/2024-04-25.md",
+    "Daily notes/2024-04-24.md",
+    "Daily notes/2024-04-23.md",
+    "University/Labs/About object oriented languages.md",
+    "University/6th Semester - Programming paradigms.md",
     "Definitions/DNS.md",
     "Definitions/SPF.md",
-    "TODO.md",
-    "Daily notes/2024-04-25.md",
     "Linux Console/visudo.md",
     "Linux Console/echo.md",
     "text.txt",
@@ -161,11 +174,6 @@
     "Linux Console/ls.md",
     "Linux Console/less.md",
     "Linux Console/hashcat.md",
-    "Linux Console/gnatmake.md",
-    "Linux Console/gcc.md",
-    "Linux Console/dig.md",
-    "Linux Console/cmake.md",
-    "Linux Console/clear.md",
     "Images/network_socket.png",
     "Images/gaussian_integers.png",
     "Images/UART_sending_data.png",

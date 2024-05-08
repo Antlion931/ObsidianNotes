@@ -11,7 +11,7 @@
       "query": "tag:#todo",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 16766208
       }
     }
   ],
@@ -20,11 +20,11 @@
   "textFadeMultiplier": -1.9,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.497395833333333,
+  "collapse-forces": false,
+  "centerStrength": 0.653645833333333,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 203,
-  "scale": 0.12730074765950036,
+  "linkDistance": 30,
+  "scale": 0.11439641707394486,
   "close": true
 }
