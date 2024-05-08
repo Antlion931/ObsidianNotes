@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-05-08.md",
+                "file": "Definitions/UART.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-05-08.md",
+                "file": "Definitions/UART.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-05-08.md",
+                "file": "Definitions/UART.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-05-08.md"
+                "file": "Definitions/UART.md"
               }
             }
           }
@@ -147,11 +147,15 @@
   },
   "active": "a25b367b15b4d2ca",
   "lastOpenFiles": [
-    "Daily notes/2024-05-02.md",
+    "Images/UART_data_packet.png",
+    "University/Lectures/E_3.md",
+    "Definitions/UART.md",
+    "TODO.md",
     "Daily notes/2024-05-08.md",
+    "Definitions/PGP.md",
+    "Daily notes/2024-05-02.md",
     "Daily notes/2024-05-07.md",
     "University/6th Semester - Programming paradigms.md",
-    "TODO.md",
     "University/6th Semester - Cybersecurity.md",
     "Daily notes/2024-04-25.md",
     "Daily notes/2024-04-24.md",
@@ -170,10 +174,6 @@
     "Linux Console/su.md",
     "Linux Console/reset.md",
     "Linux Console/pipe.md",
-    "Linux Console/ping.md",
-    "Linux Console/more.md",
-    "Linux Console/make.md",
-    "Linux Console/lsof.md",
     "Images/network_socket.png",
     "Images/gaussian_integers.png",
     "Images/UART_sending_data.png",

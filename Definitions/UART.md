@@ -9,4 +9,9 @@ Before transmitting/receiving data, you need to choose or set some baud rate (us
 
 ![[UART_sending_data.png]]
 
+## Data Packets
+Data is transited in packets.
+![[UART_data_packet.png]]
+
+Data frame could be 8 bit long if parity bit is used, or as long as 9 bits if there is no parity bit. 
 - [ ] #todo Write about packets, based on [this article](https://www.circuitbasics.com/basics-uart-communication/)
