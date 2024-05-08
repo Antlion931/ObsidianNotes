@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/6th Semester - Programming paradigms.md",
+                "file": "Daily notes/2024-05-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/6th Semester - Programming paradigms.md",
+                "file": "Daily notes/2024-05-08.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/6th Semester - Programming paradigms.md",
+                "file": "Daily notes/2024-05-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/6th Semester - Programming paradigms.md"
+                "file": "Daily notes/2024-05-08.md"
               }
             }
           }
@@ -147,13 +147,16 @@
   },
   "active": "a25b367b15b4d2ca",
   "lastOpenFiles": [
+    "Daily notes/2024-05-02.md",
+    "Daily notes/2024-05-08.md",
+    "Daily notes/2024-05-07.md",
+    "University/6th Semester - Programming paradigms.md",
     "TODO.md",
     "University/6th Semester - Cybersecurity.md",
     "Daily notes/2024-04-25.md",
     "Daily notes/2024-04-24.md",
     "Daily notes/2024-04-23.md",
     "University/Labs/About object oriented languages.md",
-    "University/6th Semester - Programming paradigms.md",
     "Definitions/DNS.md",
     "Definitions/SPF.md",
     "Linux Console/visudo.md",
@@ -171,9 +174,6 @@
     "Linux Console/more.md",
     "Linux Console/make.md",
     "Linux Console/lsof.md",
-    "Linux Console/ls.md",
-    "Linux Console/less.md",
-    "Linux Console/hashcat.md",
     "Images/network_socket.png",
     "Images/gaussian_integers.png",
     "Images/UART_sending_data.png",
