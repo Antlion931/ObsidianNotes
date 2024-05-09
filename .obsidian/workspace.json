@@ -11,8 +11,12 @@
             "id": "85785c841812847c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2024-05-09.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily notes/2024-05-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily notes/2024-05-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily notes/2024-05-09.md"
+              }
             }
           }
         ]
@@ -139,6 +147,8 @@
   },
   "active": "85785c841812847c",
   "lastOpenFiles": [
+    "Daily notes/2024-05-08.md",
+    "Daily notes/2024-05-09.md",
     "Linux Console/lsof.md",
     "TODO.md",
     "University/Lectures/E_7.md",
@@ -147,7 +157,6 @@
     "Linux Console/stdin.md",
     "Linux Console/stdout.md",
     "Linux Console/pipe.md",
-    "Daily notes/2024-05-08.md",
     "Linux Console/rg.md",
     "Linux Console/grep.md",
     "Linux Console/sudo.md",
@@ -166,7 +175,6 @@
     "Daily notes/2024-05-07.md",
     "University/6th Semester - Programming paradigms.md",
     "University/6th Semester - Cybersecurity.md",
-    "Daily notes/2024-04-25.md",
     "text.txt",
     "Images/network_socket.png",
     "Images/gaussian_integers.png",
