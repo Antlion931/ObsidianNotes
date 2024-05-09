@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Definitions/stdout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7f5d301f1925f40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Daily notes/2024-05-09.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,17 +158,20 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "85785c841812847c",
+  "active": "e7f5d301f1925f40",
   "lastOpenFiles": [
-    "Daily notes/2024-05-08.md",
-    "Daily notes/2024-05-09.md",
-    "Linux Console/lsof.md",
     "TODO.md",
+    "Definitions/file descriptor.md",
+    "Definitions/stdout.md",
+    "Definitions/stderr.md",
+    "Images/file-descriptor.jpg",
+    "Images/file-descriptor.webp",
+    "Daily notes/2024-05-09.md",
+    "Daily notes/2024-05-08.md",
+    "Linux Console/lsof.md",
     "University/Lectures/E_7.md",
     "University/6th Semester - Embedded systems.md",
-    "Linux Console/stderr.md",
-    "Linux Console/stdin.md",
-    "Linux Console/stdout.md",
+    "Definitions/stdin.md",
     "Linux Console/pipe.md",
     "Linux Console/rg.md",
     "Linux Console/grep.md",
@@ -174,7 +190,6 @@
     "Daily notes/2024-05-02.md",
     "Daily notes/2024-05-07.md",
     "University/6th Semester - Programming paradigms.md",
-    "University/6th Semester - Cybersecurity.md",
     "text.txt",
     "Images/network_socket.png",
     "Images/gaussian_integers.png",
@@ -182,8 +197,6 @@
     "Images/UART_in_work.png",
     "Images/orbit_of_planets.jpg",
     "Images/how_ports_work.jpg",
-    "Images/common_port_nummbers.png",
-    "Images/simplex_and_duplex.png",
     "University/Labs",
     "Images/tłum. 09.04.Albert.zw_96_2020-porozumienie.docx",
     "Definitions/deterministic Turing machine.md~",
