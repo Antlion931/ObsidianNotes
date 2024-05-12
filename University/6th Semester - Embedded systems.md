@@ -9,10 +9,12 @@
 [[E_7]]
 
 # Project
+
+- [ ] Update use case diagram
 ## State diagram
 - [ ] Printing
 - [ ] Loading filament
-- [ ] Heating printer
+- [x] Heating printer
 - [x] Levelling the table
 - [x] Power outage
 - [ ] Pause printing
