@@ -1,4 +1,6 @@
 #English
+poziomowanie | levelling
+przerwa w zasilaniu | power outage
 zautomatyzować | automate
 funkcja rekurencyjna | recursive function
 alfa | alpha
