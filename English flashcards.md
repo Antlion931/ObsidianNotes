@@ -37,7 +37,7 @@ odpowiedniość | correspondence
 przenikać się | intermingle
 jednoznaczny | unambiguous
 marnotrawstwo | wasteful
-przybliżyć | approximate
+przybliżać | approximate
 głupi | daft
 zaniepokojony | concerned
 okoliczności | circumstances

@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-05-12.md",
+                "file": "English flashcards.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-05-12.md",
+                "file": "English flashcards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-05-12.md"
+                "file": "English flashcards.md"
               }
             }
           }
@@ -157,12 +158,12 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "e7f5d301f1925f40",
+  "active": "9eca4bb3b5eb7029",
   "lastOpenFiles": [
+    "Daily notes/2024-05-12.md",
     "University/6th Semester - Embedded systems.md",
     "English flashcards.md",
     "Definitions/stdout.md",
-    "Daily notes/2024-05-12.md",
     "Daily notes/2024-05-09.md",
     "TODO.md",
     "Definitions/file descriptor.md",
