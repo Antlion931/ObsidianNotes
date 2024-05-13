@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/6th Semester - Embedded systems.md",
+                "file": "Daily notes/2024-05-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/6th Semester - Embedded systems.md",
+                "file": "Daily notes/2024-05-13.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/6th Semester - Embedded systems.md",
+                "file": "Daily notes/2024-05-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/6th Semester - Embedded systems.md"
+                "file": "Daily notes/2024-05-13.md"
               }
             }
           }
@@ -147,10 +147,10 @@
   },
   "active": "9eca4bb3b5eb7029",
   "lastOpenFiles": [
+    "University/6th Semester - Embedded systems.md",
     "Daily notes/2024-05-13.md",
     "English flashcards.md",
     "Daily notes/2024-05-12.md",
-    "University/6th Semester - Embedded systems.md",
     "Definitions/stdout.md",
     "Daily notes/2024-05-09.md",
     "TODO.md",
