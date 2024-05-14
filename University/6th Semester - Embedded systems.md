@@ -11,6 +11,7 @@
 # Project
 
 - [ ] Update use case diagram
+- [ ] Delete accidental sfastic in component diagram
 ## State diagram
 - [ ] Printing
 - [x] Loading filament
