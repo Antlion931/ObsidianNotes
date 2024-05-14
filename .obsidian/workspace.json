@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/6th Semester - Embedded systems.md",
+                "file": "Daily notes/2024-05-14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/6th Semester - Embedded systems.md",
+                "file": "Daily notes/2024-05-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/6th Semester - Embedded systems.md"
+                "file": "Daily notes/2024-05-14.md"
               }
             }
           }
@@ -159,8 +158,9 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "543d5b62b398f32b",
+  "active": "9eca4bb3b5eb7029",
   "lastOpenFiles": [
+    "University/6th Semester - Embedded systems.md",
     "Daily notes/2024-05-14.md",
     "University/Labs/About RSA and digital signature.md",
     "Definitions/RSA.md",
@@ -169,7 +169,6 @@
     "TODO.md",
     "Definitions/UART.md",
     "Daily notes/2024-05-13.md",
-    "University/6th Semester - Embedded systems.md",
     "Daily notes/2024-05-12.md",
     "Definitions/stdout.md",
     "Daily notes/2024-05-09.md",
