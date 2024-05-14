@@ -11,15 +11,15 @@
 # Project
 
 - [ ] Update use case diagram
-- [ ] Delete accidental sfastic in component diagram
+- [x] Delete accidental sfastic in component diagram
 ## State diagram
 - [ ] Printing
 - [x] Loading filament
 - [x] Heating printer
 - [x] Levelling the table
 - [x] Power outage
-- [ ] Pause printing
-- [ ] Stop printing
+- [x] Pause printing
+- [x] Stop printing
 - [x] Calibration(Wizard)
 - [x] Autotest
 - [x] Calibration XYZ
