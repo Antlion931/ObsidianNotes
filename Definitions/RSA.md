@@ -5,9 +5,9 @@
 ## Generating keys
 1. Choose two large prime numbers $p$ and $q$.
 2. Compute module of operations as $n = p \times q$.
-3. Compute Carmichael's totient function $\lambda (n) = (q - 1)(p - 1)$
-4. Choose $e$ where $1 < e < \lambda(n)$ and $e$ is coprime to $\lambda(n)$.
-5. Determine $d = e^{-1} ( \mod \lambda(n))$.
+3. Compute Carmichael's totient function $\phi (n) = (q - 1)(p - 1)$
+4. Choose $e$ where $1 < e < \phi(n)$ and $e$ is coprime to $\phi(n)$.
+5. Determine $d = e^{-1} ( \mod \phi(n))$.
 
 Your public key is pair $(n, e)$.
 Your private key is pair $(n, d)$.
