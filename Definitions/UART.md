@@ -16,8 +16,4 @@ Data is transited in packets.
 Data frame could be 8 bit long if parity bit is used, or as long as 9 bits if there is no parity bit.
 
 ### Why there is a stop bit?
-It is good question, if every packet is the same size, and we already have a start bit to synchronise devices, why there is a stop bit necessary? It wouldn't be necessary if we lived in perfect world, but we are not living in one. Connection could be started while there is already packet in wire, or start bit was missing.
-
-Take a look at this: **0 xxxx xxxx 1 ...**
-We can be almost sure that it is correct packet, however if we got something like this: **0 xxxx xxxx 0 ...**
-We know that it is not whole packet, so we left shift, and try to match our pattern of **start(0) data(xxxx xxxx) end(1)**. So it is used to synchronise devices and another way of checking if data was corrupted.
+It is good question, if every packet is the same size, and we already have a start bit to synchronise devices, why there is a stop bit necessary? It would work in ideal world, however receiver might need some time to get ready to read new packet of data, that's why there is stop bit that might be 1, 2 or even 1.5 bit long.
