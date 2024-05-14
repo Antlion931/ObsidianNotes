@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Labs/About RSA and digital signature.md",
+                "file": "Daily notes/2024-05-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Labs/About RSA and digital signature.md",
+                "file": "Daily notes/2024-05-14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Labs/About RSA and digital signature.md",
+                "file": "Daily notes/2024-05-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Labs/About RSA and digital signature.md"
+                "file": "Daily notes/2024-05-14.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "9eca4bb3b5eb7029",
   "lastOpenFiles": [
-    "Definitions/RSA.md",
     "University/Labs/About RSA and digital signature.md",
+    "Definitions/RSA.md",
     "Daily notes/2024-05-14.md",
     "University/6th Semester - Cybersecurity.md",
     "English flashcards.md",
