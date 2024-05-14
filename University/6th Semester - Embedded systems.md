@@ -13,7 +13,7 @@
 - [ ] Update use case diagram
 ## State diagram
 - [ ] Printing
-- [ ] Loading filament
+- [x] Loading filament
 - [x] Heating printer
 - [x] Levelling the table
 - [x] Power outage
