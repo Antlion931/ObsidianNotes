@@ -22,7 +22,7 @@
 - [x] Calibration(Wizard)
 - [x] Autotest
 - [x] Calibration XYZ
-- [ ] Unloading filament
+- [x] Unloading filament
 
 # Links
 [labs_and_exercises](https://cs.pwr.edu.pl/blaskiewicz/?id=embedded-2024)
