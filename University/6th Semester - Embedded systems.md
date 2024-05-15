@@ -13,7 +13,7 @@
 - [ ] Update use case diagram
 - [x] Delete accidental sfastic in component diagram
 ## State diagram
-- [ ] Printing
+- [x] Printing
 - [x] Loading filament
 - [x] Heating printer
 - [x] Levelling the table
