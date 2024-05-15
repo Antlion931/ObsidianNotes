@@ -25,5 +25,8 @@
 - [x] Calibration XYZ
 - [x] Unloading filament
 
+# Labs
+[[Car]]
+
 # Links
 [labs_and_exercises](https://cs.pwr.edu.pl/blaskiewicz/?id=embedded-2024)

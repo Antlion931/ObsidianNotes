@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-05-15.md",
+                "file": "University/Labs/Car.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "7afea62fcb191eeb",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-05-15.md",
+                "file": "University/Labs/Car.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-05-15.md",
+                "file": "University/Labs/Car.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-05-15.md"
+                "file": "University/Labs/Car.md"
               }
             }
           }
@@ -148,10 +147,11 @@
   },
   "active": "f20b7c5d20679215",
   "lastOpenFiles": [
+    "University/6th Semester - Embedded systems.md",
+    "University/Labs/Car.md",
     "Daily notes/2024-05-15.md",
     "Daily notes/daily notes template.md",
     "Daily notes/2024-05-14.md",
-    "University/6th Semester - Embedded systems.md",
     "University/Labs/About RSA and digital signature.md",
     "Definitions/RSA.md",
     "University/6th Semester - Cybersecurity.md",
@@ -175,7 +175,6 @@
     "Linux Console/grep.md",
     "Linux Console/sudo.md",
     "Linux Console/visudo.md",
-    "University/Lectures/E_3.md",
     "Images/GCC_Compiler_design.png",
     "Images/UART_data_packet.png",
     "text.txt",
