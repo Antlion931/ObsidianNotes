@@ -10,7 +10,7 @@
 
 # Project
 
-- [ ] Update use case diagram
+- [x] Update use case diagram
 - [x] Delete accidental sfastic in component diagram
 ## State diagram
 - [x] Printing
