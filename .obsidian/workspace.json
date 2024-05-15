@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Labs/Car.md",
+                "file": "Daily notes/2024-05-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Labs/Car.md",
+                "file": "Daily notes/2024-05-15.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Labs/Car.md",
+                "file": "Daily notes/2024-05-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Labs/Car.md"
+                "file": "Daily notes/2024-05-15.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   "active": "f20b7c5d20679215",
   "lastOpenFiles": [
     "University/6th Semester - Embedded systems.md",
+    "University/6th Semester - Programming paradigms.md",
     "University/Labs/Car.md",
     "Daily notes/2024-05-15.md",
     "Daily notes/daily notes template.md",
@@ -174,7 +175,6 @@
     "Linux Console/rg.md",
     "Linux Console/grep.md",
     "Linux Console/sudo.md",
-    "Linux Console/visudo.md",
     "Images/GCC_Compiler_design.png",
     "Images/UART_data_packet.png",
     "text.txt",
