@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-05-16.md",
+                "file": "English flashcards.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-05-16.md",
+                "file": "English flashcards.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-05-16.md",
+                "file": "English flashcards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-05-16.md"
+                "file": "English flashcards.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "f20b7c5d20679215",
   "lastOpenFiles": [
-    "Daily notes/2024-05-15.md",
     "Daily notes/2024-05-16.md",
+    "Daily notes/2024-05-15.md",
     "University/6th Semester - Embedded systems.md",
     "University/6th Semester - Programming paradigms.md",
     "University/Labs/Car.md",

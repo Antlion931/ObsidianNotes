@@ -144,8 +144,8 @@ natomiast | whereas
 iloraz | quotient
 poprzedzone | precede
 zaśmiecony | garbled
-niepotrzebne | unnecessary
-numeryczne | numerically
+niepotrzebnie | unnecessary
+numerycznie | numerically
 niż | than
 gadatliwość | verbosity
 skrócony | abbreviated
