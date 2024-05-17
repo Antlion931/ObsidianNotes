@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-05-16.md",
+                "file": "Daily notes/2024-05-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-05-16.md",
+                "file": "Daily notes/2024-05-17.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-05-16.md",
+                "file": "Daily notes/2024-05-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-05-16.md"
+                "file": "Daily notes/2024-05-17.md"
               }
             }
           }
@@ -147,9 +147,10 @@
   },
   "active": "f20b7c5d20679215",
   "lastOpenFiles": [
+    "Daily notes/2024-05-16.md",
+    "Daily notes/2024-05-17.md",
     "TODO.md",
     "English flashcards.md",
-    "Daily notes/2024-05-16.md",
     "Daily notes/2024-05-15.md",
     "University/6th Semester - Embedded systems.md",
     "University/6th Semester - Programming paradigms.md",
@@ -174,7 +175,6 @@
     "Definitions/stdin.md",
     "Linux Console/pipe.md",
     "Linux Console/rg.md",
-    "Linux Console/grep.md",
     "Images/GCC_Compiler_design.png",
     "Images/UART_data_packet.png",
     "text.txt",
