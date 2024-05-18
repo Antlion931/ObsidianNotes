@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1f5bf28edad9aa85",
+        "id": "43f9f09ffa6ec5d0",
         "type": "tabs",
         "children": [
           {
-            "id": "06e605f79d790275",
+            "id": "4de096cd3fd67a85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/domain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6be406db01e1a03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/SPF.md",
+                "file": "Daily notes/2024-05-18.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/SPF.md",
+                "file": "Daily notes/2024-05-18.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/SPF.md",
+                "file": "Daily notes/2024-05-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definitions/SPF.md"
+                "file": "Daily notes/2024-05-18.md"
               }
             }
           }
@@ -158,14 +145,20 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "a6be406db01e1a03",
+  "active": "4de096cd3fd67a85",
   "lastOpenFiles": [
-    "Definitions/domain.md",
-    "Images/howdomainswork.png",
-    "Definitions/SPF.md",
     "TODO.md",
-    "English/201-300.md",
+    "Daily notes/2024-05-17.md",
+    "University/Lectures/Recap of algebra.md",
+    "University/Lectures/How to find Gröbner basis.md",
     "Daily notes/2024-05-18.md",
+    "Daily notes/2024-04-09.md",
+    "Daily notes/2024-04-10.md",
+    "English/201-300.md",
+    "Daily notes/2024-04-17.md",
+    "Definitions/domain.md",
+    "Definitions/SPF.md",
+    "Images/howdomainswork.png",
     "Definitions/PAM.md",
     "Definitions/TSL.md",
     "Definitions/sudoers.md",
@@ -174,7 +167,6 @@
     "English/1-100.md",
     "Linux Console/clear.md",
     "English",
-    "Daily notes/2024-05-17.md",
     "Daily notes/2024-05-16.md",
     "Daily notes/2024-05-15.md",
     "University/6th Semester - Embedded systems.md",
@@ -183,10 +175,6 @@
     "Daily notes/daily notes template.md",
     "Daily notes/2024-05-14.md",
     "University/Labs/About RSA and digital signature.md",
-    "Definitions/RSA.md",
-    "University/6th Semester - Cybersecurity.md",
-    "Definitions/UART.md",
-    "Daily notes/2024-05-13.md",
     "Images/file-descriptor.jpg",
     "Images/file-descriptor.webp",
     "Images/GCC_Compiler_design.png",

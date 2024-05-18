@@ -9,10 +9,7 @@ If you are a server, it is pretty simple, but if you want to check [[IP]] of sen
 
 There you can see that [[SPF]] test have passed, and `54.240.106.159` is permitted sender. 
 
-## 2. Check from which domain it claims to be
-It 
-
-## 3. Ask [[DNS]] server
+## 2. Ask [[DNS]] server
 For example using a command:
 
 >[[dig]] netflix.com txt

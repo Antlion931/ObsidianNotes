@@ -1,69 +1,100 @@
-# Daily notes
 
 ```dataviewjs
 const calendarData = {
-colors: {
-red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
-},
-entries: []
+    color: "default",
+    entries: []
 }
 
-for(let page of dv.pages('"Daily notes"').where(p=>p["Daily notes"])){
-calendarData.entries.push({
-date: page.file.name,
-intensity: page["Daily notes"],
-content: await dv.span(`[](${page.file.name})`), //for hover preview
+function add_them(p) {
+    let list = ["English", "Algebra", "Path to cybersecurity expert",
+    "Cybersecurity", "Embedded systems", "Theoretical informatics", "Programming challenges", "Book", "Programming paradigms"];
+    let sum = 0;
+
+    for (let l of list) {
+        if (typeof p[l] !== 'undefined') {
+            sum += p[l];
+        }
+    }
+    
+    return sum;
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>add_them(p))){
+    calendarData.entries.push({
+    date: page.file.name,
+    intensity: add_them(page),
+    content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
 }
 
 renderHeatmapCalendar(this.container, calendarData)
-
 ```
+
 # Workout
 
 ```dataviewjs
 const calendarData = {
-colors: {
-red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
-},
-entries: []
+    color: "default",
+    entries: []
 }
 
-for(let page of dv.pages('"Daily notes"').where(p=>p["Workout"])){
-calendarData.entries.push({
-date: page.file.name,
-intensity: page["Workout"],
-content: await dv.span(`[](${page.file.name})`), //for hover preview
+function add_them(p) {
+    let list = ["Workout"];
+    let sum = 0;
+
+    for (let l of list) {
+        if (typeof p[l] !== 'undefined') {
+            sum += p[l];
+        }
+    }
+    
+    return sum;
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>add_them(p))){
+    calendarData.entries.push({
+    date: page.file.name,
+    intensity: add_them(page),
+    content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
 }
 
 renderHeatmapCalendar(this.container, calendarData)
-
 ```
 
 # English
 
 ```dataviewjs
 const calendarData = {
-colors: {
-red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
-},
-entries: []
+    color: "default",
+    entries: []
 }
 
-for(let page of dv.pages('"Daily notes"').where(p=>p["English"])){
-calendarData.entries.push({
-date: page.file.name,
-intensity: page["English"],
-content: await dv.span(`[](${page.file.name})`), //for hover preview
+function add_them(p) {
+    let list = ["English"];
+    let sum = 0;
+
+    for (let l of list) {
+        if (typeof p[l] !== 'undefined') {
+            sum += p[l];
+        }
+    }
+    
+    return sum;
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>add_them(p))){
+    calendarData.entries.push({
+    date: page.file.name,
+    intensity: add_them(page),
+    content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
 }
 
 renderHeatmapCalendar(this.container, calendarData)
-
 ```
 
 #### Translations to make
@@ -76,17 +107,28 @@ TASK WHERE contains(tags, "#translateLater") GROUP BY file.link
 
 ```dataviewjs
 const calendarData = {
-colors: {
-red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
-},
-entries: []
+    color: "default",
+    entries: []
 }
 
-for(let page of dv.pages('"Daily notes"').where(p=>p["Path to cybersecurity expert"])){
-calendarData.entries.push({
-date: page.file.name,
-intensity: page["Path to cybersecurity expert"],
-content: await dv.span(`[](${page.file.name})`), //for hover preview
+function add_them(p) {
+    let list = ["Path to cybersecurity expert"];
+    let sum = 0;
+
+    for (let l of list) {
+        if (typeof p[l] !== 'undefined') {
+            sum += p[l];
+        }
+    }
+    
+    return sum;
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>add_them(p))){
+    calendarData.entries.push({
+    date: page.file.name,
+    intensity: add_them(page),
+    content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
 }
@@ -104,17 +146,28 @@ TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#cybersecurity") GRO
 
 ```dataviewjs
 const calendarData = {
-colors: {
-red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
-},
-entries: []
+    color: "default",
+    entries: []
 }
 
-for(let page of dv.pages('"Daily notes"').where(p=>p["Algebra"])){
-calendarData.entries.push({
-date: page.file.name,
-intensity: page["Algebra"],
-content: await dv.span(`[](${page.file.name})`), //for hover preview
+function add_them(p) {
+    let list = ["Algebra"];
+    let sum = 0;
+
+    for (let l of list) {
+        if (typeof p[l] !== 'undefined') {
+            sum += p[l];
+        }
+    }
+    
+    return sum;
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>add_them(p))){
+    calendarData.entries.push({
+    date: page.file.name,
+    intensity: add_them(page),
+    content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
 }
@@ -131,17 +184,28 @@ TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#algebra") AND conta
 
 ```dataviewjs
 const calendarData = {
-colors: {
-red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
-},
-entries: []
+    color: "default",
+    entries: []
 }
 
-for(let page of dv.pages('"Daily notes"').where(p=>p["Cybersecurity"])){
-calendarData.entries.push({
-date: page.file.name,
-intensity: page["Cybersecurity"],
-content: await dv.span(`[](${page.file.name})`), //for hover preview
+function add_them(p) {
+    let list = ["Cybersecurity"];
+    let sum = 0;
+
+    for (let l of list) {
+        if (typeof p[l] !== 'undefined') {
+            sum += p[l];
+        }
+    }
+    
+    return sum;
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>add_them(p))){
+    calendarData.entries.push({
+    date: page.file.name,
+    intensity: add_them(page),
+    content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
 }
@@ -157,19 +221,29 @@ TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#cybersecurity") AND
 # Embedded systems
 
 ```dataviewjs
-
 const calendarData = {
-colors: {
-red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
-},
-entries: []
+    color: "default",
+    entries: []
 }
 
-for(let page of dv.pages('"Daily notes"').where(p=>p["Embedded systems"])){
-calendarData.entries.push({
-date: page.file.name,
-intensity: page["Embedded systems"],
-content: await dv.span(`[](${page.file.name})`), //for hover preview
+function add_them(p) {
+    let list = ["Embedded systems"];
+    let sum = 0;
+
+    for (let l of list) {
+        if (typeof p[l] !== 'undefined') {
+            sum += p[l];
+        }
+    }
+    
+    return sum;
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>add_them(p))){
+    calendarData.entries.push({
+    date: page.file.name,
+    intensity: add_them(page),
+    content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
 }
@@ -185,19 +259,29 @@ TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#embedded") AND cont
 # Theoretical informatics
 
 ```dataviewjs
-
 const calendarData = {
-colors: {
-red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
-},
-entries: []
+    color: "default",
+    entries: []
 }
 
-for(let page of dv.pages('"Daily notes"').where(p=>p["Theoretical informatics"])){
-calendarData.entries.push({
-date: page.file.name,
-intensity: page["Theoretical informatics"],
-content: await dv.span(`[](${page.file.name})`), //for hover preview
+function add_them(p) {
+    let list = ["Theoretical informatics"];
+    let sum = 0;
+
+    for (let l of list) {
+        if (typeof p[l] !== 'undefined') {
+            sum += p[l];
+        }
+    }
+    
+    return sum;
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>add_them(p))){
+    calendarData.entries.push({
+    date: page.file.name,
+    intensity: add_them(page),
+    content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
 }
@@ -214,19 +298,29 @@ TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#theoreticalInformat
 # Programming challenges
 
 ```dataviewjs
-
 const calendarData = {
-colors: {
-red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
-},
-entries: []
+    color: "default",
+    entries: []
 }
 
-for(let page of dv.pages('"Daily notes"').where(p=>p["Programming challenges"])){
-calendarData.entries.push({
-date: page.file.name,
-intensity: page["Programming challenges"],
-content: await dv.span(`[](${page.file.name})`), //for hover preview
+function add_them(p) {
+    let list = ["Programming challenges"];
+    let sum = 0;
+
+    for (let l of list) {
+        if (typeof p[l] !== 'undefined') {
+            sum += p[l];
+        }
+    }
+    
+    return sum;
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>add_them(p))){
+    calendarData.entries.push({
+    date: page.file.name,
+    intensity: add_them(page),
+    content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
 }
@@ -243,19 +337,29 @@ TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#programmingChalleng
 # Book
 
 ```dataviewjs
-
 const calendarData = {
-colors: {
-red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
-},
-entries: []
+    color: "default",
+    entries: []
 }
 
-for(let page of dv.pages('"Daily notes"').where(p=>p["Book"])){
-calendarData.entries.push({
-date: page.file.name,
-intensity: page["Book"],
-content: await dv.span(`[](${page.file.name})`), //for hover preview
+function add_them(p) {
+    let list = ["Book"];
+    let sum = 0;
+
+    for (let l of list) {
+        if (typeof p[l] !== 'undefined') {
+            sum += p[l];
+        }
+    }
+    
+    return sum;
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>add_them(p))){
+    calendarData.entries.push({
+    date: page.file.name,
+    intensity: add_them(page),
+    content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
 }
@@ -271,19 +375,29 @@ TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#book") GROUP BY fil
 # Programming paradigms 
 
 ```dataviewjs
-
 const calendarData = {
-colors: {
-red: ["#ff9e82","#ff7b55","#ff4d1a","#e73400","#bd2a00",]
-},
-entries: []
+    color: "default",
+    entries: []
 }
 
-for(let page of dv.pages('"Daily notes"').where(p=>p["Programming paradigms"])){
-calendarData.entries.push({
-date: page.file.name,
-intensity: page["Programming paradigms"],
-content: await dv.span(`[](${page.file.name})`), //for hover preview
+function add_them(p) {
+    let list = ["Programming paradigms"];
+    let sum = 0;
+
+    for (let l of list) {
+        if (typeof p[l] !== 'undefined') {
+            sum += p[l];
+        }
+    }
+    
+    return sum;
+}
+
+for(let page of dv.pages('"Daily notes"').where(p=>add_them(p))){
+    calendarData.entries.push({
+    date: page.file.name,
+    intensity: add_them(page),
+    content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
 }

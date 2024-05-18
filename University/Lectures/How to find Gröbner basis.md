@@ -1,7 +1,5 @@
 #algebra #pwr #math 
 
-- [ ] #todo Add to recording, $\{\{\alpha_1, \alpha_2, \alpha_3 \}, 7 \}$ in 13 minute
-
 ## Bigger picture
 Imagine planets orbiting some star. After some time, they could line up. This is named syzygy
 

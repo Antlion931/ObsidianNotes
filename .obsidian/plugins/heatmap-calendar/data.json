@@ -1,0 +1,39 @@
+{
+  "year": 2024,
+  "colors": {
+    "default": [
+      "#FF0000",
+      "#FF1A00",
+      "#FF3500",
+      "#FF4F00",
+      "#FF6A00",
+      "#FF8500",
+      "#FF9F00",
+      "#FFBA00",
+      "#FFD500",
+      "#FFF000",
+      "#F0FF00",
+      "#D5FF00",
+      "#BAFF00",
+      "#9FFF00",
+      "#85FF00",
+      "#6AFF00",
+      "#4FFF00",
+      "#35FF00",
+      "#1AFF00",
+      "#00FF00"
+    ]
+  },
+  "entries": [
+    {
+      "date": "1900-01-01",
+      "color": "#7bc96f",
+      "intensity": 5,
+      "content": ""
+    }
+  ],
+  "showCurrentDayBorder": true,
+  "defaultEntryIntensity": 4,
+  "intensityScaleStart": 1,
+  "intensityScaleEnd": 5
+}
