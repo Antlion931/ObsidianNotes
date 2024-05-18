@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Definitions/domain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6be406db01e1a03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/SPF.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Definitions/SPF.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Definitions/SPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Definitions/SPF.md"
               }
             }
           }
@@ -145,13 +158,16 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "06e605f79d790275",
+  "active": "a6be406db01e1a03",
   "lastOpenFiles": [
+    "Definitions/domain.md",
+    "Images/howdomainswork.png",
+    "Definitions/SPF.md",
+    "TODO.md",
     "English/201-300.md",
     "Daily notes/2024-05-18.md",
     "Definitions/PAM.md",
     "Definitions/TSL.md",
-    "TODO.md",
     "Definitions/sudoers.md",
     "Linux Console/visudo.md",
     "English/101-200.md",
@@ -171,9 +187,6 @@
     "University/6th Semester - Cybersecurity.md",
     "Definitions/UART.md",
     "Daily notes/2024-05-13.md",
-    "Daily notes/2024-05-12.md",
-    "Definitions/stdout.md",
-    "Daily notes/2024-05-09.md",
     "Images/file-descriptor.jpg",
     "Images/file-descriptor.webp",
     "Images/GCC_Compiler_design.png",
@@ -184,7 +197,6 @@
     "Images/UART_sending_data.png",
     "Images/UART_in_work.png",
     "Images/orbit_of_planets.jpg",
-    "Images/how_ports_work.jpg",
     "University/Labs",
     "Images/tłum. 09.04.Albert.zw_96_2020-porozumienie.docx",
     "Definitions/deterministic Turing machine.md~",
