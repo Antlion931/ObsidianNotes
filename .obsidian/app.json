@@ -4,5 +4,6 @@
   "autoPairMarkdown": false,
   "autoPairBrackets": false,
   "alwaysUpdateLinks": true,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "showLineNumber": true
 }

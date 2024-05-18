@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#b000b5",
     "recentlyUsedIcons": [
-      "RiInkBottleLine",
-      "RiPuzzle2Line",
-      "RiBookFill",
-      "RiCalendarScheduleLine",
-      "RiBarChartHorizontalLine"
+      "RiNumber0",
+      "RiNumber2",
+      "RiNumber1",
+      "RiH6",
+      "RiEnglishInput"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,7 +31,6 @@
   "University/Lectures": "RiPenNibLine",
   "University/6th Semester - Algebra.md": "RiFunctions",
   "University/6th Semester - Cybersecurity.md": "RiLockPasswordLine",
-  "English flashcards.md": "RiEnglishInput",
   "Definitions": "RiDoubleQuotesR",
   "Images": "RiImageLine",
   "Daily notes": "RiCalendarScheduleLine",
@@ -43,5 +42,9 @@
   "TODO.md": "RiTodoLine",
   "University/6th Semester - Programming paradigms.md": "RiPuzzle2Line",
   "University/Labs": "RiInkBottleLine",
-  "Linux Console": "RiTerminalLine"
+  "Linux Console": "RiTerminalLine",
+  "English": "RiEnglishInput",
+  "English/1-100.md": "RiNumber0",
+  "English/101-200.md": "RiNumber1",
+  "English/201-300.md": "RiNumber2"
 }
