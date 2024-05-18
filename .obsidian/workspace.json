@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55135038c1c573bd",
+        "id": "1f5bf28edad9aa85",
         "type": "tabs",
         "children": [
           {
-            "id": "a31c22910dc68201",
+            "id": "06e605f79d790275",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -145,17 +145,21 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "a31c22910dc68201",
+  "active": "06e605f79d790275",
   "lastOpenFiles": [
     "English/201-300.md",
+    "Daily notes/2024-05-18.md",
+    "Definitions/PAM.md",
+    "Definitions/TSL.md",
+    "TODO.md",
+    "Definitions/sudoers.md",
+    "Linux Console/visudo.md",
     "English/101-200.md",
     "English/1-100.md",
     "Linux Console/clear.md",
     "English",
-    "Daily notes/2024-05-18.md",
     "Daily notes/2024-05-17.md",
     "Daily notes/2024-05-16.md",
-    "TODO.md",
     "Daily notes/2024-05-15.md",
     "University/6th Semester - Embedded systems.md",
     "University/6th Semester - Programming paradigms.md",
@@ -170,12 +174,8 @@
     "Daily notes/2024-05-12.md",
     "Definitions/stdout.md",
     "Daily notes/2024-05-09.md",
-    "Definitions/file descriptor.md",
-    "Definitions/stderr.md",
     "Images/file-descriptor.jpg",
     "Images/file-descriptor.webp",
-    "Daily notes/2024-05-08.md",
-    "Linux Console/lsof.md",
     "Images/GCC_Compiler_design.png",
     "Images/UART_data_packet.png",
     "text.txt",
