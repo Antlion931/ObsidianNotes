@@ -34,4 +34,5 @@ In Polynomials over [[field]], only constants are [[invertible element]].
 
 $x^{-1} = 1/x$
 
-- [ ] #todo continue a lecture from 23 minutes, about [[
+# Definition
+![[euclidean domain]]

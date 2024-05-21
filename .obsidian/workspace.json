@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-05-18.md",
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebb590e91ca6f202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/abelian group.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#translateLater",
+                "query": "interp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-05-18.md",
+                "file": "TODO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-05-18.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-05-18.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -147,14 +159,20 @@
   },
   "active": "4de096cd3fd67a85",
   "lastOpenFiles": [
+    "Daily notes/2024-05-18.md",
+    "University/Lectures/Recap of algebra.md",
+    "University/6th Semester - Algebra.md",
+    "University/Lectures/About Turing Machines.md",
+    "Definitions/euclidean domain.md",
+    "Definitions/Gaussian integers.md",
+    "Definitions/integral domain.md",
+    "English/201-300.md",
+    "Definitions/abelian group.md",
     "TODO.md",
     "Daily notes/2024-05-17.md",
-    "University/Lectures/Recap of algebra.md",
     "University/Lectures/How to find Gröbner basis.md",
-    "Daily notes/2024-05-18.md",
     "Daily notes/2024-04-09.md",
     "Daily notes/2024-04-10.md",
-    "English/201-300.md",
     "Daily notes/2024-04-17.md",
     "Definitions/domain.md",
     "Definitions/SPF.md",
@@ -169,12 +187,6 @@
     "English",
     "Daily notes/2024-05-16.md",
     "Daily notes/2024-05-15.md",
-    "University/6th Semester - Embedded systems.md",
-    "University/6th Semester - Programming paradigms.md",
-    "University/Labs/Car.md",
-    "Daily notes/daily notes template.md",
-    "Daily notes/2024-05-14.md",
-    "University/Labs/About RSA and digital signature.md",
     "Images/file-descriptor.jpg",
     "Images/file-descriptor.webp",
     "Images/GCC_Compiler_design.png",
