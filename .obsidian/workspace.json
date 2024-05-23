@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-05-21.md",
+                "file": "Daily notes/2024-05-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-05-21.md",
+                "file": "Daily notes/2024-05-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-05-21.md",
+                "file": "Daily notes/2024-05-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-05-21.md"
+                "file": "Daily notes/2024-05-23.md"
               }
             }
           }
@@ -159,8 +159,9 @@
   },
   "active": "4de096cd3fd67a85",
   "lastOpenFiles": [
-    "Definitions/RSA.md",
     "Daily notes/2024-05-21.md",
+    "Daily notes/2024-05-23.md",
+    "Definitions/RSA.md",
     "TODO.md",
     "Daily notes/2024-05-18.md",
     "University/Lectures/Recap of algebra.md",
@@ -185,7 +186,6 @@
     "Linux Console/visudo.md",
     "English/101-200.md",
     "English/1-100.md",
-    "Linux Console/clear.md",
     "English",
     "Images/file-descriptor.jpg",
     "Images/file-descriptor.webp",
