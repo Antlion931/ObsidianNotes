@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-05-23.md",
+                "file": "Daily notes/2024-05-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-05-23.md",
+                "file": "Daily notes/2024-05-27.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-05-23.md",
+                "file": "Daily notes/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-05-23.md"
+                "file": "Daily notes/2024-05-27.md"
               }
             }
           }
@@ -147,8 +147,11 @@
   },
   "active": "4de096cd3fd67a85",
   "lastOpenFiles": [
-    "TODO.md",
+    "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
+    "Daily notes/2024-05-27.md",
+    "Path to cybersecurity expert/WiFi in terms of cybersecurity.md",
     "Daily notes/2024-05-23.md",
+    "TODO.md",
     "Daily notes/2024-05-21.md",
     "Definitions/RSA.md",
     "Daily notes/2024-05-18.md",
@@ -171,9 +174,6 @@
     "Definitions/PAM.md",
     "Definitions/TSL.md",
     "Definitions/sudoers.md",
-    "Linux Console/visudo.md",
-    "English/101-200.md",
-    "English/1-100.md",
     "English",
     "Images/file-descriptor.jpg",
     "Images/file-descriptor.webp",
