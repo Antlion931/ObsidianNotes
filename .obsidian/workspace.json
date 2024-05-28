@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/201-300.md",
+                "file": "Daily notes/2024-05-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/201-300.md",
+                "file": "Daily notes/2024-05-28.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/201-300.md",
+                "file": "Daily notes/2024-05-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/201-300.md"
+                "file": "Daily notes/2024-05-28.md"
               }
             }
           }
@@ -147,12 +147,13 @@
   },
   "active": "4de096cd3fd67a85",
   "lastOpenFiles": [
+    "TODO.md",
+    "English/201-300.md",
     "Daily notes/2024-05-28.md",
     "Daily notes/2024-05-27.md",
     "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
     "Path to cybersecurity expert/WiFi in terms of cybersecurity.md",
     "Daily notes/2024-05-23.md",
-    "TODO.md",
     "Daily notes/2024-05-21.md",
     "Definitions/RSA.md",
     "Daily notes/2024-05-18.md",
@@ -162,7 +163,6 @@
     "Definitions/euclidean domain.md",
     "Definitions/Gaussian integers.md",
     "Definitions/integral domain.md",
-    "English/201-300.md",
     "Definitions/abelian group.md",
     "Daily notes/2024-05-17.md",
     "University/Lectures/How to find Gröbner basis.md",
