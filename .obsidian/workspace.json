@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-05-28.md",
+                "file": "Daily notes/2024-05-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-05-28.md",
+                "file": "Daily notes/2024-05-30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-05-28.md",
+                "file": "Daily notes/2024-05-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-05-28.md"
+                "file": "Daily notes/2024-05-30.md"
               }
             }
           }
@@ -147,8 +147,10 @@
   },
   "active": "4de096cd3fd67a85",
   "lastOpenFiles": [
-    "TODO.md",
+    "Daily notes/2024-05-29.md",
+    "Daily notes/2024-05-30.md",
     "Daily notes/2024-05-28.md",
+    "TODO.md",
     "English/201-300.md",
     "Daily notes/2024-05-27.md",
     "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
@@ -172,8 +174,6 @@
     "Definitions/domain.md",
     "Definitions/SPF.md",
     "Images/howdomainswork.png",
-    "Definitions/PAM.md",
-    "Definitions/TSL.md",
     "English",
     "Images/file-descriptor.jpg",
     "Images/file-descriptor.webp",
