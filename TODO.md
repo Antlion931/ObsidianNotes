@@ -103,44 +103,6 @@ renderHeatmapCalendar(this.container, calendarData)
 TASK WHERE contains(tags, "#translateLater") GROUP BY file.link
 ```
 
-# Path to cybersecuirty expert
-
-```dataviewjs
-const calendarData = {
-    color: "default",
-    entries: []
-}
-
-function add_them(p) {
-    let list = ["Path to cybersecurity expert"];
-    let sum = 0;
-
-    for (let l of list) {
-        if (typeof p[l] !== 'undefined') {
-            sum += p[l];
-        }
-    }
-    
-    return sum;
-}
-
-for(let page of dv.pages('"Daily notes"').where(p=>add_them(p))){
-    calendarData.entries.push({
-    date: page.file.name,
-    intensity: add_them(page),
-    content: await dv.span(`[](${page.file.name})`), //for hover preview
-})
-
-}
-
-renderHeatmapCalendar(this.container, calendarData)
-```
-
-#### Things to work on
-
-```dataview
-TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#cybersecurity") GROUP BY file.link
-```
 
 # Algebra
 
@@ -295,83 +257,6 @@ renderHeatmapCalendar(this.container, calendarData)
 TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#theoreticalInformatics") AND contains(file.tags, "#pwr") GROUP BY file.link
 ```
 
-# Programming challenges
-
-```dataviewjs
-const calendarData = {
-    color: "default",
-    entries: []
-}
-
-function add_them(p) {
-    let list = ["Programming challenges"];
-    let sum = 0;
-
-    for (let l of list) {
-        if (typeof p[l] !== 'undefined') {
-            sum += p[l];
-        }
-    }
-    
-    return sum;
-}
-
-for(let page of dv.pages('"Daily notes"').where(p=>add_them(p))){
-    calendarData.entries.push({
-    date: page.file.name,
-    intensity: add_them(page),
-    content: await dv.span(`[](${page.file.name})`), //for hover preview
-})
-
-}
-
-renderHeatmapCalendar(this.container, calendarData)
-```
-
-#### Things to work on
-
-```dataview
-TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#programmingChallenges") GROUP BY file.link
-```
-
-# Book
-
-```dataviewjs
-const calendarData = {
-    color: "default",
-    entries: []
-}
-
-function add_them(p) {
-    let list = ["Book"];
-    let sum = 0;
-
-    for (let l of list) {
-        if (typeof p[l] !== 'undefined') {
-            sum += p[l];
-        }
-    }
-    
-    return sum;
-}
-
-for(let page of dv.pages('"Daily notes"').where(p=>add_them(p))){
-    calendarData.entries.push({
-    date: page.file.name,
-    intensity: add_them(page),
-    content: await dv.span(`[](${page.file.name})`), //for hover preview
-})
-
-}
-
-renderHeatmapCalendar(this.container, calendarData)
-```
-
-#### Things to work on
-
-```dataview
-TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#book") GROUP BY file.link
-```
 # Programming paradigms 
 
 ```dataviewjs
@@ -410,3 +295,16 @@ renderHeatmapCalendar(this.container, calendarData)
 ```dataview
 TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#programmingParadigms") AND contains(file.tags, "#pwr") GROUP BY file.link
 ```
+
+# CV
+
+- [ ] Change mail to some that looks more like your name and surname without numbers
+- [ ] Change colouring to some that is more light
+- [ ] In Links add phone number, github, Linkedin, Github and Youtube and make sure that all of them are in good quality, Changeg name to some that is more fitting
+- [ ] In Education name of a University should be less visible and my major should be more
+- [ ] In Education add a little description of my studies
+- [ ] Under my name up the top add a little text, some called cover letter, it should be written for every job.
+- [ ] Change English to B2
+- [ ] Different pattern for GDPR
+- [ ] In Interests be more thorough, like write about arranging MTG tournaments and Reading books of Brandon Sanderson, and a little bit about them
+- [ ] The main part should be totaly changed, focuse on specific project and technologies that are used in them, You need to go pass through Bot, Key words are important. For sure add Lovetrain, and 2 more depending on Job.

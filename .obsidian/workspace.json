@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-05-31.md",
+                "file": "English/201-300.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc4d2f4ea46e13d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-05-31.md",
+                "file": "TODO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-05-31.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-05-31.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -145,15 +158,17 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "4de096cd3fd67a85",
+  "active": "fc4d2f4ea46e13d3",
   "lastOpenFiles": [
     "English/201-300.md",
-    "English/1-100.md",
+    "TODO.md",
+    "Daily notes/daily notes template.md",
+    "Daily notes/2024-06-08.md",
     "Daily notes/2024-05-31.md",
+    "English/1-100.md",
     "Daily notes/2024-05-30.md",
     "Daily notes/2024-05-29.md",
     "Daily notes/2024-05-28.md",
-    "TODO.md",
     "Daily notes/2024-05-27.md",
     "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
     "Path to cybersecurity expert/WiFi in terms of cybersecurity.md",
@@ -171,8 +186,6 @@
     "Daily notes/2024-05-17.md",
     "University/Lectures/How to find Gröbner basis.md",
     "Daily notes/2024-04-09.md",
-    "Daily notes/2024-04-10.md",
-    "Daily notes/2024-04-17.md",
     "Images/howdomainswork.png",
     "English",
     "Images/file-descriptor.jpg",
