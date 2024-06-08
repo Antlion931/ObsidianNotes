@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "623d60d44f212f80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2024-06-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Daily notes/2024-06-08.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Daily notes/2024-06-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Daily notes/2024-06-08.md"
               }
             }
           }
@@ -158,10 +170,10 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "fc4d2f4ea46e13d3",
+  "active": "623d60d44f212f80",
   "lastOpenFiles": [
-    "English/201-300.md",
     "TODO.md",
+    "English/201-300.md",
     "Daily notes/daily notes template.md",
     "Daily notes/2024-06-08.md",
     "Daily notes/2024-05-31.md",
