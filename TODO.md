@@ -306,5 +306,5 @@ TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#programmingParadigm
 - [x] Under my name up the top add a little text, some called cover letter, it should be written for every job.
 - [x] Change English to B2
 - [x] Different pattern for GDPR
-- [ ] In Interests be more thorough, like write about arranging MTG tournaments and Reading books of Brandon Sanderson, and a little bit about them
-- [ ] The main part should be totaly changed, focuse on specific project and technologies that are used in them, You need to go pass through Bot, Key words are important. For sure add Lovetrain, and 2 more depending on Job.
+- [x] In Interests be more thorough, like write about arranging MTG tournaments and Reading books of Brandon Sanderson, and a little bit about them
+- [x] The main part should be totaly changed, focuse on specific project and technologies that are used in them, You need to go pass through Bot, Key words are important. For sure add Lovetrain, and 2 more depending on Job.
