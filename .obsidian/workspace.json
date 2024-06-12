@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interp",
+                "query": "mathbb{",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +159,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "fc4d2f4ea46e13d3",
+  "active": "85f38a7ac95d00fd",
   "lastOpenFiles": [
     "TODO.md",
     "Daily notes/2024-06-12.md",
