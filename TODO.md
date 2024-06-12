@@ -300,7 +300,10 @@ TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#programmingParadigm
 
 - [x] Change mail to some that looks more like your name and surname without numbers
 - [x] Change colouring to some that is more light
-- [ ] In Links add phone number, github, Linkedin, Github and Youtube and make sure that all of them are in good quality, Changeg name to some that is more fitting
+- [ ] In Links add phone number, github, Linkedin, Github and Youtube and make sure that all of them are in good quality, Change name to some that is more fitting
+    - [ ] Clean up Github, add to README links to studies projects, personal projects and other things like youtube, linkedin, obsidin
+    - [ ] Add README for every major Project
+    - [ ] Make better LinkedIn, write some Article
 - [x] In Education name of a University should be less visible and my major should be more
 - [x] In Education add a little description of my studies
 - [x] Under my name up the top add a little text, some called cover letter, it should be written for every job.
