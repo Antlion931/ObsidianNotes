@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mathbb{",
+                "query": "tag:#pwr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,12 +89,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "7afea62fcb191eeb",
@@ -143,11 +143,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,12 +161,12 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "85f38a7ac95d00fd",
+  "active": "fc4d2f4ea46e13d3",
   "lastOpenFiles": [
-    "TODO.md",
-    "Daily notes/2024-06-12.md",
-    "Daily notes/2024-06-08.md",
     "English/201-300.md",
+    "Daily notes/2024-06-12.md",
+    "TODO.md",
+    "Daily notes/2024-06-08.md",
     "Daily notes/daily notes template.md",
     "Daily notes/2024-05-31.md",
     "English/1-100.md",
