@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-06-12.md",
+                "file": "Daily notes/2024-06-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-06-12.md",
+                "file": "Daily notes/2024-06-13.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-06-12.md",
+                "file": "Daily notes/2024-06-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-06-12.md"
+                "file": "Daily notes/2024-06-13.md"
               }
             }
           }
@@ -163,8 +163,9 @@
   },
   "active": "fc4d2f4ea46e13d3",
   "lastOpenFiles": [
-    "English/201-300.md",
     "Daily notes/2024-06-12.md",
+    "Daily notes/2024-06-13.md",
+    "English/201-300.md",
     "TODO.md",
     "Daily notes/2024-06-08.md",
     "Daily notes/daily notes template.md",
@@ -188,7 +189,6 @@
     "Definitions/integral domain.md",
     "Definitions/abelian group.md",
     "Daily notes/2024-05-17.md",
-    "University/Lectures/How to find Gröbner basis.md",
     "Images/howdomainswork.png",
     "English",
     "Images/file-descriptor.jpg",
