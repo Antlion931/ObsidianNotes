@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-06-13.md",
+                "file": "Definitions/SSL.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "7afea62fcb191eeb",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-06-13.md",
+                "file": "Definitions/SSL.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-06-13.md",
+                "file": "Definitions/SSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-06-13.md"
+                "file": "Definitions/SSL.md"
               }
             }
           }
@@ -163,8 +162,11 @@
   },
   "active": "fc4d2f4ea46e13d3",
   "lastOpenFiles": [
-    "Daily notes/2024-06-12.md",
+    "Definitions/TCP.md",
+    "Definitions/SSL.md",
+    "Definitions/TSL.md",
     "Daily notes/2024-06-13.md",
+    "Daily notes/2024-06-12.md",
     "English/201-300.md",
     "TODO.md",
     "Daily notes/2024-06-08.md",
@@ -186,9 +188,6 @@
     "University/Lectures/About Turing Machines.md",
     "Definitions/euclidean domain.md",
     "Definitions/Gaussian integers.md",
-    "Definitions/integral domain.md",
-    "Definitions/abelian group.md",
-    "Daily notes/2024-05-17.md",
     "Images/howdomainswork.png",
     "English",
     "Images/file-descriptor.jpg",
