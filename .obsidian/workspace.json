@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-06-18.md",
+                "file": "University/Labs/About Wrappers.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pwr",
+                "query": "dio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-06-18.md",
+                "file": "University/Labs/About Wrappers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-06-18.md",
+                "file": "University/Labs/About Wrappers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-06-18.md"
+                "file": "University/Labs/About Wrappers.md"
               }
             }
           }
@@ -162,8 +163,11 @@
   },
   "active": "fc4d2f4ea46e13d3",
   "lastOpenFiles": [
-    "Definitions/SSL.md",
+    "Definitions/Gaussian integers.md",
+    "Definitions/dual numbers.md",
+    "Definitions/embedded system.md",
     "Daily notes/2024-06-18.md",
+    "Definitions/SSL.md",
     "Definitions/TCP.md",
     "Definitions/TSL.md",
     "Daily notes/2024-06-13.md",
@@ -185,9 +189,6 @@
     "Definitions/RSA.md",
     "Daily notes/2024-05-18.md",
     "University/Lectures/Recap of algebra.md",
-    "University/6th Semester - Algebra.md",
-    "University/Lectures/About Turing Machines.md",
-    "Definitions/euclidean domain.md",
     "Images/howdomainswork.png",
     "English",
     "Images/file-descriptor.jpg",
