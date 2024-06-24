@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94164cd641da1c6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "delete-me.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Labs/About Wrappers.md",
+                "file": "delete-me.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Labs/About Wrappers.md",
+                "file": "delete-me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Labs/About Wrappers.md"
+                "file": "delete-me.md"
               }
             }
           }
@@ -161,8 +172,10 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "fc4d2f4ea46e13d3",
+  "active": "94164cd641da1c6f",
   "lastOpenFiles": [
+    "University/Labs/About Wrappers.md",
+    "delete-me.md",
     "Definitions/Gaussian integers.md",
     "Definitions/dual numbers.md",
     "Definitions/embedded system.md",
@@ -187,8 +200,6 @@
     "Daily notes/2024-05-23.md",
     "Daily notes/2024-05-21.md",
     "Definitions/RSA.md",
-    "Daily notes/2024-05-18.md",
-    "University/Lectures/Recap of algebra.md",
     "Images/howdomainswork.png",
     "English",
     "Images/file-descriptor.jpg",
