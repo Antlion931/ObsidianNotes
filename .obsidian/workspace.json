@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f609cf525c618bae",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,12 +147,12 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "f609cf525c618bae",
+  "active": "4de096cd3fd67a85",
   "lastOpenFiles": [
-    "University/Lectures/Mathematical models.md",
-    "TODO.md",
-    "Daily notes/2024-06-27.md",
     "Daily notes/2024-06-28.md",
+    "Daily notes/2024-06-27.md",
+    "TODO.md",
+    "University/Lectures/Mathematical models.md",
     "English/201-300.md",
     "University/Labs/About Wrappers.md",
     "delete-me.md",

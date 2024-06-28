@@ -24,7 +24,6 @@ for(let page of dv.pages('"Daily notes"').where(p=>add_them(p))){
     calendarData.entries.push({
     date: page.file.name,
     intensity: add_them(page),
-    content: await dv.span(`[](${page.file.name})`), //for hover preview
 })
 
 }
@@ -143,3 +142,4 @@ renderHeatmapCalendar(this.container, calendarData)
 ```dataview
 TASK WHERE contains(tags, "#todo") AND contains(file.tags, "#cybersecurity") AND contains(file.tags, "#pwr") GROUP BY file.link
 ```
+
