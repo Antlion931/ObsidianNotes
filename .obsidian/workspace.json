@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "94164cd641da1c6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "delete-me.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "delete-me.md",
+                "file": "University/Labs/About Wrappers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "delete-me.md",
+                "file": "University/Labs/About Wrappers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "delete-me.md"
+                "file": "University/Labs/About Wrappers.md"
               }
             }
           }
@@ -172,10 +160,10 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "94164cd641da1c6f",
+  "active": "fc4d2f4ea46e13d3",
   "lastOpenFiles": [
-    "University/Labs/About Wrappers.md",
     "delete-me.md",
+    "University/Labs/About Wrappers.md",
     "Definitions/Gaussian integers.md",
     "Definitions/dual numbers.md",
     "Definitions/embedded system.md",
