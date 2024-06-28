@@ -7,7 +7,7 @@ const calendarData = {
 
 function add_them(p) {
     let list = ["English", "Algebra", "Path to cybersecurity expert",
-    "Cybersecurity", "Embedded systems", "Theoretical informatics", "Programming challenges", "Book", "Programming paradigms", "CV"];
+    "Cybersecurity", "Embedded systems", "Theoretical informatics", "Programming challenges", "Book", "Programming paradigms", "CV", "Coding"];
     let sum = 0;
 
     for (let l of list) {
