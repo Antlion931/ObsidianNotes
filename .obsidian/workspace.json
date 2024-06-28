@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/daily notes template.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/daily notes template.md",
+                "file": "TODO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/daily notes template.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/daily notes template.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "4de096cd3fd67a85",
   "lastOpenFiles": [
+    "Daily notes/daily notes template.md",
     "TODO.md",
     "Daily notes/2024-06-28.md",
     "Daily notes/2024-06-27.md",
@@ -166,7 +167,6 @@
     "Daily notes/2024-06-13.md",
     "Daily notes/2024-06-12.md",
     "Daily notes/2024-06-08.md",
-    "Daily notes/daily notes template.md",
     "Daily notes/2024-05-31.md",
     "English/1-100.md",
     "Daily notes/2024-05-30.md",
