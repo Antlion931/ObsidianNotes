@@ -17,11 +17,6 @@ Function $I_{n,k} : N^n \rightarrow \mathbb{N}$ is projection of $k$ operand, $I
 ## Characteristic function
 Function $ch_x : \mathbb{N}_n \rightarrow \{0, 1\}$ is characteristic function of $X \subseteq N^n$ if $(\forall x \in X) x \in X \iff ch_x(x) = 0$
 
-- [ ] #translateLater 'klasa'
-- [ ] #translateLater 'częściowych'
-- [ ] #translateLater 'Dziedzina'
-- [ ] #translateLater 'kartezjański'
-- [ ] #translateLater 'wartościach naturalnych'
 ## Primitive recursive functions
 'Klasa' function 'rekurencyjnych' is the smallest in terms of inclusion 'klasa' function 'częściowych', with 'dziedzina' 'zawartych' in 'kartezjański' product of:
 - natural numbers
