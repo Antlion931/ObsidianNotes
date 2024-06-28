@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Daily notes/daily notes template.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Daily notes/daily notes template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Daily notes/daily notes template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Daily notes/daily notes template.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "4de096cd3fd67a85",
   "lastOpenFiles": [
+    "TODO.md",
     "Daily notes/2024-06-28.md",
     "Daily notes/2024-06-27.md",
-    "TODO.md",
     "University/Lectures/Mathematical models.md",
     "English/201-300.md",
     "University/Labs/About Wrappers.md",

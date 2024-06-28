@@ -2,11 +2,9 @@
 Daily notes: true
 Workout: false
 English: 0
-Algebra: 0
 Cybersecurity: 0
-Embedded systems: 0
-Theoretical informatics: 0
-Programming paradigms: 0
+CV: 0
+Coding: 0
 ---
 
 
