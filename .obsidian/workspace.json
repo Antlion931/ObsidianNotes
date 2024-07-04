@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/daily notes template.md",
+                "file": "Daily notes/2024-07-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/daily notes template.md",
+                "file": "Daily notes/2024-07-04.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/daily notes template.md",
+                "file": "Daily notes/2024-07-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/daily notes template.md"
+                "file": "Daily notes/2024-07-04.md"
               }
             }
           }
@@ -149,12 +149,13 @@
   },
   "active": "4de096cd3fd67a85",
   "lastOpenFiles": [
+    "Daily notes/daily notes template.md",
+    "Daily notes/2024-07-04.md",
     "Daily notes/2024-06-29.md",
     "TODO.md",
     "Daily notes/2024-06-28.md",
     "Daily notes/2024-06-27.md",
     "English/201-300.md",
-    "Daily notes/daily notes template.md",
     "University/Lectures/Mathematical models.md",
     "University/Labs/About Wrappers.md",
     "delete-me.md",
@@ -174,7 +175,6 @@
     "Daily notes/2024-05-29.md",
     "Daily notes/2024-05-28.md",
     "Daily notes/2024-05-27.md",
-    "Path to cybersecurity expert/NFC and RFID in terms of cybersecurity.md",
     "Images/howdomainswork.png",
     "English",
     "Images/file-descriptor.jpg",
